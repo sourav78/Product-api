@@ -1,0 +1,1208 @@
+{
+    "earphone": [
+        {
+           "id":1,
+           "name":"FLORID Bass Machine 786 In-Ear Wired Earphones With Mic...",
+           "brand":"FLORID",
+           "price":999,
+           "discount":16,
+           "ratting":3.7,
+           "stock":1574,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kdrpksw0-0/headphone/n/f/8/in-ear-super-extra-bass-headphones-hd-microphones-bm786-florid-original-imafuhp4yechapb5.jpeg?q=70"
+        },
+        {
+           "id":2,
+           "name":"TEMPT Zap X1 in Ear Wired Earphones with Mic | 10mm Pow...",
+           "brand":"TEMPT",
+           "price":379,
+           "discount":70,
+           "ratting":3.7,
+           "stock":53,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/q/v/n/zap-x1-in-ear-wired-earphones-with-mic-10mm-powerful-driver-for-original-imaghntzwtfrargw.jpeg?q=70"
+        },
+        {
+           "id":3,
+           "name":"realme Buds 2 Wired Headset",
+           "brand":"realme",
+           "price":599,
+           "discount":25,
+           "ratting":4.3,
+           "stock":717079,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/k20r8nk0/headphone/7/w/c/realme-buds-2-original-imafhgrckbygsyrk.jpeg?q=70"
+        },
+        {
+           "id":4,
+           "name":"Boult Audio X1-Wired with Dual Dynamic Drivers, BoomX R...",
+           "brand":"Boult",
+           "price":349,
+           "discount":65,
+           "ratting":4.1,
+           "stock":316142,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/9/g/i/-original-imagg5jf6hbjuwsj.jpeg?q=70"
+        },
+        {
+           "id":5,
+           "name":"boAt Bassheads 100 Wired Headset",
+           "brand":"boAt",
+           "price":399,
+           "discount":60,
+           "ratting":4.3,
+           "stock":1338962,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kqwobrk0/headphone/3/n/b/bassheads-100-boat-original-imag4tgdrpxfh3pk.jpeg?q=70"
+        },
+        {
+           "id":6,
+           "name":"APPLE EarPods with Lightning Connector Wired Headset",
+           "brand":"APPLE",
+           "price":1699,
+           "discount":15,
+           "ratting":4.4,
+           "stock":22095,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/jg15aq80/headphone/n/t/7/xrp-iphone-compatible-3-5mm-stereo-earphone-handsfree-for-original-imaepjzmthscubxj.jpeg?q=70"
+        },
+        {
+           "id":7,
+           "name":"summore HF-999 Wired Headset",
+           "brand":"summore",
+           "price":218,
+           "discount":78,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/5/b/hf-999-summore-original-imagraektczghwjx.jpeg?q=70"
+        },
+        {
+           "id":8,
+           "name":"FLORID in-Ear Super Extra Dynamic Bass Headphones (BM00...",
+           "brand":"FLORID",
+           "price":1499,
+           "discount":78,
+           "ratting":4.0,
+           "stock":3309,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kesv0y80-0/headphone/n/f/n/in-ear-super-extra-dynamic-bass-headphones-bm007-florid-original-imafvebghgskthzj.jpeg?q=70"
+        },
+        {
+           "id":9,
+           "name":"realme Buds 2 Wired Headset",
+           "brand":"realme",
+           "price":599,
+           "discount":25,
+           "ratting":4.3,
+           "stock":717079,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/k3g73bk0/headphone/3/b/z/realme-buds-2-original-imafmkr2z5huapjr.jpeg?q=70"
+        },
+        {
+           "id":10,
+           "name":"Mi Basic Wired Headset with Mic",
+           "brand":"Mi",
+           "price":499,
+           "discount":16,
+           "ratting":4.3,
+           "stock":748032,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/krntoy80/headphone/j/l/n/ydjc01jy-mi-original-imag5egze7eb9taj.jpeg?q=70"
+        },
+        {
+           "id":11,
+           "name":"FLORID In-Ear Bass Machine 007 Super Extra Dynamic Bass...",
+           "brand":"FLORID",
+           "price":1499,
+           "discount":16,
+           "ratting":4.0,
+           "stock":3309,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/ke5zzbk0-0/headphone/k/t/f/in-ear-bass-machine-007-super-extra-dynamic-bass-headphones-original-imafuwjxrrh2ns8k.jpeg?q=70"
+        },
+        {
+           "id":12,
+           "name":"TEMPT Zip X1 in Ear Wired Ear Phones with Mic |13.6mm P...",
+           "brand":"TEMPT",
+           "price":349,
+           "discount":65,
+           "ratting":3.1,
+           "stock":23,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/b/n/m/zip-x1-in-ear-wired-ear-phones-with-mic-13-6mm-powerful-driver-original-imaghn2hgjcdvwcj.jpeg?q=70"
+        },
+        {
+           "id":13,
+           "name":"realme Buds 2 Neo With HD Mic Wired Headset",
+           "brand":"realme",
+           "price":491,
+           "discount":18,
+           "ratting":4.2,
+           "stock":61331,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kq6yefk0/headphone/q/r/b/buds-2-neo-realme-original-imag4925fcqwvgar.jpeg?q=70"
+        },
+        {
+           "id":14,
+           "name":"TP TROOPS in-Ear Wired Earphones with 10mm Extra Bass D...",
+           "brand":"TP",
+           "price":259,
+           "discount":74,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/u/z/q/in-ear-wired-earphones-with-10mm-extra-bass-driver-and-hd-sound-original-imagrmcpprmje5zp.jpeg?q=70"
+        },
+        {
+           "id":15,
+           "name":"JBL C150SI with One Button Universal Remote Wired Heads...",
+           "brand":"JBL",
+           "price":749,
+           "discount":46,
+           "ratting":4.2,
+           "stock":396047,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/juwzf680/headphone-refurbished/7/h/k/z-c100si-jbl-original-imaffxja5vmgwudz.jpeg?q=70"
+        },
+        {
+           "id":16,
+           "name":"realme Buds Classic RMA2001 Wired Earphones with HD Mic...",
+           "brand":"realme",
+           "price":393,
+           "discount":43,
+           "ratting":4.2,
+           "stock":163362,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kg5fzww0-0/headphone/o/b/y/buds-classic-rma2001-wired-earphones-with-hd-microphone-realme-original-imafwg73j3bdnkeu.jpeg?q=70"
+        },
+        {
+           "id":17,
+           "name":"PROWARP PRODART Original EHS61 Deep Bass with Sound Can...",
+           "brand":"PROWARP",
+           "price":254,
+           "discount":63,
+           "ratting":4.1,
+           "stock":9023,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/y/g/prodart-sam-sung-original-ehs61-deep-bass-with-sound-original-imagh9hngf3rfz9v.jpeg?q=70"
+        },
+        {
+           "id":18,
+           "name":"boAt Bassheads 103 Wired Headset",
+           "brand":"boAt",
+           "price":499,
+           "discount":61,
+           "ratting":4.2,
+           "stock":618010,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kh3qkcw0-0/headphone/g/p/u/bassheads-103-boat-original-imafx6sbqmsyxwnh.jpeg?q=70"
+        },
+        {
+           "id":19,
+           "name":"boAt BassHeads 100 Wired Headset",
+           "brand":"boAt",
+           "price":375,
+           "discount":55,
+           "ratting":4.3,
+           "stock":1338962,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/k45x0nk0/headphone/stereo-dynamic-earphones/2/8/4/boat-bassheads-100-original-imafn4qtbtwnky36.jpeg?q=70"
+        },
+        {
+           "id":20,
+           "name":"Boult Audio X1 Pro with Type-C Connector, Dynamic Drive...",
+           "brand":"Boult",
+           "price":449,
+           "discount":55,
+           "ratting":4.0,
+           "stock":798,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/e/3/w/-original-imags9rqqbkjjhgp.jpeg?q=70"
+        },
+        {
+           "id":21,
+           "name":"Boult Audio X1 Pro with Type-C Connector, Dynamic Drive...",
+           "brand":"Boult",
+           "price":449,
+           "discount":55,
+           "ratting":4.0,
+           "stock":798,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/d/l/-original-imags9rqjfmzg5zn.jpeg?q=70"
+        },
+        {
+           "id":22,
+           "name":"Sennheiser IE 900 Audiophile In Ear Headphone Wired wit...",
+           "brand":"Sennheiser",
+           "price":129990,
+           "discount":10,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/p/l/j/508949-sennheiser-original-imagjdyhehjpezrm.jpeg?q=70"
+        },
+        {
+           "id":23,
+           "name":"Microflash S7-Deep Bass, Clear Hi-Fi Sound, Headphones ...",
+           "brand":"Microflash",
+           "price":199,
+           "discount":50,
+           "ratting":3.9,
+           "stock":5964,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/c/5/s7-deep-bass-clear-hi-fi-sound-headphones-microflash-original-imagsbvymygqtdnd.jpeg?q=70"
+        },
+        {
+           "id":24,
+           "name":"Boult Audio Loop2 with 10mm Drivers, BoomX Rich Bass, I...",
+           "brand":"Boult",
+           "price":349,
+           "discount":65,
+           "ratting":4.0,
+           "stock":25012,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/d/m/-original-imagjfqefhhhv7bm.jpeg?q=70"
+        },
+        {
+           "id":25,
+           "name":"realme Buds Classic RMA2001 Wired Earphones with HD Mic...",
+           "brand":"realme",
+           "price":393,
+           "discount":43,
+           "ratting":4.2,
+           "stock":163362,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kg5fzww0-0/headphone/j/4/e/buds-classic-rma2001-wired-earphones-with-hd-microphone-realme-original-imafwg7jg7fgezd6.jpeg?q=70"
+        },
+        {
+           "id":26,
+           "name":"boAt BassHeads 100 Wired Headset",
+           "brand":"boAt",
+           "price":399,
+           "discount":60,
+           "ratting":4.3,
+           "stock":1338962,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/k51cpe80pkrrdj/headphone-refurbished/c/t/8/c-bassheads-100-boat-original-imafn4qttzkvzeyq.jpeg?q=70"
+        },
+        {
+           "id":27,
+           "name":"Mi Mi Wired in-Ear Earphones with Mic, Ultra Deep Bass ...",
+           "brand":"Mi",
+           "price":499,
+           "discount":16,
+           "ratting":4.3,
+           "stock":748032,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kbzergw0/headphone/q/j/f/ydjc01jy-mi-original-imaft7gypyfhhpjr.jpeg?q=70"
+        },
+        {
+           "id":28,
+           "name":"Microflash S7-Deep Bass, Clear Hi-Fi Sound, Headphones ...",
+           "brand":"Microflash",
+           "price":199,
+           "discount":50,
+           "ratting":3.9,
+           "stock":5964,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/l/h/s7-deep-bass-clear-hi-fi-sound-headphones-microflash-original-imagsbsxscegmqme.jpeg?q=70"
+        },
+        {
+           "id":29,
+           "name":"boAt Bassheads 104 Wired Headset",
+           "brand":"boAt",
+           "price":449,
+           "discount":55,
+           "ratting":4.1,
+           "stock":64985,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kmf7ki80/headphone/7/5/j/bassheads-104-boat-original-imagfbvwvtgbxbcg.jpeg?q=70"
+        },
+        {
+           "id":30,
+           "name":"vivo XE160 Wired Headset",
+           "brand":"vivo",
+           "price":399,
+           "discount":20,
+           "ratting":4.1,
+           "stock":1454,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/l/g/xe160-vivo-original-imagmhfqvppydxz4.jpeg?q=70"
+        },
+        {
+           "id":31,
+           "name":"JBL C150SI with One Button Universal Remote Wired Heads...",
+           "brand":"JBL",
+           "price":737,
+           "discount":47,
+           "ratting":4.2,
+           "stock":396047,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/k3ncakw0pkrrdj/headphone/dynamic/z/a/r/jbl-c150siured-original-imafhyzxbgwa3czq.jpeg?q=70"
+        },
+        {
+           "id":32,
+           "name":"PHILIPS TAE1126BK/94 Wired Headset",
+           "brand":"PHILIPS",
+           "price":384,
+           "discount":30,
+           "ratting":4.0,
+           "stock":1210,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/krp94sw0/headphone/v/1/4/tae1126bk-94-philips-original-imag5fgqgz7tbhzg.jpeg?q=70"
+        },
+        {
+           "id":33,
+           "name":"SpinBot BattleBudz W20 Wired Gaming Earphones with Boom...",
+           "brand":"SpinBot",
+           "price":749,
+           "discount":25,
+           "ratting":3.7,
+           "stock":839,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/s/8/7/battlebudz-w20-wired-gaming-earphones-with-boom-mic-for-mobiles-original-imaghvhncsmucvyg.jpeg?q=70"
+        },
+        {
+           "id":34,
+           "name":"JBL C150SI with One Button Universal Remote Wired Heads...",
+           "brand":"JBL",
+           "price":749,
+           "discount":46,
+           "ratting":4.2,
+           "stock":396047,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/k3ncakw0pkrrdj/headphone/dynamic/k/c/g/jbl-c150siuwht-original-imafhyzxpkzbcqtd.jpeg?q=70"
+        },
+        {
+           "id":35,
+           "name":"ZEBRONICS ZEB-BRO Wired Headset",
+           "brand":"ZEBRONICS",
+           "price":339,
+           "discount":15,
+           "ratting":3.8,
+           "stock":63564,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/khmbafk0-0/headphone/b/a/p/zeb-bro-zebronics-original-imafxhhsq9ykgpnx.jpeg?q=70"
+        },
+        {
+           "id":36,
+           "name":"SONY XB55AP Wired Headset",
+           "brand":"SONY",
+           "price":1899,
+           "discount":23,
+           "ratting":4.4,
+           "stock":22276,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/jd94h3k0/headphone/p/c/8/sony-mdr-xb55ap-original-imaf27azuzabhuuh.jpeg?q=70"
+        },
+        {
+           "id":37,
+           "name":"JBL Endurance Run 2 with Fliphook & TwistLock Technolog...",
+           "brand":"JBL",
+           "price":1199,
+           "discount":23,
+           "ratting":4.1,
+           "stock":1090,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/q/5/-original-imagnamhcejreyqr.jpeg?q=70"
+        },
+        {
+           "id":38,
+           "name":"Microflash S7-Deep Bass, Clear Hi-Fi Sound, Headphones ...",
+           "brand":"Microflash",
+           "price":189,
+           "discount":52,
+           "ratting":3.9,
+           "stock":5964,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/a/5/3/s7-deep-bass-clear-hi-fi-sound-headphones-microflash-original-imagsbuywnw7gyw3.jpeg?q=70"
+        },
+        {
+           "id":39,
+           "name":"SAMSUNG AKG-tuned IC100 Type-C Earphone Wired Headset",
+           "brand":"SAMSUNG",
+           "price":1999,
+           "discount":52,
+           "ratting":4.2,
+           "stock":431,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l5h2xe80/headphone/b/j/f/akg-tuned-ic100-type-c-earphone-samsung-original-imagg5f7hxttpkm6.jpeg?q=70"
+        },
+        {
+           "id":40,
+           "name":"Redmi by Mi Hi-Resolution Audio Wired Headset",
+           "brand":"Redmi",
+           "price":449,
+           "discount":25,
+           "ratting":4.2,
+           "stock":87627,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kelptow0-0/headphone/a/6/e/ydjc02wm-redmi-original-imafv8umtxpu9zda.jpeg?q=70"
+        }
+    ],
+    "neckband": [
+        {
+           "id":1,
+           "name":"Boult Audio YCharge with Pro+ Calling Mic, Full Charge ...",
+           "brand":"Boult",
+           "price":799,
+           "discount":60,
+           "ratting":3.9,
+           "stock":35937,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/i/y/-original-imagkf35pfkyqgnf.jpeg?q=70"
+        },
+        {
+           "id":2,
+           "name":"Boult Audio ProBass Fcharge with 40 hrs Playtime, ENC, ...",
+           "brand":"Boult",
+           "price":1199,
+           "discount":76,
+           "ratting":4.0,
+           "stock":84098,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/z/i/-original-imagg33vgs8zzr3j.jpeg?q=70"
+        },
+        {
+           "id":3,
+           "name":"OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Ba...",
+           "brand":"OnePlus",
+           "price":1999,
+           "discount":13,
+           "ratting":4.3,
+           "stock":697811,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l0sgyvk0/headphone/e/w/c/buds-z2-oneplus-original-imagcg5gfpcg5ndv.jpeg?q=70"
+        },
+        {
+           "id":4,
+           "name":"realme Buds Wireless 3 with 30dB ANC, 360 degree Spatia...",
+           "brand":"realme",
+           "price":1799,
+           "discount":40,
+           "ratting":4.3,
+           "stock":10740,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/t/4/p/-original-imagrddw8rpjwfag.jpeg?q=70"
+        },
+        {
+           "id":5,
+           "name":"realme Buds Wireless 2 Neo with Type-C Fast Charge & Ba...",
+           "brand":"realme",
+           "price":1299,
+           "discount":48,
+           "ratting":4.2,
+           "stock":326915,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/ksqeky80/headphone/x/r/m/rma2011-realme-original-imag68fe7xdnavuh.jpeg?q=70"
+        },
+        {
+           "id":6,
+           "name":"OnePlus Bullets Wireless Z2 Bluetooth Headset",
+           "brand":"OnePlus",
+           "price":1999,
+           "discount":13,
+           "ratting":4.3,
+           "stock":697811,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l4ei1e80/headphone/b/j/w/bullets-wireless-z2-oneplus-original-imagfaww7ga6nshz.jpeg?q=70"
+        },
+        {
+           "id":7,
+           "name":"Wiggle XFlare - 48 Hours Neckband Bluetooth Headset",
+           "brand":"Wiggle",
+           "price":473,
+           "discount":75,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/i/u/n/xflare-48-hours-neckband-wiggle-original-imagpw4usry4hcvk.jpeg?q=70"
+        },
+        {
+           "id":8,
+           "name":"Boult Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",
+           "brand":"Boult",
+           "price":999,
+           "discount":77,
+           "ratting":4.0,
+           "stock":77121,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/y/g/s/-original-imagg33vc5mgfwn7.jpeg?q=70"
+        },
+        {
+           "id":9,
+           "name":"OnePlus Bullets Wireless Z2 ANC Bluetooth in Ear Earpho...",
+           "brand":"OnePlus",
+           "price":2299,
+           "discount":8,
+           "ratting":4.2,
+           "stock":2578,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/r/k/7/-original-imagrs3zw6hf7fyq.jpeg?q=70"
+        },
+        {
+           "id":10,
+           "name":"realme Buds Wireless 2 Neo with Type-C Fast Charge & Ba...",
+           "brand":"realme",
+           "price":1299,
+           "discount":48,
+           "ratting":4.2,
+           "stock":326915,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/ksqeky80/headphone/3/l/n/rma2011-realme-original-imag68fqfqbydmrx.jpeg?q=70"
+        },
+        {
+           "id":11,
+           "name":"Boult Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",
+           "brand":"Boult",
+           "price":999,
+           "discount":77,
+           "ratting":4.0,
+           "stock":77121,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/9/0/-original-imagg33usfucs9nd.jpeg?q=70"
+        },
+        {
+           "id":12,
+           "name":"NOYMI Waterproof Bluetooth wireless neckband earphone w...",
+           "brand":"NOYMI",
+           "price":474,
+           "discount":70,
+           "ratting":3.7,
+           "stock":3163,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/5/w/l/waterproof-bluetooth-wireless-neckband-earphone-with-high-bass-original-imagmfvtz3zzxzkk.jpeg?q=70"
+        },
+        {
+           "id":13,
+           "name":"boAt Rockerz 255 Pro+ /258 Pro+ with ASAP Charge and up...",
+           "brand":"boAt",
+           "price":1299,
+           "discount":67,
+           "ratting":4.2,
+           "stock":765122,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l31x2fk0/headphone/m/5/v/-original-image9ehhvpt8vzt.jpeg?q=70"
+        },
+        {
+           "id":14,
+           "name":"ZSIV New M-30 Enco 3D Bass 48Hr Playtime Waterproof MP3...",
+           "brand":"ZSIV",
+           "price":499,
+           "discount":80,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/b/y/j/badshah-24-hours-playtime-bluetooth-neckband-headset-earphone-original-imaghx72m7ydnnyy.jpeg?q=70"
+        },
+        {
+           "id":15,
+           "name":"ORAIMO Shark 3 Deep Bass Neckband Bluetooth Headset",
+           "brand":"ORAIMO",
+           "price":599,
+           "discount":76,
+           "ratting":4.1,
+           "stock":23373,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/l/d/-original-imagg8q4vecawdsy.jpeg?q=70"
+        },
+        {
+           "id":16,
+           "name":"realme Buds Wireless 3 with 30dB ANC, 360 degree Spatia...",
+           "brand":"realme",
+           "price":1799,
+           "discount":40,
+           "ratting":4.3,
+           "stock":10740,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/c/n/2/-original-imagt5t5npyehwjq.jpeg?q=70"
+        },
+        {
+           "id":17,
+           "name":"Boult Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",
+           "brand":"Boult",
+           "price":999,
+           "discount":77,
+           "ratting":4.0,
+           "stock":77121,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/u/c/u/-original-imagg33vzvudvhky.jpeg?q=70"
+        },
+        {
+           "id":18,
+           "name":"U&i Key Series 20hrs Wireless Earphone with Mic Bluetoo...",
+           "brand":"U&i",
+           "price":449,
+           "discount":79,
+           "ratting":3.9,
+           "stock":2555,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kusph8w0/headphone/z/p/n/key-series-20hrs-wireless-earphone-with-mic-bluetooth-headset-u-original-imag7uyvyznac2yt.jpeg?q=70"
+        },
+        {
+           "id":19,
+           "name":"ZSIV M-30 Enco Wireless 48Hr Playback Headphone Stereo ...",
+           "brand":"ZSIV",
+           "price":499,
+           "discount":80,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/y/k/titanic-bass-music-24hr-playback-ipx4-4d-bass-sport-bluetooth-original-imaghx85gjshy4fb.jpeg?q=70"
+        },
+        {
+           "id":20,
+           "name":"boAt Rockerz 235 Pro with upto 20 Hours Playback & ASAP...",
+           "brand":"boAt",
+           "price":999,
+           "discount":49,
+           "ratting":4.1,
+           "stock":213221,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l2jcccw0/headphone/e/b/t/-original-imagduskzq2my6td.jpeg?q=70"
+        },
+        {
+           "id":21,
+           "name":"ORAIMO Shark 4 Bluetooth Neckband 20Hrs Playtime,ASAP C...",
+           "brand":"ORAIMO",
+           "price":699,
+           "discount":65,
+           "ratting":4.0,
+           "stock":1533,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/8/5/v/-original-imagn7c58tggasqg.jpeg?q=70"
+        },
+        {
+           "id":22,
+           "name":"ORAIMO Necklace 4 Fast Charge, 50hr PlayTime, Super Bas...",
+           "brand":"ORAIMO",
+           "price":1399,
+           "discount":60,
+           "ratting":4.1,
+           "stock":3391,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/l/x/c/-original-imagkv2gteah2rwh.jpeg?q=70"
+        },
+        {
+           "id":23,
+           "name":"Aroma NB119B Badshah 60 Hours Playing Time Fast Chargin...",
+           "brand":"Aroma",
+           "price":407,
+           "discount":83,
+           "ratting":3.9,
+           "stock":296989,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/7/5/nb119b-badshah-60-hours-playing-time-fast-charging-bluetooth-original-imaghf8vgxzhzbfs.jpeg?q=70"
+        },
+        {
+           "id":24,
+           "name":"SONY WI-C100 with 25 Hours Battery Life Bluetooth Heads...",
+           "brand":"SONY",
+           "price":1399,
+           "discount":49,
+           "ratting":3.5,
+           "stock":10771,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l58iaa80/headphone/l/g/g/wi-c100-sony-original-imagfybgg8kzz4sz.jpeg?q=70"
+        },
+        {
+           "id":25,
+           "name":"OnePlus Bullets Wireless Z2 Bluetooth Headset",
+           "brand":"OnePlus",
+           "price":1999,
+           "discount":13,
+           "ratting":4.3,
+           "stock":697811,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l0sgyvk0/headphone/m/b/c/buds-z2-oneplus-original-imagcg5stg9fzes6.jpeg?q=70"
+        },
+        {
+           "id":26,
+           "name":"boAt Rockerz 333 Upto 30 Hours Battery Bluetooth Headse...",
+           "brand":"boAt",
+           "price":1599,
+           "discount":35,
+           "ratting":4.1,
+           "stock":240262,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kqttg280/headphone/x/g/g/rockerz-333-boat-original-imag4r33bwfttdgn.jpeg?q=70"
+        },
+        {
+           "id":27,
+           "name":"HOUSE OF SOUND SERIES 1 Bluetooth Headset",
+           "brand":"HOUSE",
+           "price":449,
+           "discount":91,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/a/c/v/series-1-house-of-sound-original-imagstmvzqrhjzv2.jpeg?q=70"
+        },
+        {
+           "id":28,
+           "name":"U&i Burn Series Single Ear Business Headset Bluetooth H...",
+           "brand":"U&i",
+           "price":449,
+           "discount":73,
+           "ratting":3.9,
+           "stock":4606,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kfa0b680-0/headphone/e/3/e/burn-series-single-ear-business-headset-u-i-original-imafvrzrfaa6gsne.jpeg?q=70"
+        },
+        {
+           "id":29,
+           "name":"ZSIV New 2023 Thundar Bass M-30 Enco Bluetooth Gaming &...",
+           "brand":"ZSIV",
+           "price":499,
+           "discount":80,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/j/9/c/noise-flair-neckband-wireless-with-mic-headphones-neckband-original-imaghx7mcya28bm6.jpeg?q=70"
+        },
+        {
+           "id":30,
+           "name":"Aroma NB119 Titanium - 48 Hours Playtime Bluetooth Neck...",
+           "brand":"Aroma",
+           "price":498,
+           "discount":80,
+           "ratting":4.0,
+           "stock":193960,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/h/d/6/nb119-titanium-48-hours-playtime-bluetooth-neckband-aroma-original-imaghrcbugpcnzeb.jpeg?q=70"
+        },
+        {
+           "id":31,
+           "name":"NOYMI Waterproof Wireless earphone Standby 200hrs Suppo...",
+           "brand":"NOYMI",
+           "price":759,
+           "discount":62,
+           "ratting":3.7,
+           "stock":350,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/z/0/bluetooth-waterproof-wireless-earphone-with-upto-200-hours-original-imagpyarq996yzgm.jpeg?q=70"
+        },
+        {
+           "id":32,
+           "name":"HOUSE OF SOUND SERIES 1 Bluetooth Headset",
+           "brand":"HOUSE",
+           "price":449,
+           "discount":91,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/i/e/a/series-1-house-of-sound-original-imagstmvncnjxmwz.jpeg?q=70"
+        },
+        {
+           "id":33,
+           "name":"OnePlus Bullets Wireless Z2 Bluetooth Headset",
+           "brand":"OnePlus",
+           "price":1999,
+           "discount":13,
+           "ratting":4.3,
+           "stock":697811,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/7/a/8/bullets-wireless-z2-oneplus-original-imagpgskyzj6zhte.jpeg?q=70"
+        },
+        {
+           "id":34,
+           "name":"boAt Rockerz Trinity with 150 Hours Playback, Crystal B...",
+           "brand":"boAt",
+           "price":1499,
+           "discount":62,
+           "ratting":4.0,
+           "stock":5192,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/0/1/e/-original-imagn2fg3hh7hfgj.jpeg?q=70"
+        },
+        {
+           "id":35,
+           "name":"ZSIV M-30 Enco 3D Bass 48Hr Playtime Waterproof MP3 Run...",
+           "brand":"ZSIV",
+           "price":499,
+           "discount":80,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/h/v/0/bluetooth-headphone-bass-bluetooth-neckband-upto-24-hours-original-imaghx8yggwahkw6.jpeg?q=70"
+        },
+        {
+           "id":36,
+           "name":"realme Buds Wireless 3 with 30dB ANC, 360 degree Spatia...",
+           "brand":"realme",
+           "price":1799,
+           "discount":40,
+           "ratting":4.3,
+           "stock":10740,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/a/c/-original-imagrddwvkykfwtz.jpeg?q=70"
+        },
+        {
+           "id":37,
+           "name":"Mivi Collar Classic Pro TWS Neckband with 72 Hours of P...",
+           "brand":"Mivi",
+           "price":1199,
+           "discount":60,
+           "ratting":3.8,
+           "stock":37036,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/j/7/-original-imagh8xpkfdnmk2v.jpeg?q=70"
+        },
+        {
+           "id":38,
+           "name":"NOYMI Bluetooth Waterproof Wireless Neckband Standby 20...",
+           "brand":"NOYMI",
+           "price":759,
+           "discount":62,
+           "ratting":3.4,
+           "stock":27,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/l/i/x/bluetooth-waterproof-wireless-neckband-standby-200hrs-support-tf-original-imagqexceuysttwe.jpeg?q=70"
+        },
+        {
+           "id":39,
+           "name":"SONY WI-XB400 Extra Bass Wireless Stereo Headset Blueto...",
+           "brand":"SONY",
+           "price":2990,
+           "discount":40,
+           "ratting":4.0,
+           "stock":11274,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l09w8sw0/headphone/p/6/d/-original-imagc3zzrpnbmrhm.jpeg?q=70"
+        },
+        {
+           "id":40,
+           "name":"Ucool Nexa 100 Hours Playtime Bluetooth Wireless Neckba...",
+           "brand":"Ucool",
+           "price":599,
+           "discount":80,
+           "ratting":4.0,
+           "stock":11146,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l26hdow0/headphone/x/i/c/nexa-100-hours-playtime-bluetooth-wireless-neckband-headphones-original-imagdh27hbuehtz3.jpeg?q=70"
+        }
+    ],
+    "tws": [
+        {
+           "id":1,
+           "name":"Microflash Touch, Voice Control-LED Display Earbuds Blu...",
+           "brand":"Microflash",
+           "price":699,
+           "discount":65,
+           "ratting":4.0,
+           "stock":9779,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/a/h/u/touch-voice-control-led-display-earbuds-microflash-original-imagpdhghyhzjtmr.jpeg?q=70"
+        },
+        {
+           "id":2,
+           "name":"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",
+           "brand":"Mivi",
+           "price":899,
+           "discount":70,
+           "ratting":4.0,
+           "stock":7085,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/j/2/e/-original-imagpxhyanjcqvrg.jpeg?q=70"
+        },
+        {
+           "id":3,
+           "name":"boAt Airdopes 131 with upto 60 Hours and ASAP Charge Bl...",
+           "brand":"boAt",
+           "price":999,
+           "discount":66,
+           "ratting":4.0,
+           "stock":1553068,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/1/8/l/-original-imagqhswqgpwb2yu.jpeg?q=70"
+        },
+        {
+           "id":4,
+           "name":"boAt Airdopes 161 with 40 Hours Playback, ASAP Charge &...",
+           "brand":"boAt",
+           "price":1099,
+           "discount":55,
+           "ratting":4.0,
+           "stock":544660,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/o/d/r/-original-imagpgwsm6zgtsrj.jpeg?q=70"
+        },
+        {
+           "id":5,
+           "name":"OPPO Enco Buds 2 with 28 hours Battery life & Deep Nois...",
+           "brand":"OPPO",
+           "price":1799,
+           "discount":55,
+           "ratting":4.2,
+           "stock":180908,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/p/r/z/enco-buds-2-oppo-original-imagh9frfp7gxdb3.jpeg?q=70"
+        },
+        {
+           "id":6,
+           "name":"boAt Airdopes 161 ANC w/ Active Noise Cancellation(32dB...",
+           "brand":"boAt",
+           "price":1699,
+           "discount":71,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/i/q/-original-imagspmhc2nnupp7.jpeg?q=70"
+        },
+        {
+           "id":7,
+           "name":"NONA SERIES New Edition TWS M19 Gaming Earbuds Bluetoot...",
+           "brand":"NONA",
+           "price":620,
+           "discount":58,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/i/e/new-edition-tws-m19-gaming-earbuds-bluetooth5-0-wireless-led-original-imagnmfrhhg7zfdx.jpeg?q=70"
+        },
+        {
+           "id":8,
+           "name":"TXOR SENSO V 1.0 TWS EARBUDS, Bass+ 20 H Play time & Fa...",
+           "brand":"TXOR",
+           "price":572,
+           "discount":55,
+           "ratting":3.5,
+           "stock":6087,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/o/c/m/senso-v-1-0-tws-earbuds-bass-20-h-play-time-fast-charging-v-5-1-original-imagkebn7debb2hs.jpeg?q=70"
+        },
+        {
+           "id":9,
+           "name":"realme Techlife Buds T100 with up to 28 Hours Playback ...",
+           "brand":"realme",
+           "price":1499,
+           "discount":50,
+           "ratting":4.2,
+           "stock":108382,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/j/t/c/-original-imaghbdup9jbrdzh.jpeg?q=70"
+        },
+        {
+           "id":10,
+           "name":"OnePlus Nord Buds 2 True Wireless Earbuds with 25dB Act...",
+           "brand":"OnePlus",
+           "price":2999,
+           "discount":9,
+           "ratting":4.3,
+           "stock":20286,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/0/v/m/nord-buds-2-oneplus-original-imagnwf7sgjetqwg.jpeg?q=70"
+        },
+        {
+           "id":11,
+           "name":"Boult Audio W20 with Zen ENC Mic, 32H Battery Life, Low...",
+           "brand":"Boult",
+           "price":999,
+           "discount":60,
+           "ratting":4.1,
+           "stock":497,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/1/y/s/-original-imagt5cwr7bpuzzt.jpeg?q=70"
+        },
+        {
+           "id":12,
+           "name":"Boult Audio Y1 with Zen ENC Mic, 40Hrs Playtime, Fast C...",
+           "brand":"Boult",
+           "price":1299,
+           "discount":76,
+           "ratting":4.1,
+           "stock":193711,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/j/q/-original-imagsqk42jqbvkgu.jpeg?q=70"
+        },
+        {
+           "id":13,
+           "name":"OnePlus Nord Buds 2r True Wireless in Ear Earbuds with ...",
+           "brand":"OnePlus",
+           "price":2199,
+           "discount":4,
+           "ratting":4.3,
+           "stock":5952,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/t/q/-original-imagr4t8zuq2wzhe.jpeg?q=70"
+        },
+        {
+           "id":14,
+           "name":"NONA SERIES M19 TWS Earbuds BT 5.1 3D Touch True Wirele...",
+           "brand":"NONA",
+           "price":620,
+           "discount":58,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/p/n/k/m19-tws-earbuds-bt-5-1-3d-touch-true-wireless-headsets-earphones-original-imagnm3zdvapnk3g.jpeg?q=70"
+        },
+        {
+           "id":15,
+           "name":"APPLE AirPods Pro (2nd generation) Bluetooth Headset",
+           "brand":"APPLE",
+           "price":26900,
+           "discount":58,
+           "ratting":4.5,
+           "stock":4339,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/s/t/m/-original-imaghxgnjdgyghfw.jpeg?q=70"
+        },
+        {
+           "id":16,
+           "name":"boAt Airdopes 131 with upto 60 Hours and ASAP Charge Bl...",
+           "brand":"boAt",
+           "price":999,
+           "discount":66,
+           "ratting":4.0,
+           "stock":1553068,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/5/g/7/-original-imagqhswqrx7sn3w.jpeg?q=70"
+        },
+        {
+           "id":17,
+           "name":"truke Buds Q1+ with 80H Playtime, Quad Mic Adv.ENC, 12m...",
+           "brand":"truke",
+           "price":1099,
+           "discount":66,
+           "ratting":4.3,
+           "stock":1117,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/c/o/6/-original-imagsxa79awfkgzf.jpeg?q=70"
+        },
+        {
+           "id":18,
+           "name":"TecSox Slider Wireless Earbuds| IPX Truly Wireless |20h...",
+           "brand":"TecSox",
+           "price":679,
+           "discount":77,
+           "ratting":3.5,
+           "stock":17,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/h/h/slider-wireless-earbuds-ipx-truly-wireless-20hrs-best-low-original-imaghyuvbdezgzn8.jpeg?q=70"
+        },
+        {
+           "id":19,
+           "name":"NONA SERIES GRACEFULLY CRAFTED M19 Tws Headsets Earphon...",
+           "brand":"NONA",
+           "price":620,
+           "discount":58,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/d/b/9/gracefully-crafted-m19-tws-headsets-earphones-wireless-earbuds-original-imagnm4bdztfybtu.jpeg?q=70"
+        },
+        {
+           "id":20,
+           "name":"boAt Immortal 131 with Beast Mode, 40 Hours Playback an...",
+           "brand":"boAt",
+           "price":1399,
+           "discount":60,
+           "ratting":4.0,
+           "stock":25919,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/p/h/-original-imagtapyyc6awuzq.jpeg?q=70"
+        },
+        {
+           "id":21,
+           "name":"Boult Audio X10 TWS with 45Hrs Playtime, ENC Mic, 40ms ...",
+           "brand":"Boult",
+           "price":899,
+           "discount":70,
+           "ratting":4.0,
+           "stock":11026,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/5/y/x/-original-imagrvbmbfyjt2s3.jpeg?q=70"
+        },
+        {
+           "id":22,
+           "name":"Boult Audio Y1 with Zen ENC Mic, 40Hrs Playtime, Fast C...",
+           "brand":"Boult",
+           "price":1299,
+           "discount":76,
+           "ratting":4.1,
+           "stock":193711,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/h/c/s/-original-imaga4m8sz5ymcf7.jpeg?q=70"
+        },
+        {
+           "id":23,
+           "name":"realme Buds T300 with 12.4mm Driver, 30dB ANC, 360 Spat...",
+           "brand":"realme",
+           "price":2299,
+           "discount":42,
+           "ratting":4.4,
+           "stock":189,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/y/o/-original-imagt3vwuweuwk9v.jpeg?q=70"
+        },
+        {
+           "id":24,
+           "name":"boAt Airdopes 161 with 40 Hours Playback, ASAP Charge &...",
+           "brand":"boAt",
+           "price":1199,
+           "discount":51,
+           "ratting":4.0,
+           "stock":544660,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/y/c/-original-imagrkek2hhfjr7z.jpeg?q=70"
+        },
+        {
+           "id":25,
+           "name":"boAt Airdopes�161�with 40 Hours Playback, ASAP Charge &...",
+           "brand":"boAt",
+           "price":1199,
+           "discount":51,
+           "ratting":4.0,
+           "stock":544660,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/i/o/h/-original-imags36kchxetkkk.jpeg?q=70"
+        },
+        {
+           "id":26,
+           "name":"Seashot M19 Earbuds/TWS/buds 5.1 Earbuds with 280H Play...",
+           "brand":"Seashot",
+           "price":539,
+           "discount":82,
+           "ratting":3.7,
+           "stock":26121,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/d/b/o/m19-earbuds-tws-buds-5-1-earbuds-with-280h-playtime-headphones-original-imagr8z542fcypgh.jpeg?q=70"
+        },
+        {
+           "id":27,
+           "name":"Boult Audio Y1 with Zen ENC Mic, 40Hrs Playtime, Fast C...",
+           "brand":"Boult",
+           "price":1299,
+           "discount":76,
+           "ratting":4.1,
+           "stock":193711,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/x/w/-original-imaga4m7bc96fyrb.jpeg?q=70"
+        },
+        {
+           "id":28,
+           "name":"truke Clarity 5, 6 Mics Adv.ENC, Dual Pairing, 80H Play...",
+           "brand":"truke",
+           "price":1499,
+           "discount":57,
+           "ratting":3.9,
+           "stock":662,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/8/e/0/-original-imagsjybkremefwu.jpeg?q=70"
+        },
+        {
+           "id":29,
+           "name":"NONA SERIES M19 Earbuds Upto 48 Hours Playback with Pow...",
+           "brand":"NONA",
+           "price":620,
+           "discount":58,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/x/a/f/m19-tws-bluetooth-03-shop-with-flow-original-imaghz4tbr6yfydu.jpeg?q=70"
+        },
+        {
+           "id":30,
+           "name":"MZ Mpods 10 (Wireless Earbuds) 1200mAh Battery True Wir...",
+           "brand":"MZ",
+           "price":399,
+           "discount":69,
+           "ratting":3.7,
+           "stock":5203,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/6/r/mpods-10-wireless-earbuds-1200mah-battery-true-wireless-original-imagk3jg3ryftbmn.jpeg?q=70"
+        },
+        {
+           "id":31,
+           "name":"Boult Audio X50 with 40Hr Battery, Quad Mic ENC, 45ms U...",
+           "brand":"Boult",
+           "price":1299,
+           "discount":74,
+           "ratting":4.0,
+           "stock":62979,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/u/b/-original-imagzdhnvfgsft9n.jpeg?q=70"
+        },
+        {
+           "id":32,
+           "name":"TecSox Bullet Wireless Earbuds| IPX Truly Wireless |25h...",
+           "brand":"TecSox",
+           "price":700,
+           "discount":76,
+           "ratting":3.9,
+           "stock":414,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l2f20sw0/headphone/j/b/s/bullet-wireless-gamebuds-ipx-truly-wireless-25hrs-best-low-original-imagdrrgfpy7nfpy.jpeg?q=70"
+        },
+        {
+           "id":33,
+           "name":"SAMSUNG Galaxy Buds 2 Bluetooth Headset",
+           "brand":"SAMSUNG",
+           "price":6299,
+           "discount":54,
+           "ratting":4.4,
+           "stock":8213,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kst9gnk0/headphone/o/l/s/galaxy-buds-2-sm-r177nzkainu-samsung-original-imag6arjrmydyyef.jpeg?q=70"
+        },
+        {
+           "id":34,
+           "name":"NONA SERIES Premium M19 tws bluetooth 5.0 wireless Digi...",
+           "brand":"NONA",
+           "price":620,
+           "discount":58,
+           "ratting":-1.0,
+           "stock":-1,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/r/j/6/bbd-m19-bluetooth-gaming-headset-blue-seed-original-imagk6p8rzy8bzku.jpeg?q=70"
+        },
+        {
+           "id":35,
+           "name":"realme Buds Air 5 with 50dB ANC, 12.4mm Dynamic Bass Dr...",
+           "brand":"realme",
+           "price":3499,
+           "discount":41,
+           "ratting":4.3,
+           "stock":811,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/1/x/j/-original-imagsgfbgrfhy7vm.jpeg?q=70"
+        },
+        {
+           "id":36,
+           "name":"boAt Airdopes 161 Pro with 50 HRS Playback, ASAP Charge...",
+           "brand":"boAt",
+           "price":1099,
+           "discount":68,
+           "ratting":3.6,
+           "stock":12000,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/b/f/6/-original-imagrqxsnwg4f9yj.jpeg?q=70"
+        },
+        {
+           "id":37,
+           "name":"TecSox Bullet Wireless Gamebuds| IPX Truly Wireless |25...",
+           "brand":"TecSox",
+           "price":699,
+           "discount":76,
+           "ratting":3.3,
+           "stock":6,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l0jwbrk0/headphone/j/d/b/bullet-wireless-earbuds-ipx-truly-wireless-25hrs-best-low-original-imagcbbwagtefxpx.jpeg?q=70"
+        },
+        {
+           "id":38,
+           "name":"Boult Audio K20 with Quad Mic ENC, 32H Battery Life, Lo...",
+           "brand":"Boult",
+           "price":999,
+           "discount":56,
+           "ratting":4.0,
+           "stock":2501,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/e/7/-original-imagsc5jcv34t8vf.jpeg?q=70"
+        },
+        {
+           "id":39,
+           "name":"realme Buds Air 5 Pro with 50dB ANC, 360 Spatial Audio ...",
+           "brand":"realme",
+           "price":4999,
+           "discount":37,
+           "ratting":4.4,
+           "stock":1224,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/n/n/-original-imagsjzc93u5eskr.jpeg?q=70"
+        },
+        {
+           "id":40,
+           "name":"Noise Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...",
+           "brand":"Noise",
+           "price":1299,
+           "discount":56,
+           "ratting":4.1,
+           "stock":330012,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/d/q/r/-original-imagp6skt77zsdjt.jpeg?q=70"
+        }
+    ]
+}
