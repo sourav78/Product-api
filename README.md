@@ -1,9 +1,9 @@
 # Product-api
 
 ## About
-- This is the simple product api database. You can use this api in your next projects.
+- This is the simple product API database. You can use this API in your next projects.
 
-### Get products from database
+### Get products from the database
 
 #### Get all items
 ```
@@ -23,7 +23,7 @@
   https://sourav78.github.io/Product-api/home_theater.json
 ```
 
-#### Get smart watches items
+#### Get smart watch items
 ```
   https://sourav78.github.io/Product-api/smart_watch.json
 ```
@@ -41,4 +41,9 @@
 #### Get watch items
 ```
   https://sourav78.github.io/Product-api/watches.json
+```
+
+#### Get earphone items
+```
+  https://sourav78.github.io/Product-api/earphones.json
 ```
