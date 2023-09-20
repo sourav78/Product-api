@@ -1,0 +1,209 @@
+{
+    "laptop" : [
+        {
+            "id": 1,
+            "name":"HP Laptop 15s",
+            "brand":"HP",
+            "price": 49631 ,
+            "description": "HP Laptop 15s, AMD Ryzen 5 5500U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, AMD Radeon Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg),",
+            "discount": 16,
+            "image_url": "https://m.media-amazon.com/images/I/81SCRIobVAL._AC_UY327_FMwebp_QL65_.jpg",
+            "ratting": 4.1,
+            "stock":67
+        },
+        {
+            "id": 2,
+            "name":"Acer Aspire 5",
+            "brand":"Acer",
+            "price": 82999 ,
+            "description": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (16 GB/512 GB SSD/Win11 Home/4GB Graphics/RTX 2050) A515-57G (15.6 FHD Display, 1.8 Kg)",
+            "discount": 16,
+            "image_url": "https://m.media-amazon.com/images/I/61xzutxSl8L._AC_UY327_FMwebp_QL65_.jpg",
+            "ratting": 4.0,
+            "stock":64
+        },
+        {
+            "id":3 ,
+            "name":"Acer Extensa",
+            "brand":"Acer",
+            "price":44999 ,
+            "description": "Acer Extensa (2023) Intel Core i3 12th Gen N305 - (8 GB/256 GB SSD/Windows 11 Home) EX215-33 Thin and Light Laptop  (15.6 Inch, Silver, 1.7 Kg, With MS Office)",
+            "discount":26 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/7/o/r/-original-imagnc38zedzfnw6.jpeg?q=70",
+            "ratting": 4.2,
+            "stock":426
+        },
+        {
+            "id": 4,
+            "name":"DELL Inspiron",
+            "brand":"DELL",
+            "price":100000 ,
+            "description": "DELL Inspiron Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 7420 2 in 1 Laptop  (14 inch, Platinum Silver, 1.57 kg, With MS Office)",
+            "discount":22 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/l/j/b/-original-imaghzahqvua2bgp.jpeg?q=70",
+            "ratting": 3.9,
+            "stock":26
+        },
+        {
+            "id":5 ,
+            "name":"ASSUS Chromebook",
+            "brand":"ASUS",
+            "price":32990 ,
+            "description": "ASUS Chromebook Celeron Dual Core N4500 - (4 GB/128 GB EMMC Storage/Chrome OS) CX1400CKA-EK0335 Chromebook  (14 Inch, Transparent Silver, 1.47 Kg)",
+            "discount":39 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/o/b/n/cx1400cka-ek0266-thin-and-light-laptop-asus-original-imagszagbwyttrzq.jpeg?q=70",
+            "ratting": 3.5,
+            "stock":30
+        },{
+            "id":6 ,
+            "name":"Lenovo Ideapad Gaming 3 ",
+            "brand":"Lenovo",
+            "price":72990 ,
+            "description": "Lenovo Ideapad Gaming 3 AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) 15ACH6 Gaming Laptop  (15.6 Inch, Shadow Black, 2.25 kg kg)",
+            "discount":28 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/0/1/3/-original-imags7crhnbdg2th.jpeg?q=70",
+            "ratting": 4.2,
+            "stock":404
+        },{
+            "id":7 ,
+            "name":"ASUS TUF Gaming F15" ,
+            "brand":"ASUS",
+            "price":77990 ,
+            "description": "ASUS TUF Gaming F15 - AI Powered Gaming Core i5 11th Gen 11400H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050/144 Hz/70 W) FX706HF-HX018W Gaming Laptop  (17.3 Inch, Graphite Black, 2.60 kg)",
+            "discount":24 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/a/h/g/-original-imagpbycdv8t3pmh.jpeg?q=70",
+            "ratting": 4.3,
+            "stock":242
+        },{
+            "id": 8,
+            "name":"HP Pavilion ",
+            "brand":"HP",
+            "price":77142 ,
+            "description": "HP Pavilion Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 14-dv2014TU Thin and Light Laptop  (14 inch, Natural Silver, 1.41 Kg, With MS Office)",
+            "discount":14 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/3/x/d/-original-imagp7pfqwvb2hhf.jpeg?q=70",
+            "ratting": 4.3,
+            "stock":979
+        },{
+            "id":9 ,
+            "name":"Infinix Y1 Plus Neo",
+            "brand":"Infinix",
+            "price": 29990,
+            "description": "Infinix Y1 Plus Neo (2023) Celeron Quad Core 11th Gen N5100 - (4 GB/128 GB SSD/Windows 11 Home) XL30 Thin and Light Laptop  (15.6 Inch, Blue, 1.76 Kg)",
+            "discount":30 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/t/z/o/xl30-thin-and-light-laptop-infinix-original-imagzmncf5snymhu.jpeg?q=70",
+            "ratting": 4.1,
+            "stock":902
+        },{
+            "id": 10,
+            "name":"SAMSUNG Galaxy Book 2 ",
+            "brand":"SAMSUNG ",
+            "price":82990 ,
+            "description": "SAMSUNG Galaxy Book 2 Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) NP550 Thin and Light Laptop  (15.6 Inch, Graphite, 1.80 Kg, With MS Office)#JustHere",
+            "discount":20 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/d/j/e/galaxy-book2-plastic-thin-and-light-laptop-samsung-original-imaghkp8zvqhfzrh.jpeg?q=70",
+            "ratting": 4.2,
+            "stock":207
+        },{
+            "id":11 ,
+            "name":"APPLE 2020 Macbook Air M1",
+            "brand":"APPLE",
+            "price":99900 ,
+            "description": "APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN93HN/A  (13.3 inch, Silver, 1.29 kg)",
+            "discount": 17,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/khdqnbk0/computer/f/y/t/apple-original-imafxfyqydgvrkzv.jpeg?q=70",
+            "ratting": 4.7,
+            "stock":11614
+        },{
+            "id":12 ,
+            "name":"MSI Core",
+            "brand":"MSI ",
+            "price": 179990,
+            "description": "MSI Core i9 13th Gen 13900H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4060/144 Hz) Katana 15 B13VFK-843IN Gaming Laptop  (15.6 Inch, Black, 2.25 Kg)",
+            "discount":27 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/i/w/k/katana-15-b12udxk-1019in-gaming-laptop-msi-original-imagp9fkssgswfca.jpeg?q=70",
+            "ratting": 4.0,
+            "stock":120
+        },{
+            "id": 13,
+            "name":"Lenovo IdeaPad 1 ",
+            "brand":"Lenovo",
+            "price":38490 ,
+            "description": "Lenovo IdeaPad 1 Celeron Dual Core N4020 - (8 GB/256 GB SSD/Windows 11 Home) 14IGL7 Thin and Light Laptop  (14 Inch, Cloud Grey, 1.3 Kg, With MS Office)",
+            "discount":32 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/l4vnbm80/computer/q/f/c/15ada7-thin-and-light-laptop-lenovo-original-imagfzzxeqepzvh4.jpeg?q=70",
+            "ratting": 3.6,
+            "stock":43
+        },{
+            "id": 14,
+            "name":"APPLE 2022 MacBook AIR M2",
+            "brand":"APPLE ",
+            "price": 114900,
+            "description": "APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Monterey) MLY33HN/A  (13.6 Inch, Midnight, 1.24 Kg)",
+            "discount":6 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=70",
+            "ratting": 4.7,
+            "stock":655
+        },{
+            "id":15 ,
+            "name":"ASUS ROG Zephyrus G14",
+            "brand":"v",
+            "price":194990 ,
+            "description": "ASUS ROG Zephyrus G14 with 76WHr Battery Ryzen 9 Octa Core 5900HS - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/120 Hz/80 W) GA401QM-K2331TS Gaming Laptop  (14 Inch, Eclipse Gray AniMe Matrix Version, 1.70 Kg, With MS Office)",
+            "discount":43 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/n/n/f/ga401qm-k2331ts-gaming-laptop-asus-original-imagpz5yhrzeuchr.jpeg?q=70",
+            "ratting": 4.8,
+            "stock":8
+        },{
+            "id":16 ,
+            "name":"APPLE Macbook Air (2023) M2",
+            "brand":"APPLE ",
+            "price":126990 ,
+            "description": "APPLE Macbook Air (2023) M2 - (8 GB/256 GB SSD/macOS Ventura) MQKW3HN/A  (15.3 Inch, Midnight, 1.51 Kg)",
+            "discount":5 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/1/s/p/macbook-air-thin-and-light-laptop-apple-original-imagqapken6qgwpk.jpeg?q=70",
+            "ratting": 4.9,
+            "stock":28
+        },{
+            "id": 17,
+            "name":"ASUS Zenbook 14 Flip OLED ",
+            "brand":"ASUS",
+            "price":152990 ,
+            "description": "ASUS Zenbook 14 Flip OLED (2023) Intel EVO P-Series Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) UP3404VA-KN742WS 2 in 1 Laptop  (14 Inch, Ponder Blue, 1.50 kg, With MS Office)",
+            "discount":18 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/y/k/e/up3404va-kn542ws-thin-and-light-laptop-asus-original-imagzhka7c34dpch.jpeg?q=70",
+            "ratting": 3.5,
+            "stock":6
+        },{
+            "id": 18,
+            "name":"APPLE 2023 MacBook Pro M2 Max ",
+            "brand":"APPLE",
+            "price":285490 ,
+            "description": "APPLE 2023 MacBook Pro M2 Max - (32 GB/1 TB SSD/macOS Ventura) MPHG3HN/A  (14 Inch, Space Grey, 1.63 Kg)",
+            "discount": 7,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/y/i/y/mphg3hn-a-thin-and-light-laptop-apple-original-imagmfhepavqyfyy.jpeg?q=70",
+            "ratting": 4.9,
+            "stock":50
+        },{
+            "id":19 ,
+            "name":"APPLE 2022 MacBook AIR M2",
+            "brand":"APPLE",
+            "price":137990 ,
+            "description": "APPLE 2022 MacBook AIR M2 - (8 GB/512 GB SSD/Mac OS Monterey) MLY03HN/A  (13.6 Inch, Silver, 1.24 kg)",
+            "discount":8 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/1/n/p/-original-imagfdfew8gszzhk.jpeg?q=70",
+            "ratting": 4.3,
+            "stock":17
+        },{
+            "id":20 ,
+            "name":"APPLE 2021 Macbook Pro M1 Pro",
+            "brand":"APPLE",
+            "price":225090 ,
+            "description": "APPLE 2021 Macbook Pro M1 Pro - (16 GB/1 TB SSD/Mac OS Monterey) MKGQ3HN/A  (14.2 inch, Space Grey�, 1.6 kg)",
+            "discount": 6,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/kuyf8nk0/computer/c/8/u/mkgp3hn-a-thin-and-light-laptop-apple-original-imag7yznc5d2rsuh.jpeg?q=70",
+            "ratting": 4.8,
+            "stock":134
+        }
+    ]
+}

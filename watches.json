@@ -1,0 +1,192 @@
+{
+    "watches": [
+        {
+            "id":1,
+            "name":"TIMEX",
+            "description": "Analog Dial Men's Watch",
+            "price": 2876 ,
+            "discount": 40,
+            "ratting": 4.9,
+            "sold": 11,
+            "image_url": "https://m.media-amazon.com/images/I/61d0vSsB2wL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":2,
+            "name":"TIMEX",
+            "description": "3 Hands Men Analog Black Dial Coloured Quartz Watch",
+            "price": 2196,
+            "discount": 21,
+            "ratting": 4.1,
+            "sold": 23,
+            "image_url": "https://m.media-amazon.com/images/I/713FBuKFMFL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":3,
+            "name":"TIMEX",
+            "description": "Multifunction Men Analog Silver Dial Coloured Quartz Watch",
+            "price": 2696,
+            "discount": 23,
+            "ratting": 3.9,
+            "sold": 21,
+            "image_url": "https://m.media-amazon.com/images/I/61cXtgEc3oL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":4,
+            "name":"LOUIS DEVIN",
+            "description": "Silicone Strap Analog Wrist Watch for Men",
+            "price": 394,
+            "discount": 79,
+            "ratting": 2.9,
+            "sold": 1600,
+            "image_url": "https://m.media-amazon.com/images/I/61LO6l4zB4L._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":5,
+            "name":"LOUIS DEVIN",
+            "description": "Mesh Steel Chain Analog Wrist Watch for Men (LD-G042)",
+            "price": 329,
+            "discount": 82,
+            "ratting": 2.4,
+            "sold": 634,
+            "image_url": "https://m.media-amazon.com/images/I/81K562wi+bL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":6,
+            "name":"Fastrack",
+            "description": "Analog Unisex-Adult Watch",
+            "price": 850,
+            "discount": 5,
+            "ratting": 4.2,
+            "sold": 10320,
+            "image_url": "https://m.media-amazon.com/images/I/61FFBTzKiUL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":7,
+            "name":"TIMEWEAR",
+            "description": "Analog New Track Number Dial Day Date Functioning Leather",
+            "price": 329,
+            "discount": 78,
+            "ratting": 3.8,
+            "sold": 509,
+            "image_url": "https://m.media-amazon.com/images/I/71CVv+-eVWL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":8,
+            "name":"Fossil",
+            "description": "The Minimalist 3h Analog Grey Dial Men's Watch - FS5459",
+            "price": 11815,
+            "discount": 4,
+            "ratting": 4.2,
+            "sold": 692,
+            "image_url": "https://m.media-amazon.com/images/I/51B4SyGFMkL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":9,
+            "name":"Fossil",
+            "description": "Analog Blue Dial Men's Watch-FS4835IE",
+            "price": 12495,
+            "discount": 5,
+            "ratting": 4.5,
+            "sold": 1500,
+            "image_url": "https://m.media-amazon.com/images/I/81k18hEStwL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":10,
+            "name":"Fossil",
+            "description": "Everett Analog Gray Dial Men's Watch-ME3206",
+            "price": 21495,
+            "discount": 5,
+            "ratting": 4.8,
+            "sold": 87,
+            "image_url": "https://m.media-amazon.com/images/I/718lwi0xfhL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":11,
+            "name":"Titan",
+            "description": "Neo Analog Dial Men's Watch",
+            "price": 3409,
+            "discount": 28,
+            "ratting": 3.9,
+            "sold": 1600,
+            "image_url": "https://m.media-amazon.com/images/I/81jwqdXXikL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":12,
+            "name":"Titan",
+            "description": "Analog OffWhite Dial Men's Watch NM1712YM02",
+            "price": 1994,
+            "discount": 30,
+            "ratting": 4.2,
+            "sold": 2100,
+            "image_url": "https://m.media-amazon.com/images/I/71KxuRv3-fL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":13,
+            "name":"Armani Exchange",
+            "description": "Hampton Analog Black Dial Men's Watch-AX2103",
+            "price": 13995,
+            "discount": 5,
+            "ratting": 4.7,
+            "sold": 1100,
+            "image_url": "https://m.media-amazon.com/images/I/81ojSqzB7TL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":14,
+            "name":"Fossil",
+            "description": "Analog Blue Dial Men's Watch - FS5237",
+            "price": 7497,
+            "discount": 22,
+            "ratting": 4.3,
+            "sold": 1700,
+            "image_url": "https://m.media-amazon.com/images/I/71PzJidbCRL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":15,
+            "name":"Matrix",
+            "description": "Day & Date Analog Men's Watch",
+            "price": 299 ,
+            "discount": 75,
+            "ratting": 4.1,
+            "sold": 700,
+            "image_url": "https://m.media-amazon.com/images/I/71GtycnHMtL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":16,
+            "name":"Emporio Armani",
+            "description": "Gun-Metal Watch AR60029",
+            "price": 25196,
+            "discount": 7,
+            "ratting": 4.9,
+            "sold": 7700,
+            "image_url": "https://m.media-amazon.com/images/I/614yBk2UsdL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":17,
+            "name":"Acnos",
+            "description": "Premium Analog Multi-Colour Dial Men's Watch - AN-COMB",
+            "price": 365,
+            "discount": 74,
+            "ratting": 2.6,
+            "sold": 774,
+            "image_url": "https://m.media-amazon.com/images/I/61pxzFcjTYL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":18,
+            "name":"Titan",
+            "description": "Karishma Analog Black Dial Men's Watch",
+            "price": 1995,
+            "discount": 12,
+            "ratting": 4.3,
+            "sold": 8800,
+            "image_url": "https://m.media-amazon.com/images/I/71zrkmRGpoL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":19,
+            "name":"Fastrack",
+            "description": "Casual Analog White Dial Men's Watch NN3121SM01",
+            "price": 1762,
+            "discount": 7,
+            "ratting": 3.6,
+            "sold": 4500,
+            "image_url": "https://m.media-amazon.com/images/I/71sXdXRCCTL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":20,
+            "name":"SWISSTYLE",
+            "description": "Analog Men's Watch (Multicolour Dial Multi Colors)",
+            "price": 139,
+            "discount": 92,
+            "ratting": 1.9,
+            "sold": 42,
+            "image_url": "https://m.media-amazon.com/images/I/71+eIXF07qL._AC_UL480_FMwebp_QL65_.jpg"
+        }
+
+    ]
+}

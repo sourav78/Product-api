@@ -1,0 +1,185 @@
+{
+    "smart watch": [
+        {
+            "id":1,
+            "name": "NoiseFit Halo ",
+            "description": "NoiseFit Halo 1.43 AMOLED Display, Bluetooth Calling Round Dial Smart Watch, Premium Metallic Build, Always on Display, Smart Gesture Control, 100 Sports Modes",
+            "brand": "NoiseFit",
+            "price": 2999,
+            "discount": 57,
+            "ratting": 3.9,
+            "image_url": "https://m.media-amazon.com/images/I/71aTghUQfqL._AC_UY327_QL65_.jpg"
+        },{
+            "id":2,
+            "name": "boAt Wave Style",
+            "description": "boAt Wave Style Call Smart Watch with Advanced BT Calling Chip,DIY Watch Face Studio, Coins, 1.69 HD Display, Health Ecosystem, Live Cricket Scores, Quick Replies, HR & SpO2(Cherry Blossom)",
+            "brand": "boAt",
+            "price":1099 ,
+            "discount":83,
+            "ratting":3.9 ,
+            "image_url": "https://m.media-amazon.com/images/I/61rJhMxiusL._AC_UY327_QL65_.jpg"
+        },{
+            "id":3,
+            "name": "boAt Wave Edge",
+            "description": "boAt Wave Edge Smart Watch with 1.85HD Display, Advanced Bluetooth Calling Chip, Functional Crown, 100+ Sports Modes,Widget Control,AI Voice Assistance,Inbuilt Games, IP68(Sage Green)",
+            "brand": "boAt",
+            "price":1199 ,
+            "discount":87 ,
+            "ratting": 3.9,
+            "image_url": "https://m.media-amazon.com/images/I/611xYqDdfRL._SY355_.jpg"
+        },{
+            "id":4,
+            "name": "Fire-Boltt Ninja 3",
+            "description": "Fire-Boltt Ninja 3 Smartwatch Full Touch 1.69 & 60 Sports Modes with IP68, Sp02 Tracking, Over 100 Cloud Based Watch Faces (Black)",
+            "brand": "Fire-Boltt ",
+            "price":999 ,
+            "discount": 88,
+            "ratting":4.2 ,
+            "image_url": "https://m.media-amazon.com/images/I/61ZgWdNPmfL._SY450_.jpg"
+        },{
+            "id":5,
+            "name": "beatXP Vega 1.43",
+            "description": "beatXP Vega 1.43 (3.6 cm) Super AMOLED Display, One-Tap Bluetooth Calling Smart Watch, 1000 Nits Brightness, Fast Charging, 24 * 7 Health Monitoring (Electric Black)",
+            "brand": "beatXP",
+            "price":2499 ,
+            "discount":77 ,
+            "ratting":4.0 ,
+            "image_url": "https://m.media-amazon.com/images/I/71tH69LXCML._SY450_.jpg"
+        },{
+            "id":6,
+            "name": "CrossBeats Stellr",
+            "description": "CrossBeats Stellr Large 2.01 Super AMOLED Always ON Bluetooth Calling Smartwatch, Rotating Crown, Built-In Games, Alarm, Calculator, 125+ Sports mode, 7days Battery| AI Voice Assistant Strap-Black",
+            "brand": "CrossBeats",
+            "price":3499 ,
+            "discount":65 ,
+            "ratting": 4.2,
+            "image_url": "https://m.media-amazon.com/images/I/51WAGzg5WZL._SX300_SY300_QL70_FMwebp_.jpg"
+        },{
+            "id":7,
+            "name": "crossBeats Ignite",
+            "description": "CrossBeats Ignite S5 Advanced AI ENC BT Calling Smartwatch, 1.96” Super AMOLED Anti-Glare Screen, Always on Display, Calculator, 500+ Watch Faces, 360 Degree Health Tracking, Fast Charge (Silver)",
+            "brand": "crossBeats",
+            "price":3999 ,
+            "discount":67 ,
+            "ratting":4.0 ,
+            "image_url": "https://m.media-amazon.com/images/I/61hpgKeYpZL._SY355_.jpg"
+        },{
+            "id":8,
+            "name": "Noise Pulse 2 Max",
+            "description": "Noise Pulse 2 Max 1.85 Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black)",
+            "brand": "Noise",
+            "price":1499 ,
+            "discount":75 ,
+            "ratting": 4.0,
+            "image_url": "https://m.media-amazon.com/images/I/61SSVxTSs3L._SY450_.jpg"
+        },{
+            "id":9,
+            "name": "beatXP Vega X 1.43",
+            "description": "beatXP Vega X 1.43 (3.6 cm) Super AMOLED Display, One-Tap Bluetooth Calling Smart Watch, 1000 Nits Brightness, Fast Charging, 24 * 7 Health Monitoring (Electric Black)",
+            "brand": "beatXP ",
+            "price":2699 ,
+            "discount":73 ,
+            "ratting":4.0 ,
+            "image_url": "https://m.media-amazon.com/images/I/51aB5TRkOWL._SX300_SY300_QL70_FMwebp_.jpg"
+        },{
+            "id":10,
+            "name": "boAt Wave Leap",
+            "description": "boAt Wave Leap Call Smart Watch with 1.83 HD Display, Advanced Bluetooth Calling, Coins,Multiple Watch Faces, Multi-Sports Modes, IP68, HR & SpO2, Metallic Design, Weather Forecasts(Active Black)",
+            "brand": "boAt",
+            "price":1499 ,
+            "discount":81 ,
+            "ratting": 3.8,
+            "image_url": "https://m.media-amazon.com/images/I/61pBjsIyVeL._SY355_.jpg"
+        },{
+            "id":11,
+            "name": "Garmin Epix Pro ",
+            "description": "Garmin Epix Pro Sapphire GPS Outdoor Smartwatch with Amoled Display Touchscreen, 51 mm case Size, Battery Upto 16 Days, 24/7 HRV, SPO2, Built-in Flashlight, VO2 Max, ClimbPro, Realtime Stamina",
+            "brand": "Garmin",
+            "price":123490 ,
+            "discount":10 ,
+            "ratting":4.0 ,
+            "image_url": "https://m.media-amazon.com/images/I/71xUM8qyTAL._SX425_.jpg"
+        },{
+            "id":12,
+            "name": "Apple Watch Ultra 2",
+            "description": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch with Rugged Titanium Case & Blue Ocean Band One Size. Fitness Tracker, Precision GPS, Action Button, Extra-Long Battery Life, Bright Retina Display",
+            "brand": "Apple",
+            "price":89900 ,
+            "discount": 5,
+            "ratting":4.5 ,
+            "image_url": "https://m.media-amazon.com/images/I/71Hd5u7gtuL._SY450_.jpg"
+        },{
+            "id":13,
+            "name": "Samsung Galaxy Watch4 Classic LTE",
+            "description": "Samsung Galaxy Watch4 Classic LTE (4.6cm, Black)",
+            "brand": "Samsung ",
+            "price": 14990,
+            "discount": 65,
+            "ratting":4.3 ,
+            "image_url": "https://m.media-amazon.com/images/I/61ftRB6KycL._SX355_.jpg"
+        },{
+            "id":14,
+            "name": "Samsung Galaxy Watch4 Bluetooth",
+            "description": "Samsung Galaxy Watch4 Bluetooth(44mm, Black, Compatible with Android only)",
+            "brand": "Samsung",
+            "price":9809 ,
+            "discount": 67,
+            "ratting": 4.3,
+            "image_url": "https://m.media-amazon.com/images/I/61Nhi7ovjkL._SX355_.jpg"
+        },{
+            "id":15,
+            "name": "Samsung Galaxy Watch5 Bluetooth ",
+            "description": "Samsung Galaxy Watch5 Bluetooth (44 mm, Sapphire, Compatible with Android only)",
+            "brand": "Samsung",
+            "price": 26999,
+            "discount":21 ,
+            "ratting":4.3 ,
+            "image_url": "https://m.media-amazon.com/images/I/61aVQDazNHL._SX355_.jpg"
+        },{
+            "id":16,
+            "name": "Samsung Galaxy Watch6 LTE ",
+            "description": "Samsung Galaxy Watch6 LTE (40mm, Graphite, Compatible with Android only)",
+            "brand": "Samsung",
+            "price":33659 ,
+            "discount": 14,
+            "ratting": 3.2,
+            "image_url": "https://m.media-amazon.com/images/I/71svvk+xsCL._SY355_.jpg"
+        },{
+            "id":17,
+            "name": "Fire-Boltt Visionary",
+            "description": "Fire-Boltt Visionary 1.78 AMOLED Bluetooth Calling Smartwatch with 368 * 448 Pixel Resolution, Rotating Crown & 60Hz Refresh Rate 100+ Sports Mode, TWS Connection, Voice Assistance (Black)",
+            "brand": "Fire-Boltt",
+            "price":2799 ,
+            "discount": 84,
+            "ratting":4.3 ,
+            "image_url": "https://m.media-amazon.com/images/I/61Fj5wTOQiL._SY355_.jpg"
+        },{
+            "id":18,
+            "name": "Apple Watch Series 9 ",
+            "description": "Apple Watch Series 9 [GPS + Cellular 41mm] Smartwatch with Pink Aluminum Case with Light Pink Sport Band S/M. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",
+            "brand": "Apple ",
+            "price": 51900,
+            "discount": 3,
+            "ratting": 4.0 ,
+            "image_url": "https://m.media-amazon.com/images/I/61CvjSE01lL._SY450_.jpg"
+        },{
+            "id":19,
+            "name": "MAVV DZ09 ",
+            "description": "MAVV DZ09 Smart Watch, Smartphones, Wireless, Touchscreen, Camera, and SIM Card Support, Pedometer Sleep and Fitness Monitoring, Sports Mode Camera (Black)",
+            "brand": "MAVV ",
+            "price": 829,
+            "discount":41 ,
+            "ratting": 3.6,
+            "image_url": "https://m.media-amazon.com/images/I/417QpL6Bu-L.jpg"
+        },{
+            "id":20,
+            "name": "Fitshot Kids Smart Watch",
+            "description": "Fitshot Junior Kids Smart Watch with GPS Location Tracking, 4G Video Calling, Audio Messaging, SOS Emergency Alerts, Health & Temperature Tracking, 7 Games, Parental Control, 1.69  Display (Blue)",
+            "brand": "Fitshot",
+            "price":5999 ,
+            "discount": 40,
+            "ratting": 4.2,
+            "image_url": "https://m.media-amazon.com/images/I/814HpRn9mnL._SY355_.jpg"
+        }
+    ]
+}

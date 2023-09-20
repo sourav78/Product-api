@@ -1,0 +1,3958 @@
+{
+   "laptop" : [
+        {
+            "id": 1,
+            "name":"HP Laptop 15s",
+            "brand":"HP",
+            "price": 49631 ,
+            "description": "HP Laptop 15s, AMD Ryzen 5 5500U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, AMD Radeon Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg),",
+            "discount": 16,
+            "image_url": "https://m.media-amazon.com/images/I/81SCRIobVAL._AC_UY327_FMwebp_QL65_.jpg",
+            "ratting": 4.1,
+            "stock":67
+        },
+        {
+            "id": 2,
+            "name":"Acer Aspire 5",
+            "brand":"Acer",
+            "price": 82999 ,
+            "description": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (16 GB/512 GB SSD/Win11 Home/4GB Graphics/RTX 2050) A515-57G (15.6 FHD Display, 1.8 Kg)",
+            "discount": 16,
+            "image_url": "https://m.media-amazon.com/images/I/61xzutxSl8L._AC_UY327_FMwebp_QL65_.jpg",
+            "ratting": 4.0,
+            "stock":64
+        },
+        {
+            "id":3 ,
+            "name":"Acer Extensa",
+            "brand":"Acer",
+            "price":44999 ,
+            "description": "Acer Extensa (2023) Intel Core i3 12th Gen N305 - (8 GB/256 GB SSD/Windows 11 Home) EX215-33 Thin and Light Laptop  (15.6 Inch, Silver, 1.7 Kg, With MS Office)",
+            "discount":26 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/7/o/r/-original-imagnc38zedzfnw6.jpeg?q=70",
+            "ratting": 4.2,
+            "stock":426
+        },
+        {
+            "id": 4,
+            "name":"DELL Inspiron",
+            "brand":"DELL",
+            "price":100000 ,
+            "description": "DELL Inspiron Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 7420 2 in 1 Laptop  (14 inch, Platinum Silver, 1.57 kg, With MS Office)",
+            "discount":22 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/l/j/b/-original-imaghzahqvua2bgp.jpeg?q=70",
+            "ratting": 3.9,
+            "stock":26
+        },
+        {
+            "id":5 ,
+            "name":"ASSUS Chromebook",
+            "brand":"ASUS",
+            "price":32990 ,
+            "description": "ASUS Chromebook Celeron Dual Core N4500 - (4 GB/128 GB EMMC Storage/Chrome OS) CX1400CKA-EK0335 Chromebook  (14 Inch, Transparent Silver, 1.47 Kg)",
+            "discount":39 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/o/b/n/cx1400cka-ek0266-thin-and-light-laptop-asus-original-imagszagbwyttrzq.jpeg?q=70",
+            "ratting": 3.5,
+            "stock":30
+        },{
+            "id":6 ,
+            "name":"Lenovo Ideapad Gaming 3 ",
+            "brand":"Lenovo",
+            "price":72990 ,
+            "description": "Lenovo Ideapad Gaming 3 AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) 15ACH6 Gaming Laptop  (15.6 Inch, Shadow Black, 2.25 kg kg)",
+            "discount":28 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/0/1/3/-original-imags7crhnbdg2th.jpeg?q=70",
+            "ratting": 4.2,
+            "stock":404
+        },{
+            "id":7 ,
+            "name":"ASUS TUF Gaming F15" ,
+            "brand":"ASUS",
+            "price":77990 ,
+            "description": "ASUS TUF Gaming F15 - AI Powered Gaming Core i5 11th Gen 11400H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050/144 Hz/70 W) FX706HF-HX018W Gaming Laptop  (17.3 Inch, Graphite Black, 2.60 kg)",
+            "discount":24 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/a/h/g/-original-imagpbycdv8t3pmh.jpeg?q=70",
+            "ratting": 4.3,
+            "stock":242
+        },{
+            "id": 8,
+            "name":"HP Pavilion ",
+            "brand":"HP",
+            "price":77142 ,
+            "description": "HP Pavilion Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 14-dv2014TU Thin and Light Laptop  (14 inch, Natural Silver, 1.41 Kg, With MS Office)",
+            "discount":14 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/3/x/d/-original-imagp7pfqwvb2hhf.jpeg?q=70",
+            "ratting": 4.3,
+            "stock":979
+        },{
+            "id":9 ,
+            "name":"Infinix Y1 Plus Neo",
+            "brand":"Infinix",
+            "price": 29990,
+            "description": "Infinix Y1 Plus Neo (2023) Celeron Quad Core 11th Gen N5100 - (4 GB/128 GB SSD/Windows 11 Home) XL30 Thin and Light Laptop  (15.6 Inch, Blue, 1.76 Kg)",
+            "discount":30 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/t/z/o/xl30-thin-and-light-laptop-infinix-original-imagzmncf5snymhu.jpeg?q=70",
+            "ratting": 4.1,
+            "stock":902
+        },{
+            "id": 10,
+            "name":"SAMSUNG Galaxy Book 2 ",
+            "brand":"SAMSUNG ",
+            "price":82990 ,
+            "description": "SAMSUNG Galaxy Book 2 Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) NP550 Thin and Light Laptop  (15.6 Inch, Graphite, 1.80 Kg, With MS Office)#JustHere",
+            "discount":20 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/d/j/e/galaxy-book2-plastic-thin-and-light-laptop-samsung-original-imaghkp8zvqhfzrh.jpeg?q=70",
+            "ratting": 4.2,
+            "stock":207
+        },{
+            "id":11 ,
+            "name":"APPLE 2020 Macbook Air M1",
+            "brand":"APPLE",
+            "price":99900 ,
+            "description": "APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN93HN/A  (13.3 inch, Silver, 1.29 kg)",
+            "discount": 17,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/khdqnbk0/computer/f/y/t/apple-original-imafxfyqydgvrkzv.jpeg?q=70",
+            "ratting": 4.7,
+            "stock":11614
+        },{
+            "id":12 ,
+            "name":"MSI Core",
+            "brand":"MSI ",
+            "price": 179990,
+            "description": "MSI Core i9 13th Gen 13900H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4060/144 Hz) Katana 15 B13VFK-843IN Gaming Laptop  (15.6 Inch, Black, 2.25 Kg)",
+            "discount":27 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/i/w/k/katana-15-b12udxk-1019in-gaming-laptop-msi-original-imagp9fkssgswfca.jpeg?q=70",
+            "ratting": 4.0,
+            "stock":120
+        },{
+            "id": 13,
+            "name":"Lenovo IdeaPad 1 ",
+            "brand":"Lenovo",
+            "price":38490 ,
+            "description": "Lenovo IdeaPad 1 Celeron Dual Core N4020 - (8 GB/256 GB SSD/Windows 11 Home) 14IGL7 Thin and Light Laptop  (14 Inch, Cloud Grey, 1.3 Kg, With MS Office)",
+            "discount":32 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/l4vnbm80/computer/q/f/c/15ada7-thin-and-light-laptop-lenovo-original-imagfzzxeqepzvh4.jpeg?q=70",
+            "ratting": 3.6,
+            "stock":43
+        },{
+            "id": 14,
+            "name":"APPLE 2022 MacBook AIR M2",
+            "brand":"APPLE ",
+            "price": 114900,
+            "description": "APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Monterey) MLY33HN/A  (13.6 Inch, Midnight, 1.24 Kg)",
+            "discount":6 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=70",
+            "ratting": 4.7,
+            "stock":655
+        },{
+            "id":15 ,
+            "name":"ASUS ROG Zephyrus G14",
+            "brand":"v",
+            "price":194990 ,
+            "description": "ASUS ROG Zephyrus G14 with 76WHr Battery Ryzen 9 Octa Core 5900HS - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/120 Hz/80 W) GA401QM-K2331TS Gaming Laptop  (14 Inch, Eclipse Gray AniMe Matrix Version, 1.70 Kg, With MS Office)",
+            "discount":43 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/n/n/f/ga401qm-k2331ts-gaming-laptop-asus-original-imagpz5yhrzeuchr.jpeg?q=70",
+            "ratting": 4.8,
+            "stock":8
+        },{
+            "id":16 ,
+            "name":"APPLE Macbook Air (2023) M2",
+            "brand":"APPLE ",
+            "price":126990 ,
+            "description": "APPLE Macbook Air (2023) M2 - (8 GB/256 GB SSD/macOS Ventura) MQKW3HN/A  (15.3 Inch, Midnight, 1.51 Kg)",
+            "discount":5 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/1/s/p/macbook-air-thin-and-light-laptop-apple-original-imagqapken6qgwpk.jpeg?q=70",
+            "ratting": 4.9,
+            "stock":28
+        },{
+            "id": 17,
+            "name":"ASUS Zenbook 14 Flip OLED ",
+            "brand":"ASUS",
+            "price":152990 ,
+            "description": "ASUS Zenbook 14 Flip OLED (2023) Intel EVO P-Series Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) UP3404VA-KN742WS 2 in 1 Laptop  (14 Inch, Ponder Blue, 1.50 kg, With MS Office)",
+            "discount":18 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/y/k/e/up3404va-kn542ws-thin-and-light-laptop-asus-original-imagzhka7c34dpch.jpeg?q=70",
+            "ratting": 3.5,
+            "stock":6
+        },{
+            "id": 18,
+            "name":"APPLE 2023 MacBook Pro M2 Max ",
+            "brand":"APPLE",
+            "price":285490 ,
+            "description": "APPLE 2023 MacBook Pro M2 Max - (32 GB/1 TB SSD/macOS Ventura) MPHG3HN/A  (14 Inch, Space Grey, 1.63 Kg)",
+            "discount": 7,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/y/i/y/mphg3hn-a-thin-and-light-laptop-apple-original-imagmfhepavqyfyy.jpeg?q=70",
+            "ratting": 4.9,
+            "stock":50
+        },{
+            "id":19 ,
+            "name":"APPLE 2022 MacBook AIR M2",
+            "brand":"APPLE",
+            "price":137990 ,
+            "description": "APPLE 2022 MacBook AIR M2 - (8 GB/512 GB SSD/Mac OS Monterey) MLY03HN/A  (13.6 Inch, Silver, 1.24 kg)",
+            "discount":8 ,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/1/n/p/-original-imagfdfew8gszzhk.jpeg?q=70",
+            "ratting": 4.3,
+            "stock":17
+        },{
+            "id":20 ,
+            "name":"APPLE 2021 Macbook Pro M1 Pro",
+            "brand":"APPLE",
+            "price":225090 ,
+            "description": "APPLE 2021 Macbook Pro M1 Pro - (16 GB/1 TB SSD/Mac OS Monterey) MKGQ3HN/A  (14.2 inch, Space Grey�, 1.6 kg)",
+            "discount": 6,
+            "image_url": "https://rukminim2.flixcart.com/image/416/416/kuyf8nk0/computer/c/8/u/mkgp3hn-a-thin-and-light-laptop-apple-original-imag7yznc5d2rsuh.jpeg?q=70",
+            "ratting": 4.8,
+            "stock":134
+         }
+   ],
+    "watches": [
+        {
+            "id":1,
+            "name":"TIMEX",
+            "description": "Analog Dial Men's Watch",
+            "price": 2876 ,
+            "discount": 40,
+            "ratting": 4.9,
+            "sold": 11,
+            "image_url": "https://m.media-amazon.com/images/I/61d0vSsB2wL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":2,
+            "name":"TIMEX",
+            "description": "3 Hands Men Analog Black Dial Coloured Quartz Watch",
+            "price": 2196,
+            "discount": 21,
+            "ratting": 4.1,
+            "sold": 23,
+            "image_url": "https://m.media-amazon.com/images/I/713FBuKFMFL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":3,
+            "name":"TIMEX",
+            "description": "Multifunction Men Analog Silver Dial Coloured Quartz Watch",
+            "price": 2696,
+            "discount": 23,
+            "ratting": 3.9,
+            "sold": 21,
+            "image_url": "https://m.media-amazon.com/images/I/61cXtgEc3oL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":4,
+            "name":"LOUIS DEVIN",
+            "description": "Silicone Strap Analog Wrist Watch for Men",
+            "price": 394,
+            "discount": 79,
+            "ratting": 2.9,
+            "sold": 1600,
+            "image_url": "https://m.media-amazon.com/images/I/61LO6l4zB4L._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":5,
+            "name":"LOUIS DEVIN",
+            "description": "Mesh Steel Chain Analog Wrist Watch for Men (LD-G042)",
+            "price": 329,
+            "discount": 82,
+            "ratting": 2.4,
+            "sold": 634,
+            "image_url": "https://m.media-amazon.com/images/I/81K562wi+bL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":6,
+            "name":"Fastrack",
+            "description": "Analog Unisex-Adult Watch",
+            "price": 850,
+            "discount": 5,
+            "ratting": 4.2,
+            "sold": 10320,
+            "image_url": "https://m.media-amazon.com/images/I/61FFBTzKiUL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":7,
+            "name":"TIMEWEAR",
+            "description": "Analog New Track Number Dial Day Date Functioning Leather",
+            "price": 329,
+            "discount": 78,
+            "ratting": 3.8,
+            "sold": 509,
+            "image_url": "https://m.media-amazon.com/images/I/71CVv+-eVWL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":8,
+            "name":"Fossil",
+            "description": "The Minimalist 3h Analog Grey Dial Men's Watch - FS5459",
+            "price": 11815,
+            "discount": 4,
+            "ratting": 4.2,
+            "sold": 692,
+            "image_url": "https://m.media-amazon.com/images/I/51B4SyGFMkL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":9,
+            "name":"Fossil",
+            "description": "Analog Blue Dial Men's Watch-FS4835IE",
+            "price": 12495,
+            "discount": 5,
+            "ratting": 4.5,
+            "sold": 1500,
+            "image_url": "https://m.media-amazon.com/images/I/81k18hEStwL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":10,
+            "name":"Fossil",
+            "description": "Everett Analog Gray Dial Men's Watch-ME3206",
+            "price": 21495,
+            "discount": 5,
+            "ratting": 4.8,
+            "sold": 87,
+            "image_url": "https://m.media-amazon.com/images/I/718lwi0xfhL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":11,
+            "name":"Titan",
+            "description": "Neo Analog Dial Men's Watch",
+            "price": 3409,
+            "discount": 28,
+            "ratting": 3.9,
+            "sold": 1600,
+            "image_url": "https://m.media-amazon.com/images/I/81jwqdXXikL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":12,
+            "name":"Titan",
+            "description": "Analog OffWhite Dial Men's Watch NM1712YM02",
+            "price": 1994,
+            "discount": 30,
+            "ratting": 4.2,
+            "sold": 2100,
+            "image_url": "https://m.media-amazon.com/images/I/71KxuRv3-fL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":13,
+            "name":"Armani Exchange",
+            "description": "Hampton Analog Black Dial Men's Watch-AX2103",
+            "price": 13995,
+            "discount": 5,
+            "ratting": 4.7,
+            "sold": 1100,
+            "image_url": "https://m.media-amazon.com/images/I/81ojSqzB7TL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":14,
+            "name":"Fossil",
+            "description": "Analog Blue Dial Men's Watch - FS5237",
+            "price": 7497,
+            "discount": 22,
+            "ratting": 4.3,
+            "sold": 1700,
+            "image_url": "https://m.media-amazon.com/images/I/71PzJidbCRL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":15,
+            "name":"Matrix",
+            "description": "Day & Date Analog Men's Watch",
+            "price": 299 ,
+            "discount": 75,
+            "ratting": 4.1,
+            "sold": 700,
+            "image_url": "https://m.media-amazon.com/images/I/71GtycnHMtL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":16,
+            "name":"Emporio Armani",
+            "description": "Gun-Metal Watch AR60029",
+            "price": 25196,
+            "discount": 7,
+            "ratting": 4.9,
+            "sold": 7700,
+            "image_url": "https://m.media-amazon.com/images/I/614yBk2UsdL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":17,
+            "name":"Acnos",
+            "description": "Premium Analog Multi-Colour Dial Men's Watch - AN-COMB",
+            "price": 365,
+            "discount": 74,
+            "ratting": 2.6,
+            "sold": 774,
+            "image_url": "https://m.media-amazon.com/images/I/61pxzFcjTYL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":18,
+            "name":"Titan",
+            "description": "Karishma Analog Black Dial Men's Watch",
+            "price": 1995,
+            "discount": 12,
+            "ratting": 4.3,
+            "sold": 8800,
+            "image_url": "https://m.media-amazon.com/images/I/71zrkmRGpoL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":19,
+            "name":"Fastrack",
+            "description": "Casual Analog White Dial Men's Watch NN3121SM01",
+            "price": 1762,
+            "discount": 7,
+            "ratting": 3.6,
+            "sold": 4500,
+            "image_url": "https://m.media-amazon.com/images/I/71sXdXRCCTL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id":20,
+            "name":"SWISSTYLE",
+            "description": "Analog Men's Watch (Multicolour Dial Multi Colors)",
+            "price": 139,
+            "discount": 92,
+            "ratting": 1.9,
+            "sold": 42,
+            "image_url": "https://m.media-amazon.com/images/I/71+eIXF07qL._AC_UL480_FMwebp_QL65_.jpg"
+        }
+
+    ],
+    "smart watch": [
+        {
+            "id":1,
+            "name": "NoiseFit Halo ",
+            "description": "NoiseFit Halo 1.43 AMOLED Display, Bluetooth Calling Round Dial Smart Watch, Premium Metallic Build, Always on Display, Smart Gesture Control, 100 Sports Modes",
+            "brand": "NoiseFit",
+            "price": 2999,
+            "discount": 57,
+            "ratting": 3.9,
+            "image_url": "https://m.media-amazon.com/images/I/71aTghUQfqL._AC_UY327_QL65_.jpg"
+        },{
+            "id":2,
+            "name": "boAt Wave Style",
+            "description": "boAt Wave Style Call Smart Watch with Advanced BT Calling Chip,DIY Watch Face Studio, Coins, 1.69 HD Display, Health Ecosystem, Live Cricket Scores, Quick Replies, HR & SpO2(Cherry Blossom)",
+            "brand": "boAt",
+            "price":1099 ,
+            "discount":83,
+            "ratting":3.9 ,
+            "image_url": "https://m.media-amazon.com/images/I/61rJhMxiusL._AC_UY327_QL65_.jpg"
+        },{
+            "id":3,
+            "name": "boAt Wave Edge",
+            "description": "boAt Wave Edge Smart Watch with 1.85HD Display, Advanced Bluetooth Calling Chip, Functional Crown, 100+ Sports Modes,Widget Control,AI Voice Assistance,Inbuilt Games, IP68(Sage Green)",
+            "brand": "boAt",
+            "price":1199 ,
+            "discount":87 ,
+            "ratting": 3.9,
+            "image_url": "https://m.media-amazon.com/images/I/611xYqDdfRL._SY355_.jpg"
+        },{
+            "id":4,
+            "name": "Fire-Boltt Ninja 3",
+            "description": "Fire-Boltt Ninja 3 Smartwatch Full Touch 1.69 & 60 Sports Modes with IP68, Sp02 Tracking, Over 100 Cloud Based Watch Faces (Black)",
+            "brand": "Fire-Boltt ",
+            "price":999 ,
+            "discount": 88,
+            "ratting":4.2 ,
+            "image_url": "https://m.media-amazon.com/images/I/61ZgWdNPmfL._SY450_.jpg"
+        },{
+            "id":5,
+            "name": "beatXP Vega 1.43",
+            "description": "beatXP Vega 1.43 (3.6 cm) Super AMOLED Display, One-Tap Bluetooth Calling Smart Watch, 1000 Nits Brightness, Fast Charging, 24 * 7 Health Monitoring (Electric Black)",
+            "brand": "beatXP",
+            "price":2499 ,
+            "discount":77 ,
+            "ratting":4.0 ,
+            "image_url": "https://m.media-amazon.com/images/I/71tH69LXCML._SY450_.jpg"
+        },{
+            "id":6,
+            "name": "CrossBeats Stellr",
+            "description": "CrossBeats Stellr Large 2.01 Super AMOLED Always ON Bluetooth Calling Smartwatch, Rotating Crown, Built-In Games, Alarm, Calculator, 125+ Sports mode, 7days Battery| AI Voice Assistant Strap-Black",
+            "brand": "CrossBeats",
+            "price":3499 ,
+            "discount":65 ,
+            "ratting": 4.2,
+            "image_url": "https://m.media-amazon.com/images/I/51WAGzg5WZL._SX300_SY300_QL70_FMwebp_.jpg"
+        },{
+            "id":7,
+            "name": "crossBeats Ignite",
+            "description": "CrossBeats Ignite S5 Advanced AI ENC BT Calling Smartwatch, 1.96” Super AMOLED Anti-Glare Screen, Always on Display, Calculator, 500+ Watch Faces, 360 Degree Health Tracking, Fast Charge (Silver)",
+            "brand": "crossBeats",
+            "price":3999 ,
+            "discount":67 ,
+            "ratting":4.0 ,
+            "image_url": "https://m.media-amazon.com/images/I/61hpgKeYpZL._SY355_.jpg"
+        },{
+            "id":8,
+            "name": "Noise Pulse 2 Max",
+            "description": "Noise Pulse 2 Max 1.85 Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black)",
+            "brand": "Noise",
+            "price":1499 ,
+            "discount":75 ,
+            "ratting": 4.0,
+            "image_url": "https://m.media-amazon.com/images/I/61SSVxTSs3L._SY450_.jpg"
+        },{
+            "id":9,
+            "name": "beatXP Vega X 1.43",
+            "description": "beatXP Vega X 1.43 (3.6 cm) Super AMOLED Display, One-Tap Bluetooth Calling Smart Watch, 1000 Nits Brightness, Fast Charging, 24 * 7 Health Monitoring (Electric Black)",
+            "brand": "beatXP ",
+            "price":2699 ,
+            "discount":73 ,
+            "ratting":4.0 ,
+            "image_url": "https://m.media-amazon.com/images/I/51aB5TRkOWL._SX300_SY300_QL70_FMwebp_.jpg"
+        },{
+            "id":10,
+            "name": "boAt Wave Leap",
+            "description": "boAt Wave Leap Call Smart Watch with 1.83 HD Display, Advanced Bluetooth Calling, Coins,Multiple Watch Faces, Multi-Sports Modes, IP68, HR & SpO2, Metallic Design, Weather Forecasts(Active Black)",
+            "brand": "boAt",
+            "price":1499 ,
+            "discount":81 ,
+            "ratting": 3.8,
+            "image_url": "https://m.media-amazon.com/images/I/61pBjsIyVeL._SY355_.jpg"
+        },{
+            "id":11,
+            "name": "Garmin Epix Pro ",
+            "description": "Garmin Epix Pro Sapphire GPS Outdoor Smartwatch with Amoled Display Touchscreen, 51 mm case Size, Battery Upto 16 Days, 24/7 HRV, SPO2, Built-in Flashlight, VO2 Max, ClimbPro, Realtime Stamina",
+            "brand": "Garmin",
+            "price":123490 ,
+            "discount":10 ,
+            "ratting":4.0 ,
+            "image_url": "https://m.media-amazon.com/images/I/71xUM8qyTAL._SX425_.jpg"
+        },{
+            "id":12,
+            "name": "Apple Watch Ultra 2",
+            "description": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch with Rugged Titanium Case & Blue Ocean Band One Size. Fitness Tracker, Precision GPS, Action Button, Extra-Long Battery Life, Bright Retina Display",
+            "brand": "Apple",
+            "price":89900 ,
+            "discount": 5,
+            "ratting":4.5 ,
+            "image_url": "https://m.media-amazon.com/images/I/71Hd5u7gtuL._SY450_.jpg"
+        },{
+            "id":13,
+            "name": "Samsung Galaxy Watch4 Classic LTE",
+            "description": "Samsung Galaxy Watch4 Classic LTE (4.6cm, Black)",
+            "brand": "Samsung ",
+            "price": 14990,
+            "discount": 65,
+            "ratting":4.3 ,
+            "image_url": "https://m.media-amazon.com/images/I/61ftRB6KycL._SX355_.jpg"
+        },{
+            "id":14,
+            "name": "Samsung Galaxy Watch4 Bluetooth",
+            "description": "Samsung Galaxy Watch4 Bluetooth(44mm, Black, Compatible with Android only)",
+            "brand": "Samsung",
+            "price":9809 ,
+            "discount": 67,
+            "ratting": 4.3,
+            "image_url": "https://m.media-amazon.com/images/I/61Nhi7ovjkL._SX355_.jpg"
+        },{
+            "id":15,
+            "name": "Samsung Galaxy Watch5 Bluetooth ",
+            "description": "Samsung Galaxy Watch5 Bluetooth (44 mm, Sapphire, Compatible with Android only)",
+            "brand": "Samsung",
+            "price": 26999,
+            "discount":21 ,
+            "ratting":4.3 ,
+            "image_url": "https://m.media-amazon.com/images/I/61aVQDazNHL._SX355_.jpg"
+        },{
+            "id":16,
+            "name": "Samsung Galaxy Watch6 LTE ",
+            "description": "Samsung Galaxy Watch6 LTE (40mm, Graphite, Compatible with Android only)",
+            "brand": "Samsung",
+            "price":33659 ,
+            "discount": 14,
+            "ratting": 3.2,
+            "image_url": "https://m.media-amazon.com/images/I/71svvk+xsCL._SY355_.jpg"
+        },{
+            "id":17,
+            "name": "Fire-Boltt Visionary",
+            "description": "Fire-Boltt Visionary 1.78 AMOLED Bluetooth Calling Smartwatch with 368 * 448 Pixel Resolution, Rotating Crown & 60Hz Refresh Rate 100+ Sports Mode, TWS Connection, Voice Assistance (Black)",
+            "brand": "Fire-Boltt",
+            "price":2799 ,
+            "discount": 84,
+            "ratting":4.3 ,
+            "image_url": "https://m.media-amazon.com/images/I/61Fj5wTOQiL._SY355_.jpg"
+        },{
+            "id":18,
+            "name": "Apple Watch Series 9 ",
+            "description": "Apple Watch Series 9 [GPS + Cellular 41mm] Smartwatch with Pink Aluminum Case with Light Pink Sport Band S/M. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",
+            "brand": "Apple ",
+            "price": 51900,
+            "discount": 3,
+            "ratting": 4.0 ,
+            "image_url": "https://m.media-amazon.com/images/I/61CvjSE01lL._SY450_.jpg"
+        },{
+            "id":19,
+            "name": "MAVV DZ09 ",
+            "description": "MAVV DZ09 Smart Watch, Smartphones, Wireless, Touchscreen, Camera, and SIM Card Support, Pedometer Sleep and Fitness Monitoring, Sports Mode Camera (Black)",
+            "brand": "MAVV ",
+            "price": 829,
+            "discount":41 ,
+            "ratting": 3.6,
+            "image_url": "https://m.media-amazon.com/images/I/417QpL6Bu-L.jpg"
+        },{
+            "id":20,
+            "name": "Fitshot Kids Smart Watch",
+            "description": "Fitshot Junior Kids Smart Watch with GPS Location Tracking, 4G Video Calling, Audio Messaging, SOS Emergency Alerts, Health & Temperature Tracking, 7 Games, Parental Control, 1.69  Display (Blue)",
+            "brand": "Fitshot",
+            "price":5999 ,
+            "discount": 40,
+            "ratting": 4.2,
+            "image_url": "https://m.media-amazon.com/images/I/814HpRn9mnL._SY355_.jpg"
+        }
+    ],
+    "shoes":[
+        {
+            "id": 1,
+            "name": "Campus",
+            "description": "Men's MAGNITE Running Shoes",
+            "price": 899,
+            "colors": ["#e81f11", "#86efe7", "#2c1250'", "#412766", "#ccb965"],
+            "discount": 31,
+            "ratting": 4.2,
+            "image_url": "https://m.media-amazon.com/images/I/611dBzIhgaL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id": 2,
+            "name": "Bacca Bucci",
+            "description": "Men's Running Shoe",
+            "price": 1199,
+            "colors": ["#0b6cdd", "#128464", "#3a6d15", "#e1a90a", "#b6fe60"],
+            "discount": 52,
+            "ratting": 42,
+            "image_url": "https://m.media-amazon.com/images/I/61pBTn04eKL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id": 3,
+            "name": "Campus",
+            "description": "Men's Harrow PRO Running Shoes",
+            "price": 869,
+            "colors": ["#e744c3", "#32192c", "#29acbe", "#846b2d", "#45806a"],
+            "discount": 35,
+            "ratting": 3.4,
+            "image_url": "https://m.media-amazon.com/images/I/71fWF3O4MUL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id": 4,
+            "name": "Nike",
+            "description": "Air Winflo 10 Men's Running Shoes",
+            "price": 6000,
+            "colors": ["#ebf2b0", "#5f4811", "#a46a85", "#a12b6c", "#e327fb"],
+            "discount": 13,
+            "ratting": 4.5,
+            "image_url": "https://m.media-amazon.com/images/I/61RrW234u2L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 5,
+            "name": "Adidas",
+            "description": "Womens Runfalcon 2.0 Shoes",
+            "price": 17099,
+            "colors": ["#82e0bf", "#999cf3", "#2d81ce", "#95094a", "#19539b"],
+            "discount": 12,
+            "ratting": 4.8,
+            "image_url": "https://m.media-amazon.com/images/I/51ahxPF1hJL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 6,
+            "name": "ABROS",
+            "description": "Men's Tylor ASSG1299 Sports Shoes/Casual Shoes/Running",
+            "price": 2156,
+            "colors": ["#71176c", "#4df3b1", "#3b76c1", "#5a31b8", "#2377df"],
+            "discount": 20,
+            "ratting": 2.9,
+            "image_url": "https://m.media-amazon.com/images/I/71N8N9-xwDL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 7,
+            "name": "ASIAN",
+            "description": "Crystal-13 Sports Running,Walking & Gym Shoes",
+            "price": 1299,
+            "colors": ["#4e1dd8", "#6f3fe9", "#4252ab", "#107531", "#658d27"],
+            "discount": 42,
+            "ratting": 1.5,
+            "image_url": "https://m.media-amazon.com/images/I/51rdBvOe1+L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 8,
+            "name": "Red Tape",
+            "description": "Grey Sports Shoes for Men's- Lace-Up Shoes, Perfect Walkin",
+            "price": 1674,
+            "colors": ["#2cc897", "#341280", "#8827b2", "#6187f9", "#a7fa54"],
+            "discount": 75,
+            "ratting": 2.5,
+            "image_url": "https://m.media-amazon.com/images/I/5157yvIWmBL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 9,
+            "name": "Woodland",
+            "description": "Mens OGC 0110105 Sneaker",
+            "price": 2113,
+            "colors": ["#62bf80", "#87f96d", "#8434dc", "#55582a", "#62c8aa"],
+            "discount": 29,
+            "ratting": 4.2,
+            "image_url": "https://m.media-amazon.com/images/I/81x-Vn58hhL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 10,
+            "name": "new balance",
+            "description": "Mens 520i Running Shoe",
+            "price": 1799,
+            "colors": ["#e2dfcd", "#cfbf3f", "#e68797", "#3238d5", "#724ec0"],
+            "discount": 35,
+            "ratting": 3.5,
+            "image_url": "https://m.media-amazon.com/images/I/81cSXZ4rKvS._AC_UL480_QL65_.jpg"
+        },{
+            "id": 11,
+            "name": "Generic",
+            "description": "GlobalNiche® EXUSTAR E-SB740 BMX Shoe Black Size 48",
+            "price": 84659,
+            "colors": ["#e81f11", "#86efe7", "#2c1250'", "#412766", "#ccb965"],
+            "discount": 4,
+            "ratting": 3.9,
+            "image_url": "https://m.media-amazon.com/images/I/81umeozdiVL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 12,
+            "name": "ALTRA",
+            "description": "Men's AL0A7R6H Lone Peak All-WTHR Low 2 Trail Running",
+            "price": 38425,
+            "colors": ["#0b6cdd", "#128464", "#3a6d15", "#e1a90a", "#b6fe60"],
+            "discount": 10,
+            "ratting": 4.6,
+            "image_url": "https://m.media-amazon.com/images/I/71ROIoWzu+L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 13,
+            "name": "Giro",
+            "description": "Sector Mens Mountain Cycling Shoes",
+            "price": 38956,
+            "colors": ["#e744c3", "#32192c", "#29acbe", "#846b2d", "#45806a"],
+            "discount": 9,
+            "ratting": 2.5,
+            "image_url": "https://m.media-amazon.com/images/I/71Kwd+xkp4L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 14,
+            "name": "Fizik",
+            "description": "X5 Artica Cycling Shoe - Men's",
+            "price": 37119,
+            "colors": ["#ebf2b0", "#5f4811", "#a46a85", "#a12b6c", "#e327fb"],
+            "discount": 8,
+            "ratting": 1.9,
+            "image_url": "https://m.media-amazon.com/images/I/714AILMvbCL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 15,
+            "name": "Skechers",
+            "description": "Mens-MAX Cushioning Hyper-Running Shoes",
+            "price": 9799,
+            "colors": ["#82e0bf", "#999cf3", "#2d81ce", "#95094a", "#19539b"],
+            "discount": 19,
+            "ratting": 3.5,
+            "image_url": "https://m.media-amazon.com/images/I/613+PO+B4lL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 16,
+            "name": "Skechers",
+            "description": "mens Running Shoe",
+            "price": 9999,
+            "colors": ["#71176c", "#4df3b1", "#3b76c1", "#5a31b8", "#2377df"],
+            "discount": 15,
+            "ratting": 5.0,
+            "image_url": "https://m.media-amazon.com/images/I/61gCQwJVDtL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 17,
+            "name": "Nike",
+            "description": "Mens Air Max Terrascape 97 Running Shoe",
+            "price": 14944,
+            "colors": ["#4e1dd8", "#6f3fe9", "#4252ab", "#107531", "#658d27"],
+            "discount": 6,
+            "ratting": 4.5,
+            "image_url": "https://m.media-amazon.com/images/I/71p21itZV5L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 18,
+            "name": "Puma",
+            "description": "Mens Deviate Nitro 2 Running Shoe",
+            "price": 15999,
+            "colors": ["#2cc897", "#341280", "#8827b2", "#6187f9", "#a7fa54"],
+            "discount": 12,
+            "ratting": 5.0,
+            "image_url": "https://m.media-amazon.com/images/I/51LFOVxIm6L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 19,
+            "name": "Puma",
+            "description": "Mens Fast-trac Nitro 2 Running Shoe",
+            "price": 10999,
+            "colors": ["#62bf80", "#87f96d", "#8434dc", "#55582a", "#62c8aa"],
+            "discount": 15,
+            "ratting": 4.1,
+            "image_url": "https://m.media-amazon.com/images/I/61sEjgwb0CL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 20,
+            "name": "ASICS",
+            "description": "Gel-Kinsei Blast Grey Men's Running Shoes",
+            "price": 7789,
+            "colors": ["#e2dfcd", "#cfbf3f", "#e68797", "#3238d5", "#724ec0"],
+            "discount": 4,
+            "ratting": 4.7,
+            "image_url": "https://m.media-amazon.com/images/I/61qYNn+4MFL._AC_UL480_QL65_.jpg"
+        }
+    ],
+    "sports": {
+        "bats":[
+            {
+               "id":1,
+               "name":"Strauss Rebel Plastic Cricket Kit, Size SH (34 X 4.5inc...",
+               "brand":"Strauss",
+               "price":1099,
+               "discount":35,
+               "weight":"850-900 g",
+               "ratting":4.1,
+               "stock":152,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/m/o/9/850-900-rebel-plastic-cricket-kit-size-sh-34-x-4-5inch-for-all-original-imagsvyegx6vcge9.jpeg?q=70"
+            },
+            {
+               "id":2,
+               "name":"Strauss Rebel Plastic Cricket Kit,Size SH (34 X 4.5inch...",
+               "brand":"Strauss",
+               "price":1199,
+               "discount":29,
+               "weight":"850-900 g",
+               "ratting":4.1,
+               "stock":152,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/kit/d/m/k/plastic-cricket-kit-for-all-age-groups-premium-cricket-bat-34-x-original-imagpghp4hmujzfg.jpeg?q=70"
+            },
+            {
+               "id":3,
+               "name":"Spartan MS Dhoni RUN Kashmir Willow Cricket  Bat",
+               "brand":"Spartan",
+               "price":1999,
+               "discount":21,
+               "weight":"1162",
+               "ratting":4.1,
+               "stock":1049,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/k/t/w/1160-spartan-ms-dhoni-run-kashmir-willow-cricket-bat-short-original-imagha5cz8ek3kjs.jpeg?q=70"
+            },
+            {
+               "id":4,
+               "name":"PUMA Future KW SNR 1.1 Kashmir Willow Cricket  Bat",
+               "brand":"PUMA",
+               "price":1315,
+               "discount":42,
+               "weight":"1180-1220 g",
+               "ratting":3.8,
+               "stock":235,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/m/4/y/-original-imagjvp6afzrhnug.jpeg?q=70"
+            },
+            {
+               "id":5,
+               "name":"SS MAGNUM KW Kashmir Willow Cricket  Bat",
+               "brand":"SS",
+               "price":1630,
+               "discount":4,
+               "weight":"0.840–0.980 kg",
+               "ratting":3.8,
+               "stock":726,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jmux18w0/bat/x/y/f/880-1020-short-handle-magnum-kw-magnum-kw-ss-original-imaf9zmfgbthyads.jpeg?q=70"
+            },
+            {
+               "id":6,
+               "name":"Starson NB dc 1080 combo(Leather ball) English Willow C...",
+               "brand":"Starson",
+               "price":2090,
+               "discount":54,
+               "weight":".1050 kg",
+               "ratting":3.7,
+               "stock":734,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jyxaw7k0/bat/w/v/u/1050-short-handle-nb-dc-1080-combo-leather-ball-dc1080-starson-original-imafjfsghn4ha62q.jpeg?q=70"
+            },
+            {
+               "id":7,
+               "name":"KANHA SPORTS 111 Kashmir Willow Cricket  Bat",
+               "brand":"KANHA",
+               "price":1342,
+               "discount":56,
+               "weight":"1050 g",
+               "ratting":3.8,
+               "stock":726,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/g/d/m/1050-111-long-handle-na-grade-1-kanha-sports-original-imagqkgqrycsfgp7.jpeg?q=70"
+            },
+            {
+               "id":8,
+               "name":"SS MAGNUM KW Kashmir Willow Cricket  Bat",
+               "brand":"SS",
+               "price":1411,
+               "discount":42,
+               "weight":"0.950 – 1.120 kg",
+               "ratting":3.7,
+               "stock":439,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kmkxbww0/bat/g/n/4/0-950-1-120-magnum-kw-6-magnum-kw-no-6-ss-original-imagfg8mnravzxpf.jpeg?q=70"
+            },
+            {
+               "id":9,
+               "name":"PUMA Future KW JNR 1.2 Kashmir Willow Cricket  Bat",
+               "brand":"PUMA",
+               "price":1211,
+               "discount":8,
+               "weight":"975-1000 g",
+               "ratting":3.9,
+               "stock":135,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/g/s/s/-original-imagjvp5ejp6abgz.jpeg?q=70"
+            },
+            {
+               "id":10,
+               "name":"DSC Condor Flicker (Size-4) Kashmir Willow Cricket  Bat",
+               "brand":"DSC",
+               "price":1823,
+               "discount":6,
+               "weight":"820 - 850",
+               "ratting":3.7,
+               "stock":623,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/k6ci8i80/bat/z/c/s/950-980-6-condor-flicker-size-6-1500111-dsc-original-imafztuezppezhvd.jpeg?q=70"
+            },
+            {
+               "id":11,
+               "name":"CEAT Z-Cart Plus Kashmir Willow Cricket  Bat",
+               "brand":"CEAT",
+               "price":1765,
+               "discount":26,
+               "weight":"1120 - 1200 g",
+               "ratting":4.2,
+               "stock":1460,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kf5pzm80/bat/c/d/e/2-short-handle-z-cart-plus-8100184-ceat-original-imafvzth8ubyzyhh.jpeg?q=70"
+            },
+            {
+               "id":12,
+               "name":"DSC Belter Kashmir Willow Cricket Bat Short Handle Mens...",
+               "brand":"DSC",
+               "price":1890,
+               "discount":51,
+               "weight":"1100-1200",
+               "ratting":4.1,
+               "stock":79,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kka1si80/bat/y/e/k/1100-1200-belter-kashmir-willow-cricket-bat-short-handle-mens-original-imafznvp5kj3ewxj.jpeg?q=70"
+            },
+            {
+               "id":13,
+               "name":"EAGLE kashmiri willo Double blead burn storng bat Kashm...",
+               "brand":"EAGLE",
+               "price":1449,
+               "discount":64,
+               "weight":"950-1000 g",
+               "ratting":4.2,
+               "stock":82,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/f/y/j/950-1000-kashmiri-willo-double-blead-burn-storng-bat-long-handle-original-imagsrkrncz6x2hr.jpeg?q=70"
+            },
+            {
+               "id":14,
+               "name":"Willow master grey nicolls Maxx English Willow Cricket ...",
+               "brand":"Willow",
+               "price":3195,
+               "discount":19,
+               "weight":"1 kg",
+               "ratting":3.7,
+               "stock":3,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/b/5/e/1-nicolls-max-long-handle-1-grade-1-willow-master-original-imagmfjmhwdyacdh.jpeg?q=70"
+            },
+            {
+               "id":15,
+               "name":"SS CANNON KW Kashmir Willow Cricket  Bat",
+               "brand":"SS",
+               "price":1926,
+               "discount":52,
+               "weight":"0.880 – 0.1020 kg",
+               "ratting":3.8,
+               "stock":24,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jmux18w0/bat/5/k/p/880-1020-short-handle-cannon-kw-cannon-kw-ss-original-imaf9zmfhwxjjntf.jpeg?q=70"
+            },
+            {
+               "id":16,
+               "name":"Jaspo Slog Full Size Heavy Duty Plastic Cricket Bat (34...",
+               "brand":"Jaspo",
+               "price":1149,
+               "discount":16,
+               "weight":"850-880 g",
+               "ratting":3.6,
+               "stock":276,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/y/q/p/850-880-slog-full-size-heavy-duty-plastic-cricket-bat-34-x-4-5-original-imagzhzpp6hzanpk.jpeg?q=70"
+            },
+            {
+               "id":17,
+               "name":"GM Noir Apex Kashmir Willow Cricket Bat Multicolor (Siz...",
+               "brand":"GM",
+               "price":1745,
+               "discount":34,
+               "weight":"0.99999918345104 kg",
+               "ratting":3.8,
+               "stock":726,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/x/x/5/0-99999918345104-noir-apex-kashmir-willow-cricket-bat-multicolor-original-imagnz9nhjhhrchh.jpeg?q=70"
+            },
+            {
+               "id":18,
+               "name":"RB SPORTS CEAT KASHMIRI WILLOW BAT FOR AGE 15+ Kashmir ...",
+               "brand":"RB",
+               "price":1499,
+               "discount":77,
+               "weight":"700-980 g",
+               "ratting":4.1,
+               "stock":4033,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kq5iykw0/bat/t/c/c/800-1100-ceat-poplar-willow-bat-for-men-women-age-18-short-original-imag48c2dfavcqep.jpeg?q=70"
+            },
+            {
+               "id":19,
+               "name":"MRF Genius VIRAT KOHLI RUN MACHINE English Willow Crick...",
+               "brand":"MRF",
+               "price":1349,
+               "discount":2,
+               "weight":"1.22 kg",
+               "ratting":4.1,
+               "stock":3403,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kpcy5jk0/bat/u/b/e/1-15-six-genius-virat-sig-12-long-handle-12-mrf-six-genius-original-imag3mb8m9whbtz2.jpeg?q=70"
+            },
+            {
+               "id":20,
+               "name":"SS MAGNUM KW Kashmir Willow Cricket  Bat",
+               "brand":"SS",
+               "price":1339,
+               "discount":2,
+               "weight":"0.880 – 0.1020 kg",
+               "ratting":3.6,
+               "stock":206,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jmux18w0/bat/x/y/f/880-1020-short-handle-magnum-kw-magnum-kw-ss-original-imaf9zmfgbthyads.jpeg?q=70"
+            },
+            {
+               "id":21,
+               "name":"SG RSD SPARK Kashmir Willow Cricket  Bat",
+               "brand":"SG",
+               "price":2399,
+               "discount":17,
+               "weight":"0.780 – 0.820 kg",
+               "ratting":3.7,
+               "stock":6,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jpa2w7k0/bat/d/r/c/1-180-1-250-rsd-spark-short-handle-rsd-spark-sg-original-imafbgwnyvcpgsdx.jpeg?q=70"
+            },
+            {
+               "id":22,
+               "name":"SS MASTER 100 KW Kashmir Willow Cricket  Bat",
+               "brand":"SS",
+               "price":1800,
+               "discount":53,
+               "weight":"0.880 – 0.1020 kg",
+               "ratting":4.1,
+               "stock":84,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jmux18w0/bat/z/h/9/880-1020-short-handle-master-100-kw-master-100-kw-ss-original-imaf9zmewhxgru4v.jpeg?q=70"
+            },
+            {
+               "id":23,
+               "name":"KANHA SPORTS 333 Kashmir Willow Cricket  Bat",
+               "brand":"KANHA",
+               "price":1429,
+               "discount":60,
+               "weight":"1050 g",
+               "ratting":3.0,
+               "stock":6,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/g/e/k/1050-333-long-handle-na-grade-1-kanha-sports-original-imagqkh9asspwwfn.jpeg?q=70"
+            },
+            {
+               "id":24,
+               "name":"Starson Bogan-kaboom English Willow Cricket  Bat",
+               "brand":"Starson",
+               "price":1804,
+               "discount":33,
+               "weight":"1150 kg",
+               "ratting":3.9,
+               "stock":118,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jltrl3k0/bat/m/u/m/1150-short-handle-bogan-kaboom-kaboom-starson-original-imaf8uz9h2ecbukh.jpeg?q=70"
+            },
+            {
+               "id":25,
+               "name":"Sportrebels Burn Edition hard tennis Kashmir Willow Cri...",
+               "brand":"Sportrebels",
+               "price":2399,
+               "discount":28,
+               "weight":"1 kg",
+               "ratting":4.0,
+               "stock":11,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/a/c/q/1-burn-edition-hard-tennis-long-handle-1-grade-1-sport-rebels-original-imagqtjqv4xy8g3m.jpeg?q=70"
+            },
+            {
+               "id":26,
+               "name":"Heega HX-509 Kahmiri Willow bat for Leather Balls Size ...",
+               "brand":"Heega",
+               "price":1619,
+               "discount":25,
+               "weight":"1000-1150 kg",
+               "ratting":4.0,
+               "stock":231,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/y/e/m/1000-1150-hx-509-kahmiri-willow-bat-for-leather-balls-size-5-6-original-imagpvzrgzmsygbh.jpeg?q=70"
+            },
+            {
+               "id":27,
+               "name":"GM Diamond Prestige English Willow Cricket  Bat",
+               "brand":"GM",
+               "price":31309,
+               "discount":82,
+               "weight":"1150 - 1200 g",
+               "ratting":4.0,
+               "stock":51,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/k7jdg280/bat/m/4/8/1150-1200-short-handle-diamond-prestige-short-handle-1601773-gm-original-imafpr3cqzmgqdgq.jpeg?q=70"
+            },
+            {
+               "id":28,
+               "name":"RSW CRICKET LEATHER BAT FULL CAN HANDIE KASHMIR WILLOW ...",
+               "brand":"RSW",
+               "price":1383,
+               "discount":71,
+               "weight":"1 kg",
+               "ratting":3.7,
+               "stock":201,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/bat/h/p/u/1-cricket-leather-bat-full-can-handie-kashmir-willow-good-original-imaggg9wpwvp9wcn.jpeg?q=70"
+            },
+            {
+               "id":29,
+               "name":"Willow master CLASSIC LEATHER BAT English Willow Cricke...",
+               "brand":"Willow",
+               "price":2479,
+               "discount":25,
+               "weight":"1100-1200 g",
+               "ratting":3.9,
+               "stock":135,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/l30hmkw0/bat/j/3/g/1100-1200-classic-leather-bat-long-handle-34-grade-1-willow-original-image8gtfd7fyrad.jpeg?q=70"
+            },
+            {
+               "id":30,
+               "name":"DSC Condor Motion English Willow Cricket  Bat",
+               "brand":"DSC",
+               "price":8144,
+               "discount":18,
+               "weight":"880 - 920",
+               "ratting":3.7,
+               "stock":1026,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/k5wse4w0/bat/h/c/q/820-850-4-condor-motion-1502532-dsc-original-imafzhnyffbb9ysh.jpeg?q=70"
+            },
+            {
+               "id":31,
+               "name":"SS YUVI 20/20 KW Kashmir Willow Cricket  Bat",
+               "brand":"SS",
+               "price":2179,
+               "discount":26,
+               "weight":"0.880-1.20 kg",
+               "ratting":4.0,
+               "stock":264,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jvfk58w0/bat/r/z/v/0-880-1-20-yuvi-20-20-kw-short-handle-yuvi-20-20-kw-ss-original-imaffeu3bvregfz8.jpeg?q=70"
+            },
+            {
+               "id":32,
+               "name":"DSC Condor Sizzler (Short Handle) Kashmir Willow Cricke...",
+               "brand":"DSC",
+               "price":2004,
+               "discount":17,
+               "weight":"1150 - 1200",
+               "ratting":3.3,
+               "stock":22,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/k6ci8i80/bat/x/f/q/720-750-1-condor-sizzler-size-1-1500456-dsc-original-imafztue2jmp9gez.jpeg?q=70"
+            },
+            {
+               "id":33,
+               "name":"New Balance DC 870 Plus No.6 English Willow Cricket  Ba...",
+               "brand":"New",
+               "price":8249,
+               "discount":17,
+               "weight":"700 - 1200 g",
+               "ratting":4.0,
+               "stock":9,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/k9vofbk0/bat/a/s/c/700-1200-5-dc-870-no-5-na-new-balance-original-imafrkrzgd2hhzaq.jpeg?q=70"
+            }
+        ],
+        "badminton": [
+            {
+               "id":1,
+               "name":"LI-NING G-Force 3800 Superlite Blue, Brown Strung Badmi...",
+               "brand":"LI-NING",
+               "price":1990,
+               "discount":55,
+               "weight":"1, 79 g",
+               "ratting":4.3,
+               "stock":8673,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/knhsgi80/racquet/k/g/h/g2-9-52-cm-g-force-3800-superlite-strung-1-aypq116-5-79-original-imag25zwx2zgvkzj.jpeg?q=70"
+            },
+            {
+               "id":2,
+               "name":"LI-NING G-Force 3700 Superlite Black, Orange Strung Bad...",
+               "brand":"LI-NING",
+               "price":1990,
+               "discount":56,
+               "weight":"1, 78 g",
+               "ratting":4.3,
+               "stock":8673,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/knhsgi80/racquet/a/0/u/g4-3-25-inches-g-force-3700-superlite-strung-1-g-force-superlite-original-imag25n4h7gjgrc2.jpeg?q=70"
+            },
+            {
+               "id":3,
+               "name":"apacs Asgardia Control (73G, 35LBS) White Unstrung Badm...",
+               "brand":"apacs",
+               "price":2299,
+               "discount":71,
+               "weight":"1, 73 g",
+               "ratting":4.2,
+               "stock":489,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/v/7/y/g4-3-25-inches-unstrung-asgardia-control-73g-35lbs-1-apacagc-02-original-imagq53nybgwzdrh.jpeg?q=70"
+            },
+            {
+               "id":4,
+               "name":"apacs Finapi 232 Grey Unstrung Badminton Racquet",
+               "brand":"apacs",
+               "price":1899,
+               "discount":55,
+               "weight":"1, 85 g",
+               "ratting":4.3,
+               "stock":4581,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kmns7m80/racquet/g/n/x/g4-3-25-inches-finapi-232-unstrung-apfin232-04-badminton-racquet-original-imagfg4udsgdkbzz.jpeg?q=70"
+            },
+            {
+               "id":5,
+               "name":"apacs Z-Ziggler Limited Edition (38 LBS) Black, Gold Un...",
+               "brand":"apacs",
+               "price":2299,
+               "discount":65,
+               "weight":"1, 84 g",
+               "ratting":4.3,
+               "stock":554,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kmns7m80/racquet/f/u/d/g3-3-5-inches-z-ziggler-limited-edition-38-lbs-unstrung-apzigltd-original-imagfg4u83jvw79f.jpeg?q=70"
+            },
+            {
+               "id":6,
+               "name":"APACS Vanguard 11 Grey Unstrung Badminton Racquet",
+               "brand":"APACS",
+               "price":2199,
+               "discount":68,
+               "weight":"1, 84 g",
+               "ratting":4.4,
+               "stock":118,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kmns7m80/racquet/z/k/7/g4-3-25-inches-vanguard-11-unstrung-apacvng-03-badminton-racquet-original-imagfg4u5fegzqus.jpeg?q=70"
+            },
+            {
+               "id":7,
+               "name":"LI-NING AIR-FORCE 80 LITE Multicolor Strung Badminton R...",
+               "brand":"LI-NING",
+               "price":2599,
+               "discount":53,
+               "weight":"1, 80 g",
+               "ratting":4.3,
+               "stock":2754,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kihqz680-0/racquet/o/c/f/g4-3-25-inches-strung-air-force-g2-lite-1-air-force-80-lite-80-original-imafy9u8ervxkacc.jpeg?q=70"
+            },
+            {
+               "id":8,
+               "name":"LI-NING Tectonic 1S Grey, Red, Yellow Strung Badminton ...",
+               "brand":"LI-NING",
+               "price":4289,
+               "discount":35,
+               "weight":"1, 83 g",
+               "ratting":4.2,
+               "stock":11,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/l/t/m/g4-3-25-inches-strung-tectonic-1s-ayps167-5-badminton-racquet-li-original-imagg56znzjmddzr.jpeg?q=70"
+            },
+            {
+               "id":9,
+               "name":"YONEX GR303i White Strung Badminton Racquet",
+               "brand":"YONEX",
+               "price":1309,
+               "discount":18,
+               "weight":"2, 88 g",
+               "ratting":4.4,
+               "stock":405,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/kit/c/k/2/gr303i-na-27-5-yonex-14-5-original-imaghkhugnn3efjc.jpeg?q=70"
+            },
+            {
+               "id":10,
+               "name":"YONEX ZR-100 Light Blue, Grey Strung Badminton Racquet",
+               "brand":"YONEX",
+               "price":1309,
+               "discount":18,
+               "weight":"2, 85 g",
+               "ratting":4.0,
+               "stock":43482,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kpedle80/racquet/f/d/y/g4-3-25-inches-strung-zr-100-light-2-zr100lightcombo-85-original-imag3n7zzynzecbz.jpeg?q=70"
+            },
+            {
+               "id":11,
+               "name":"LI-NING G-Force 3600 Superlite Blue, Yellow Strung Badm...",
+               "brand":"LI-NING",
+               "price":1990,
+               "discount":56,
+               "weight":"1, 78 g",
+               "ratting":4.3,
+               "stock":8673,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/knhsgi80/racquet/3/1/x/g2-9-52-cm-g-force-3600-superlite-strung-1-aypq106-5-78-original-imag25p3ghwsfhgz.jpeg?q=70"
+            },
+            {
+               "id":12,
+               "name":"LI-NING Wind Lite 700 II Blue, Brown Strung Badminton R...",
+               "brand":"LI-NING",
+               "price":3789,
+               "discount":42,
+               "weight":"1, 77 g",
+               "ratting":4.2,
+               "stock":1155,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/a/e/n/g6-2-75-inches-strung-wind-lite-700-ii-1-ayps135-5-77-badminton-original-imagmw97zgjgjuhb.jpeg?q=70"
+            },
+            {
+               "id":13,
+               "name":"Yonex Arcsaber 71 Light Gold Strung Badminton Racquet",
+               "brand":"Yonex",
+               "price":2099,
+               "discount":38,
+               "weight":"1, 77 g",
+               "ratting":4.0,
+               "stock":1160,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/l/d/r/-original-imaggdsyqxr6uyzw.jpeg?q=70"
+            },
+            {
+               "id":14,
+               "name":"YONEX ZR111LIGHT Grey Strung Badminton Racquet",
+               "brand":"YONEX",
+               "price":699,
+               "discount":12,
+               "weight":"1, 85 g",
+               "ratting":4.2,
+               "stock":198,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kigbjbk0-0/racquet/h/o/k/g4-3-25-inches-strung-zr111light-1-zr111light-85-badminton-original-imafy8g2uyfxr5y2.jpeg?q=70"
+            },
+            {
+               "id":15,
+               "name":"apacs Finapi 232 Xtra Power (40 LBS, 40T Extra Strong G...",
+               "brand":"apacs",
+               "price":2099,
+               "discount":51,
+               "weight":"1, 85 g",
+               "ratting":4.3,
+               "stock":8673,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/j/w/o/g4-3-25-inches-unstrung-finapi-232-xtra-power-40-lbs-40t-extra-original-imags2zxz6wx2ua8.jpeg?q=70"
+            },
+            {
+               "id":16,
+               "name":"YONEX ASTROX 77 TOUR Orange Strung Badminton Racquet",
+               "brand":"YONEX",
+               "price":7100,
+               "discount":37,
+               "weight":"1, 80 g",
+               "ratting":4.3,
+               "stock":4317,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/i/q/x/g4-3-25-inches-strung-astrox-77-tour-1-astrox-77-tour-80-original-imagn7znucxhhfsg.jpeg?q=70"
+            },
+            {
+               "id":17,
+               "name":"LI-NING G-Force 3500 Superlite Blue, Red Strung Badmint...",
+               "brand":"LI-NING",
+               "price":1990,
+               "discount":56,
+               "weight":"1, 78 g",
+               "ratting":3.9,
+               "stock":1652,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/knhsgi80/racquet/v/8/w/g2-9-52-cm-g-force-3500-superlite-strung-1-aypq094-5-78-original-imag25p9s7mpcuuf.jpeg?q=70"
+            },
+            {
+               "id":18,
+               "name":"LI-NING Wind Lite 800 II Grey, Red Strung Badminton Rac...",
+               "brand":"LI-NING",
+               "price":3499,
+               "discount":46,
+               "weight":"1, 78 g",
+               "ratting":4.3,
+               "stock":2754,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/8/5/q/g6-2-75-inches-strung-wind-lite-800-ii-1-ayps141-5-78-badminton-original-imagmw97ynwkfpa4.jpeg?q=70"
+            },
+            {
+               "id":19,
+               "name":"apacs Z-Ziggler Black, Orange Unstrung Badminton Racque...",
+               "brand":"apacs",
+               "price":2199,
+               "discount":65,
+               "weight":"1, 85 g",
+               "ratting":4.7,
+               "stock":9,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/2/q/s/g4-3-25-inches-unstrung-z-ziggler-1-apzigglr-03-85-badminton-original-imagpwc5dyakstsx.jpeg?q=70"
+            },
+            {
+               "id":20,
+               "name":"Yonex ZR 101 LIGHT Blue Strung Badminton Racquet",
+               "brand":"Yonex",
+               "price":675,
+               "discount":10,
+               "weight":"1, 85 g",
+               "ratting":4.3,
+               "stock":4317,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kctf0cw0/racquet/a/w/x/g4-8-25-cm-zr101-light-navy-strung-1-zr-101-light-85-badminton-original-imaftuven3qhndvv.jpeg?q=70"
+            },
+            {
+               "id":21,
+               "name":"LI-NING AIR-FORCE 79 G2 White, Black Strung Badminton R...",
+               "brand":"LI-NING",
+               "price":2599,
+               "discount":53,
+               "weight":"1, 79 g",
+               "ratting":4.1,
+               "stock":228,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kihqz680-0/racquet/n/r/i/g4-3-25-inches-strung-air-force-g2-1-air-force-79-g2-79-original-imafy9u2zbhkzgfv.jpeg?q=70"
+            },
+            {
+               "id":22,
+               "name":"YONEX ASTOX 88 D TOUR Yellow, Black Strung Badminton Ra...",
+               "brand":"YONEX",
+               "price":7499,
+               "discount":39,
+               "weight":"1, 80 g",
+               "ratting":4.0,
+               "stock":10570,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/t/i/e/g4-3-25-inches-strung-astox-88-d-tour-1-88-d-tour-80-badminton-original-imagn7mq3yc58dfg.jpeg?q=70"
+            },
+            {
+               "id":23,
+               "name":"YONEX Astrox 88S Tour Blue Strung Badminton Racquet",
+               "brand":"YONEX",
+               "price":7399,
+               "discount":38,
+               "weight":"1, 83 g",
+               "ratting":4.3,
+               "stock":4317,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/h/0/i/-original-imagrm9xhcarrqcj.jpeg?q=70"
+            },
+            {
+               "id":24,
+               "name":"YONEX Arcsaber 11 Play Grey Strung Badminton Racquet",
+               "brand":"YONEX",
+               "price":3299,
+               "discount":40,
+               "weight":"1, 83 g",
+               "ratting":4.3,
+               "stock":11,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/r/v/r/g4-3-25-inches-strung-arcsaber-11-play-1-arcsaber-11-play-83-original-imagpw88azaq7cgv.jpeg?q=70"
+            },
+            {
+               "id":25,
+               "name":"APACS Z-Ziggler (38 LBS) Black, Orange, Grey Unstrung B...",
+               "brand":"APACS",
+               "price":2199,
+               "discount":65,
+               "weight":"1, 85 g",
+               "ratting":4.3,
+               "stock":4317,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kmns7m80/racquet/c/c/6/g3-3-5-inches-z-ziggler-38-lbs-unstrung-apzigglr-08-badminton-original-imagfg4uzyy53nvb.jpeg?q=70"
+            },
+            {
+               "id":26,
+               "name":"Yonex Astrox 01 Feel Badminton Racquet (Rotational Gene...",
+               "brand":"Yonex",
+               "price":2099,
+               "discount":41,
+               "weight":"1, 80 g",
+               "ratting":4.1,
+               "stock":1943,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/ksru0sw0/racquet/9/k/a/g4-3-25-inches-strung-astrox-01-feel-astrox-01-feel-badminton-original-imag69g7rcnukhyx.jpeg?q=70"
+            },
+            {
+               "id":27,
+               "name":"Yonex Nanoray 6000i Blue Strung Badminton Racquet",
+               "brand":"Yonex",
+               "price":1399,
+               "discount":33,
+               "weight":"1, 80 g",
+               "ratting":4.3,
+               "stock":4581,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/k09vv680/racquet/h/r/h/g4-8-25-cm-nanoray-6000i-strung-1-nanoray-6000i-80-badminton-original-imaf9ysypzfsqmzf.jpeg?q=70"
+            },
+            {
+               "id":28,
+               "name":"apacs Z-Ziggler (38 LBS) Purple Unstrung Badminton Racq...",
+               "brand":"apacs",
+               "price":2199,
+               "discount":65,
+               "weight":"1, 85 g",
+               "ratting":4.1,
+               "stock":106,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/l/k/1/g3-3-5-inches-unstrung-z-ziggler-38-lbs-1-apzigglr-09-85-original-imagpwc6enshvjgn.jpeg?q=70"
+            },
+            {
+               "id":29,
+               "name":"YONEX Astrox 88S Game Blue Strung Badminton Racquet",
+               "brand":"YONEX",
+               "price":5399,
+               "discount":34,
+               "weight":"1, 83 g",
+               "ratting":4.1,
+               "stock":15,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kt8zb0w0/racquet/7/6/k/g4-3-25-inches-strung-astrox-88s-game-1-astrox-88s-game-83-original-imag6mvgg96vwrsh.jpeg?q=70"
+            },
+            {
+               "id":30,
+               "name":"YONEX Astrox 100 Game (Kurenai)-4U/G5 Maroon Strung Bad...",
+               "brand":"YONEX",
+               "price":6099,
+               "discount":27,
+               "weight":"1, 80 g",
+               "ratting":4.2,
+               "stock":399,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/n/r/f/g5-3-inches-strung-astrox-100-game-maroon-1-astx100gm-mar-2022-original-imagh6q9zf9mtskb.jpeg?q=70"
+            },
+            {
+               "id":31,
+               "name":"apacs Z-Ziggler Grey Unstrung Badminton Racquet",
+               "brand":"apacs",
+               "price":2199,
+               "discount":65,
+               "weight":"1, 85 g",
+               "ratting":4.2,
+               "stock":1007,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/v/d/5/g4-3-25-inches-unstrung-z-ziggler-1-apzigglr-05-85-badminton-original-imagpwc9djy4ch8h.jpeg?q=70"
+            },
+            {
+               "id":32,
+               "name":"YONEX GR 303i White Strung Badminton Racquet",
+               "brand":"YONEX",
+               "price":699,
+               "discount":12,
+               "weight":"1, 83 g",
+               "ratting":4.2,
+               "stock":1155,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kjd6nww0-0/racquet/7/h/u/g4-3-25-inches-strung-gr-303-i-made-in-india-2-gr303i-85-original-imafyye2jqanfazm.jpeg?q=70"
+            },
+            {
+               "id":33,
+               "name":"apacs Finapi 232 White Unstrung Badminton Racquet",
+               "brand":"apacs",
+               "price":1899,
+               "discount":55,
+               "weight":"1, 85 g",
+               "ratting":4.2,
+               "stock":864,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/racquet/z/4/x/g4-3-25-inches-unstrung-finapi-232-1-apfin232-06-85-badminton-original-imagpwcgfy2ekctu.jpeg?q=70"
+            }
+        ],
+        "football": [
+            {
+               "id":1,
+               "name":"NIVIA Country Colour (England) Football - Size: 5",
+               "brand":"NIVIA",
+               "price":379,
+               "discount":17,
+               "quantity":"Pack of 1, Multicolor",
+               "ratting":4.0,
+               "stock":80534,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/r/j/t/400-country-colour-england-5-22-1-1360eg-football-nivia-original-imaghjk2hgfykugg.jpeg?q=70"
+            },
+            {
+               "id":2,
+               "name":"Fitness Scout Pratice Training Stiched Football - Size:...",
+               "brand":"Fitness",
+               "price":325,
+               "discount":67,
+               "quantity":"Pack of 1, Black, White",
+               "ratting":3.5,
+               "stock":1168,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/v/c/t/50-100-pratice-training-stiched-football-5-2-5-1-gdh02-football-original-imagm8fa4axjfnq3.jpeg?q=70"
+            },
+            {
+               "id":3,
+               "name":"RASON Brazuca 32 Panel Hand Football - Size: 5",
+               "brand":"RASON",
+               "price":449,
+               "discount":65,
+               "quantity":"Pack of 1, Multicolor",
+               "ratting":3.9,
+               "stock":1095,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jvfk58w0/kit/d/f/v/combo-four-color-football-with-air-pump-rahico401-rahico-club-original-imaf5yqzhqshfyvr.jpeg?q=70"
+            },
+            {
+               "id":4,
+               "name":"ALKA COMBO HAND STITCHED 4 COLOR WITH PUMP Football - S...",
+               "brand":"ALKA",
+               "price":499,
+               "discount":61,
+               "quantity":"Pack of 2, Multicolor",
+               "ratting":3.9,
+               "stock":349,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/g/p/b/430-490-combo-hand-stitched-4-color-with-pump-5-22-2-ak5501-original-imagkysga4xrjcse.jpeg?q=70"
+            },
+            {
+               "id":5,
+               "name":"RASCO COMBO 4 COLOR FOOTBALL WITH AIR PUMP Football - S...",
+               "brand":"RASCO",
+               "price":499,
+               "discount":66,
+               "quantity":"Pack of 2, Multicolor",
+               "ratting":3.8,
+               "stock":3327,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/n/a/h/460-495-combo-4-color-football-with-air-pump-5-22-2-combo1001-original-imagkyremhh6qgh9.jpeg?q=70"
+            },
+            {
+               "id":6,
+               "name":"JOJOMART COMBO CITY BLACK FOOTBALL WITH AIR PUMP Footba...",
+               "brand":"JOJOMART",
+               "price":474,
+               "discount":77,
+               "quantity":"Pack of 2, White, Blue",
+               "ratting":3.7,
+               "stock":290,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/ksdjma80/ball/h/y/h/400-26-5-combo-city-black-football-with-air-pump-2-cityblack-original-imag5y9uhpxuymfp.jpeg?q=70"
+            },
+            {
+               "id":7,
+               "name":"NIVIA HOMEPLAY Football - Size: 3",
+               "brand":"NIVIA",
+               "price":280,
+               "discount":1,
+               "quantity":"Pack of 1",
+               "ratting":3.7,
+               "stock":22840,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/keekmfk0/ball/u/x/x/110-130-1-13-home-play-mini-1-fb-4044bl-football-nivia-original-imafv3pj3cgzq57c.jpeg?q=70"
+            },
+            {
+               "id":8,
+               "name":"NIVIA Rabona Pro Football - Size: 5",
+               "brand":"NIVIA",
+               "price":850,
+               "discount":19,
+               "quantity":"Pack of 1, Multicolor",
+               "ratting":4.1,
+               "stock":18609,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/n/b/s/420-445-rabona-pro-5-22-1-fb-80075l-football-nivia-original-imaghjjn9puy3xwr.jpeg?q=70"
+            },
+            {
+               "id":9,
+               "name":"PMG Football Size-5 Black & White Football - Size: 5",
+               "brand":"PMG",
+               "price":297,
+               "discount":7,
+               "quantity":"Pack of 1, Black, White",
+               "ratting":3.7,
+               "stock":168,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jzzvs7k0/ball/s/j/t/400-5-20-football-size-5-black-white-1-bw-football-pmg-original-imafeys8hgfhh4vh.jpeg?q=70"
+            },
+            {
+               "id":10,
+               "name":"MRS Russia Red And Blue Star With Air Pump Football Com...",
+               "brand":"MRS",
+               "price":872,
+               "discount":62,
+               "quantity":"Pack of 3, Multicolor",
+               "ratting":3.7,
+               "stock":69,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kua4r680/ball/p/u/3/350-450-russia-red-and-blue-star-with-air-pump-football-combo-original-imag7gfsg7ys54jp.jpeg?q=70"
+            },
+            {
+               "id":11,
+               "name":"NIVIA Country Colour (Argentina) Football - Size: 5",
+               "brand":"NIVIA",
+               "price":370,
+               "discount":19,
+               "quantity":"Pack of 1, Multicolor",
+               "ratting":4.0,
+               "stock":80534,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/s/n/5/400-country-colour-argentina-5-22-1-fb-1360-ar-football-nivia-original-imagmekbksfvb6pk.jpeg?q=70"
+            },
+            {
+               "id":12,
+               "name":"NIVIA Kick with Pump Football - Size: 5",
+               "brand":"NIVIA",
+               "price":400,
+               "discount":38,
+               "quantity":"Pack of 1, Red",
+               "ratting":3.8,
+               "stock":9768,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/w/a/e/410-445-spinner-machine-stitched-football-england-5-5-1-1019eg-original-imaghmrqfdh8q9g3.jpeg?q=70"
+            },
+            {
+               "id":13,
+               "name":"VECTOR X Brasil Rubber Moulded Football - Size: 5",
+               "brand":"VECTOR",
+               "price":357,
+               "discount":30,
+               "quantity":"Pack of 1, Green, Yellow",
+               "ratting":3.8,
+               "stock":1047,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/d/7/f/450-460-brasil-rubber-moulded-5-68-5-1-na-football-vector-x-original-imagmdckz7zv569f.jpeg?q=70"
+            },
+            {
+               "id":14,
+               "name":"NIVIA Country Colour (Germany) Football - Size: 3",
+               "brand":"NIVIA",
+               "price":285,
+               "discount":15,
+               "quantity":"Pack of 1",
+               "ratting":3.7,
+               "stock":227,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kolsscw0/ball/3/h/1/320-350-3-20-country-colour-germany-1-fb-1361-ge-football-nivia-original-imag3yz5qtugxezk.jpeg?q=70"
+            },
+            {
+               "id":15,
+               "name":"VECTOR X STREET-MANIA Football - Size: 5",
+               "brand":"VECTOR",
+               "price":399,
+               "discount":63,
+               "quantity":"Pack of 1, Black, Orange",
+               "ratting":4.0,
+               "stock":1364,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/x/a/l/425-street-mania-5-23-1-na-football-vector-x-original-imagmdcu2ztdr7x8.jpeg?q=70"
+            },
+            {
+               "id":16,
+               "name":"COSCO BELGIUM Football - Size: 3",
+               "brand":"COSCO",
+               "price":422,
+               "discount":18,
+               "quantity":"Pack of 1, Yellow, Green, Blue, Multicolor",
+               "ratting":3.9,
+               "stock":2537,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/k070zgw0/ball/d/m/f/325-3-19-41-belgium-1-pcsftbl001-football-cosco-original-imafjrx5ndt6aw9c.jpeg?q=70"
+            },
+            {
+               "id":17,
+               "name":"NIVIA HOME PLAY Football - Size: 3",
+               "brand":"NIVIA",
+               "price":267,
+               "discount":6,
+               "quantity":"Pack of 1",
+               "ratting":3.7,
+               "stock":22840,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/v/a/u/225-230-home-play-3-20-1-fb-4045gr-football-nivia-original-imaghuff5xg9f2nf.jpeg?q=70"
+            },
+            {
+               "id":18,
+               "name":"NIVIA Ripple Beach Football Football - Size: 5",
+               "brand":"NIVIA",
+               "price":903,
+               "discount":30,
+               "quantity":"Pack of 1, White, Blue",
+               "ratting":4.3,
+               "stock":1995,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/knoxnrk0/ball/2/v/t/430-454-5-22-ripple-beach-football-1-n-a-football-nivia-original-imag2bgqtcqqzwkh.jpeg?q=70"
+            },
+            {
+               "id":19,
+               "name":"NIVIA Black & White Football With Air Pump Football - S...",
+               "brand":"NIVIA",
+               "price":835,
+               "discount":20,
+               "quantity":"Pack of 2, Multicolor",
+               "ratting":4.1,
+               "stock":117,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jpk2z680/kit/g/y/a/black-white-football-with-air-double-action-pump-ftblnvia7896-original-imaf8yd3esmzeune.jpeg?q=70"
+            },
+            {
+               "id":20,
+               "name":"VECTOR X Trendy Football - Size: 5",
+               "brand":"VECTOR",
+               "price":395,
+               "discount":28,
+               "quantity":"Pack of 1",
+               "ratting":3.9,
+               "stock":34,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/kdt50nk0/ball/g/u/u/400-450-23-trendy-5-1-na-football-vector-x-original-imafuhzgakay6xda.jpeg?q=70"
+            },
+            {
+               "id":21,
+               "name":"NIVIA Snow Storm Football - Size: 5",
+               "brand":"NIVIA",
+               "price":419,
+               "discount":35,
+               "quantity":"Pack of 1, Red",
+               "ratting":3.7,
+               "stock":5106,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/u/6/r/350-425-22-snow-storm-5-1-fb-1047rd-football-nivia-original-imagqbrzg7yc6mdg.jpeg?q=70"
+            },
+            {
+               "id":22,
+               "name":"ArrowMax THUNDER FOOTBALL PREMIUM QUALITY MATTE FINISH ...",
+               "brand":"ArrowMax",
+               "price":474,
+               "discount":63,
+               "quantity":"Pack of 1",
+               "ratting":4.0,
+               "stock":95,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/g/i/d/290-thunder-football-premium-quality-matte-finish-size-5-kids-original-imagjfw6aegrgehx.jpeg?q=70"
+            },
+            {
+               "id":23,
+               "name":"HAWK Swing, Size 5 Football - Size: 5",
+               "brand":"HAWK",
+               "price":299,
+               "discount":40,
+               "quantity":"Pack of 1, Blue",
+               "ratting":3.6,
+               "stock":149,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/jmf76vk0/ball/z/v/9/350-400-swing-size-5-5-22-1-fpm-05cy-football-hawk-original-imaf9c33csubqpzr.jpeg?q=70"
+            },
+            {
+               "id":24,
+               "name":"NIVIA HOMEPLAY Football - Size: 3",
+               "brand":"NIVIA",
+               "price":285,
+               "discount":68,
+               "quantity":"Pack of 1",
+               "ratting":3.7,
+               "stock":22840,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/j/s/2/225-230-homeplay-3-20-1-fb-4045rd-football-nivia-original-imagrjzjcwxzkugh.jpeg?q=70"
+            },
+            {
+               "id":25,
+               "name":"GOLS FIFA WORLD CUP QATAR 2022 NEW ADDITION FOOTBALL Fo...",
+               "brand":"GOLS",
+               "price":445,
+               "discount":24,
+               "quantity":"Pack of 13, Multicolor",
+               "ratting":3.7,
+               "stock":138,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/o/6/n/350-400-fifa-world-cup-qatar-2022-new-addition-football-5-24-13-original-imagm773vz8ehbyh.jpeg?q=70"
+            },
+            {
+               "id":26,
+               "name":"NIVIA Classic Football - Size: 5",
+               "brand":"NIVIA",
+               "price":820,
+               "discount":25,
+               "quantity":"Pack of 1, Yellow",
+               "ratting":4.2,
+               "stock":6189,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/h/e/l/430-454-classic-5-22-1-281-n-football-nivia-original-imagk5jcveekxt5m.jpeg?q=70"
+            },
+            {
+               "id":27,
+               "name":"NIVIA Trainer Football - Size: 5",
+               "brand":"NIVIA",
+               "price":649,
+               "discount":46,
+               "quantity":"Pack of 1, White",
+               "ratting":4.0,
+               "stock":14043,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/g/t/f/375-395-trainer-4-fb-264-football-nivia-original-imaggqkff6axcm25.jpeg?q=70"
+            },
+            {
+               "id":28,
+               "name":"ArrowMax Premium Football For Men Women Boys Girs Size ...",
+               "brand":"ArrowMax",
+               "price":485,
+               "discount":30,
+               "quantity":"Pack of 1",
+               "ratting":4.5,
+               "stock":13,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/h/z/f/300-premium-football-for-men-women-boys-girs-size-5-force-5-20-1-original-imagrmnhkthfufj6.jpeg?q=70"
+            },
+            {
+               "id":29,
+               "name":"NIVIA Rabona Pro Football (Yellow) Size - 5 With Ball P...",
+               "brand":"NIVIA",
+               "price":924,
+               "discount":26,
+               "quantity":"Pack of 1",
+               "ratting":3.7,
+               "stock":5106,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/j/q/a/300-22-rabona-pro-football-yellow-size-5-with-ball-pump-5-1-original-imagp26pcwbygkzh.jpeg?q=70"
+            },
+            {
+               "id":30,
+               "name":"NIVIA Snow Storm Football - Size: 5",
+               "brand":"NIVIA",
+               "price":689,
+               "discount":15,
+               "quantity":"Pack of 1, Blue",
+               "ratting":4.1,
+               "stock":4293,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/m/o/5/350-425-22-snow-storm-5-1-fb-1047bl-football-nivia-original-imagqbrqzurg6fg7.jpeg?q=70"
+            },
+            {
+               "id":31,
+               "name":"NIVIA Black & White Football - Size: 5",
+               "brand":"NIVIA",
+               "price":772,
+               "discount":2,
+               "quantity":"Pack of 1, White, Black",
+               "ratting":4.0,
+               "stock":80534,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/8/u/7/430-454-black-white-5-22-1-278-n-football-nivia-original-imaghazbngfcrbzg.jpeg?q=70"
+            },
+            {
+               "id":32,
+               "name":"NIVIA Country Colour (Italia) Football - Size: 5",
+               "brand":"NIVIA",
+               "price":389,
+               "discount":65,
+               "quantity":"Pack of 1, Multicolor",
+               "ratting":4.0,
+               "stock":12,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/f/z/b/400-country-colour-italia-5-22-1-1360it-football-nivia-original-imaghjkyrfj33grq.jpeg?q=70"
+            },
+            {
+               "id":33,
+               "name":"NIVIA Dominator 3.0 / Soccer Ball Rubber Moulded Ball S...",
+               "brand":"NIVIA",
+               "price":1331,
+               "discount":29,
+               "quantity":"Pack of 1, White, Blue",
+               "ratting":3.8,
+               "stock":664,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/z/e/z/530-football-5-2-1-na-football-nivia-original-imaghskznecbddwh.jpeg?q=70"
+            },
+            {
+               "id":34,
+               "name":"RASCO BRAZIL STREET FOOTBALL SIZE 5 WITH AIR PUMP Footb...",
+               "brand":"RASCO",
+               "price":449,
+               "discount":57,
+               "quantity":"Pack of 2, Multicolor",
+               "ratting":3.7,
+               "stock":8368,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/ju79hu80/kit/k/k/f/brazil-street-football-size-5-with-air-pump-rs10006-rasco-original-imaffcmfy3zgt6dy.jpeg?q=70"
+            },
+            {
+               "id":35,
+               "name":"NIVIA Blade Football - Size: 5",
+               "brand":"NIVIA",
+               "price":458,
+               "discount":24,
+               "quantity":"Pack of 1, Red",
+               "ratting":4.1,
+               "stock":95,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/v/f/n/410-455-blade-5-22-1-fb-1021yl-football-nivia-original-imaghjmmyd4xyvht.jpeg?q=70"
+            },
+            {
+               "id":36,
+               "name":"Synpro Super strom orange football Football - Size: 5",
+               "brand":"Synpro",
+               "price":299,
+               "discount":56,
+               "quantity":"Pack of 1",
+               "ratting":3.9,
+               "stock":383,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/ksuowi80/ball/4/a/6/380-20gm-50-5-super-strom-orange-football-1-ss-17500-mldorange-original-imag6btqg4wmux4h.jpeg?q=70"
+            },
+            {
+               "id":37,
+               "name":"ArrowMax KIDS TPE FOOTBALL Football - Size: 3",
+               "brand":"ArrowMax",
+               "price":365,
+               "discount":63,
+               "quantity":"Pack of 1, Blue",
+               "ratting":3.7,
+               "stock":844,
+               "image_url":"https://rukminim2.flixcart.com/image/612/612/k5r2mq80/ball/f/p/y/300-5-26-best-quality-football-1-tpe-5-football-arrowmax-original-imafhhydnueh4hkt.jpeg?q=70"
+            }
+        ]
+   },
+   "trimmer": [
+      {
+         "id":1,
+         "name":"NOVA NHT 1074 USB Trimmer 30 min  Runtime 4 Length Sett...",
+         "brand":"NOVA",
+         "price":494,
+         "discount":47,
+         "ratting":3.9,
+         "stock":234199,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kokdci80/trimmer/q/y/b/0-5-9-mm-stainless-steel-nht-1074-usb-cordless-nova-original-imag2znnv9yvzmtr.jpeg?q=70"
+      },
+      {
+         "id":2,
+         "name":"NOVA NHT 1039 USB Trimmer 45 min  Runtime 4 Length Sett...",
+         "brand":"NOVA",
+         "price":494,
+         "discount":38,
+         "ratting":4.0,
+         "stock":68764,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kzegk280/trimmer/l/q/j/0-5-12-mm-nht-1039-usb-stainless-steel-cordless-nova-original-imagbf7jwr54j4gg.jpeg?q=70"
+      },
+      {
+         "id":3,
+         "name":"PHILIPS BT3101/15 Trimmer 45 min  Runtime 10 Length Set...",
+         "brand":"PHILIPS",
+         "price":1046,
+         "discount":30,
+         "ratting":4.2,
+         "stock":254202,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kuof5ow0/trimmer/7/z/f/0-5-10-mm-bt3101-15-stainless-steel-cordless-philips-original-imag7r4r7ztgnuyk.jpeg?q=70"
+      },
+      {
+         "id":4,
+         "name":"PHILIPS BT1233/18 Trimmer 30 min  Runtime 4 Length Sett...",
+         "brand":"PHILIPS",
+         "price":746,
+         "discount":21,
+         "ratting":4.1,
+         "stock":174867,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/k/7/v/1-7-mm-bt1233-18-stainless-steel-cordless-philips-original-imagzgwgrdtxhgbu.jpeg?q=70"
+      },
+      {
+         "id":5,
+         "name":"Flipkart SmartBuy MultiTrim Runtime: 60 min Multi Purpo...",
+         "brand":"Flipkart",
+         "price":578,
+         "discount":61,
+         "ratting":4.2,
+         "stock":33546,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kgtqhe80-0/trimmer/w/h/z/0-25-9-mm-pr-1900-stainless-steel-cordless-flipkart-smartbuy-original-imafwzby8fnedmcv.jpeg?q=70"
+      },
+      {
+         "id":6,
+         "name":"VGR V-055 Professional Hair Trimmer Trimmer 120 min  Ru...",
+         "brand":"VGR",
+         "price":658,
+         "discount":73,
+         "ratting":4.2,
+         "stock":26373,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/i/h/e/0-5-12-mm-v-055-professional-hair-trimmer-stainless-steel-corded-original-imagt79fz2f6tmgw.jpeg?q=70"
+      },
+      {
+         "id":7,
+         "name":"Flipkart SmartBuy ATC002 Trimmer 90 min  Runtime 20 Len...",
+         "brand":"Flipkart",
+         "price":549,
+         "discount":65,
+         "ratting":4.1,
+         "stock":12408,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kp1imq80/trimmer/w/l/m/1-10-mm-titanium-coated-atc002-corded-cordless-flipkart-smartbuy-original-imag3d9qpwqj4r5u.jpeg?q=70"
+      },
+      {
+         "id":8,
+         "name":"NOVA NG 1153 Digital USB Trimmer 160 min  Runtime 20 Le...",
+         "brand":"NOVA",
+         "price":1349,
+         "discount":59,
+         "ratting":4.1,
+         "stock":125848,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/ko4ni4w0/trimmer/x/v/k/0-5-12-mm-stainless-steel-ng-1153-digital-usb-corded-cordless-original-imag2ngynbhz6p43.jpeg?q=70"
+      },
+      {
+         "id":9,
+         "name":"NOVA NHT 1052 USB Trimmer 90 min  Runtime 40 Length Set...",
+         "brand":"NOVA",
+         "price":749,
+         "discount":62,
+         "ratting":4.1,
+         "stock":239374,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/koenl3k0/trimmer/k/d/f/0-5-20-mm-stainless-steel-nht-1052-usb-corded-cordless-nova-original-imag2v6sawwdgxp4.jpeg?q=70"
+      },
+      {
+         "id":10,
+         "name":"Mi by Xiaomi Beard 2C Trimmer 90 min  Runtime 40 Length...",
+         "brand":"Mi",
+         "price":1154,
+         "discount":42,
+         "ratting":4.3,
+         "stock":9046,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/u/e/x/0-5-20-mm-xmght2clf-stainless-steel-cordless-mi-original-imagzjj3fc7gaftc.jpeg?q=70"
+      },
+      {
+         "id":11,
+         "name":"NOVA NG 1152-05 USB Trimmer 60 min  Runtime 9 Length Se...",
+         "brand":"NOVA",
+         "price":1199,
+         "discount":39,
+         "ratting":4.1,
+         "stock":34793,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kr6oeq80/trimmer/a/e/m/0-5-15-mm-ng-1152-05-usb-stainless-steel-cordless-nova-original-imag5fybfhkdguru.jpeg?q=70"
+      },
+      {
+         "id":12,
+         "name":"NOVA NHT 1039/03 USB Trimmer 45 min  Runtime 5 Length S...",
+         "brand":"NOVA",
+         "price":494,
+         "discount":41,
+         "ratting":4.0,
+         "stock":68764,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/b/g/6/-original-imaghr3pp8rg5pgh.jpeg?q=70"
+      },
+      {
+         "id":13,
+         "name":"NOVA NHT 1053 USB Trimmer 160 min  Runtime 40 Length Se...",
+         "brand":"NOVA",
+         "price":799,
+         "discount":63,
+         "ratting":4.1,
+         "stock":239374,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/koenl3k0/trimmer/e/j/k/0-5-20-mm-stainless-steel-nht-1053-usb-corded-cordless-nova-original-imag2v6ne4uvssh6.jpeg?q=70"
+      },
+      {
+         "id":14,
+         "name":"PHILIPS OneBlade QP2525/10 Trimmer 45 min  Runtime 3 Le...",
+         "brand":"PHILIPS",
+         "price":1384,
+         "discount":37,
+         "ratting":4.3,
+         "stock":49163,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/v/0/r/-original-imagkfzdg8gd7paw.jpeg?q=70"
+      },
+      {
+         "id":15,
+         "name":"HAVELLS bt5113c Trimmer 120 min  Runtime 9 Length Setti...",
+         "brand":"HAVELLS",
+         "price":720,
+         "discount":63,
+         "ratting":4.1,
+         "stock":77292,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kd4uj680/trimmer/p/f/m/0-5-15-mm-stainless-steel-bt5113-corded-cordless-havells-original-imafu3qdnj9pyakk.jpeg?q=70"
+      },
+      {
+         "id":16,
+         "name":"BOMBAY SHAVING COMPANY Flash Charging Men Beard Trimmer...",
+         "brand":"BOMBAY",
+         "price":779,
+         "discount":35,
+         "ratting":4.2,
+         "stock":3106,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/e/k/h/1-20-mm-btb1199-black-stainless-steel-cordless-bombay-shaving-original-imagkjwdestczjvz.jpeg?q=70"
+      },
+      {
+         "id":17,
+         "name":"NOVA Professional Rechargeable and Cordless NHT 1083 Ha...",
+         "brand":"NOVA",
+         "price":1399,
+         "discount":41,
+         "ratting":4.2,
+         "stock":35295,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kolsscw0/trimmer/u/r/p/0-5-20-mm-stainless-steel-professional-rechargeable-and-cordless-original-imag3yxc6hhzydxe.jpeg?q=70"
+      },
+      {
+         "id":18,
+         "name":"NOVA NHT 1058 Waterproof Trimmer 200 min  Runtime 40 Le...",
+         "brand":"NOVA",
+         "price":899,
+         "discount":60,
+         "ratting":4.2,
+         "stock":22127,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/l02r1jk0/trimmer/i/p/o/0-5-20-mm-nht-1058-waterproof-stainless-steel-corded-cordless-original-imagby7kgvz7ybpf.jpeg?q=70"
+      },
+      {
+         "id":19,
+         "name":"Misfit by boAt T50 Trimmer 160 mins  Runtime 40 Length ...",
+         "brand":"Misfit",
+         "price":799,
+         "discount":68,
+         "ratting":4.2,
+         "stock":82755,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kq9ta4w0/trimmer/7/i/b/0-5-20-mm-titanium-coated-t50-corded-cordless-misfit-original-imag4bpwy27jyg7q.jpeg?q=70"
+      },
+      {
+         "id":20,
+         "name":"VEGA SmartOne Series S2, VHTH-31 Fully Waterproof Trimm...",
+         "brand":"VEGA",
+         "price":999,
+         "discount":37,
+         "ratting":4.3,
+         "stock":26746,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/e/y/d/-original-imagpvfbvzyydyff.jpeg?q=70"
+      },
+      {
+         "id":21,
+         "name":"NOVA NHT 1073-00 USB Trimmer 60 min  Runtime 4 Length S...",
+         "brand":"NOVA",
+         "price":699,
+         "discount":30,
+         "ratting":4.2,
+         "stock":212591,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kolsscw0/trimmer/r/u/p/0-5-12-mm-stainless-steel-nht-1073-00-usb-cordless-nova-original-imag3yszbcgghaz2.jpeg?q=70"
+      },
+      {
+         "id":22,
+         "name":"NOVA NHT 1077 Trimmer 45 min  Runtime 4 Length Settings",
+         "brand":"NOVA",
+         "price":599,
+         "discount":45,
+         "ratting":3.8,
+         "stock":22083,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kokdci80/trimmer/p/z/p/0-5-9-mm-stainless-steel-nht-1077-cordless-nova-original-imag2znnmznwzj8b.jpeg?q=70"
+      },
+      {
+         "id":23,
+         "name":"NOVA NG 1145 Trimmer 60 min  Runtime 8 Length Settings",
+         "brand":"NOVA",
+         "price":899,
+         "discount":39,
+         "ratting":4.1,
+         "stock":37087,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kr6oeq80/trimmer/g/h/y/0-5-15-mm-ng-1145-stainless-steel-cordless-nova-original-imag5yzwu7pcsgep.jpeg?q=70"
+      },
+      {
+         "id":24,
+         "name":"PHILIPS MG3710/65 Trimmer 60 min  Runtime 8 Length Sett...",
+         "brand":"PHILIPS",
+         "price":1596,
+         "discount":20,
+         "ratting":4.2,
+         "stock":19033,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/l1nwnm80/trimmer/d/h/a/1-12-mm-mg3710-65-stainless-steel-cordless-philips-original-imagd69ektvggrf8.jpeg?q=70"
+      },
+      {
+         "id":25,
+         "name":"PHILIPS BT3235/15 Trimmer 90 min  Runtime 20 Length Set...",
+         "brand":"PHILIPS",
+         "price":2029,
+         "discount":17,
+         "ratting":4.4,
+         "stock":10761,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/l1pc3gw0/trimmer/p/g/h/0-5-10-mm-bt3235-15-titanium-coated-corded-cordless-philips-original-imagd7nsuqah6thm.jpeg?q=70"
+      },
+      {
+         "id":26,
+         "name":"Mi by Xiaomi Grooming Kit Trimmer 90 min  Runtime 40 Le...",
+         "brand":"Mi",
+         "price":1799,
+         "discount":45,
+         "ratting":4.2,
+         "stock":1209,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/q/v/u/-original-imagzzsghxbzhzph.jpeg?q=70"
+      },
+      {
+         "id":27,
+         "name":"NOVA SuperGroom NG 1148 USB Trimmer 45 min  Runtime 34 ...",
+         "brand":"NOVA",
+         "price":1099,
+         "discount":55,
+         "ratting":4.0,
+         "stock":41772,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/ko4ni4w0/trimmer/i/i/d/0-5-18-mm-stainless-steel-supergroom-ng-1148-usb-cordless-nova-original-imag2ngydqu9zmev.jpeg?q=70"
+      },
+      {
+         "id":28,
+         "name":"NOVA NHT 1096/002 Trimmer 120 min  Runtime 40 Length Se...",
+         "brand":"NOVA",
+         "price":699,
+         "discount":66,
+         "ratting":4.1,
+         "stock":7703,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kon887k0/trimmer/8/k/u/0-5-20-mm-stainless-steel-nht-1096-002-cordless-nova-original-imag3ftpvfhddbyf.jpeg?q=70"
+      },
+      {
+         "id":29,
+         "name":"PHILIPS BT3241/15 Trimmer 90 min  Runtime 20 Length Set...",
+         "brand":"PHILIPS",
+         "price":1949,
+         "discount":21,
+         "ratting":4.4,
+         "stock":7082,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kyrlifk0/trimmer/u/7/r/-original-imagaxgnmsb4ymdp.jpeg?q=70"
+      },
+      {
+         "id":30,
+         "name":"Mi Grooming kit Pro Fully Waterproof Trimmer 90 min  Ru...",
+         "brand":"Mi",
+         "price":2499,
+         "discount":50,
+         "ratting":4.3,
+         "stock":448,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/7/1/n/-original-imaghmzpxzmchf8x.jpeg?q=70"
+      },
+      {
+         "id":31,
+         "name":"NOVA NHT 1073-00 USB Trimmer 60 min  Runtime 4 Length S...",
+         "brand":"NOVA",
+         "price":699,
+         "discount":30,
+         "ratting":4.2,
+         "stock":212591,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kolsscw0/trimmer/p/s/p/0-5-12-mm-stainless-steel-nht-1073-00-usb-cordless-nova-original-imag3ysyn3unmpsz.jpeg?q=70"
+      },
+      {
+         "id":32,
+         "name":"NOVA NHT 1076 Trimmer 30 min  Runtime 4 Length Settings",
+         "brand":"NOVA",
+         "price":494,
+         "discount":45,
+         "ratting":3.9,
+         "stock":234199,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/koixwnk0/trimmer/l/x/w/0-5-9-mm-stainless-steel-nht-1076-cordless-nova-original-imag2yprhvjaz6nk.jpeg?q=70"
+      },
+      {
+         "id":33,
+         "name":"Flipkart SmartBuy M4D12B Runtime : 60 min Cordless USB ...",
+         "brand":"Flipkart",
+         "price":647,
+         "discount":13,
+         "ratting":4.2,
+         "stock":429851,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kfzq8i80-0/trimmer/0/c/3/0-5-10-mm-m4d12b-stainless-steel-cordless-flipkart-smartbuy-original-imafwbwzhmun2yvc.jpeg?q=70"
+      },
+      {
+         "id":34,
+         "name":"PHILIPS BT1232/15 Trimmer 30 mins  Runtime 3 Length Set...",
+         "brand":"PHILIPS",
+         "price":899,
+         "discount":10,
+         "ratting":4.1,
+         "stock":174867,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kuof5ow0/trimmer/m/q/v/0-5-7-mm-bt1232-15-stainless-steel-cordless-philips-original-imag7r4rh8ewvfnr.jpeg?q=70"
+      },
+      {
+         "id":35,
+         "name":"NOVA NHT 1059 Digital Waterproof Trimmer 200 min  Runti...",
+         "brand":"NOVA",
+         "price":999,
+         "discount":59,
+         "ratting":4.1,
+         "stock":16387,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/l01blow0/trimmer/a/k/d/0-5-20-mm-nht-1059-digital-waterproof-stainless-steel-corded-original-imagbwszverm5qrh.jpeg?q=70"
+      },
+      {
+         "id":36,
+         "name":"NOVA NG 1154 Waterproof Trimmer 170 min  Runtime 20 Len...",
+         "brand":"NOVA",
+         "price":1399,
+         "discount":56,
+         "ratting":4.2,
+         "stock":3868,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/l0sgyvk0/trimmer/i/8/a/0-5-12-mm-ng-1154-waterproof-stainless-steel-corded-cordless-original-imagchwhegvsasxv.jpeg?q=70"
+      },
+      {
+         "id":37,
+         "name":"VEGA SmartOne Series S1 VHTH-30 Fully Waterproof Trimme...",
+         "brand":"VEGA",
+         "price":1099,
+         "discount":38,
+         "ratting":4.3,
+         "stock":26746,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/p/f/t/-original-imagpvfbnxx6spwx.jpeg?q=70"
+      },
+      {
+         "id":38,
+         "name":"NOVA NG 1153/05 Digital USB Trimmer 160 min  Runtime 20...",
+         "brand":"NOVA",
+         "price":1499,
+         "discount":55,
+         "ratting":4.1,
+         "stock":125848,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kvcpn680/trimmer/c/j/v/0-5-12-mm-ng-1153-05-digital-usb-stainless-steel-corded-cordless-original-imag89wwzgzgrzcf.jpeg?q=70"
+      },
+      {
+         "id":39,
+         "name":"Gillette Proglide 4-in-1 Styler Trimmer 30 min  Runtime...",
+         "brand":"Gillette",
+         "price":949,
+         "discount":5,
+         "ratting":3.9,
+         "stock":6573,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/h/c/s/-original-imagnzabg9hbadpw.jpeg?q=70"
+      },
+      {
+         "id":40,
+         "name":"PHILIPS MG7715/65 Trimmer 120 min  Runtime 9 Length Set...",
+         "brand":"PHILIPS",
+         "price":3722,
+         "discount":18,
+         "ratting":4.3,
+         "stock":2685,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/9/l/6/-original-imagnggw4dzezbfv.jpeg?q=70"
+      }
+   ],
+   "home_theater": [
+      {
+         "id":1,
+         "name":"Vox V7171 90 W Bluetooth Home Theatre",
+         "brand":"Vox",
+         "price":2579,
+         "discount":48,
+         "type":"Black, 7.1 Channel",
+         "ratting":3.7,
+         "stock":3004,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/l1zc6fk0/speaker/home-theatre/l/y/g/v7171-vox-original-imagdfey4y3ymgj3.jpeg?q=70"
+      },
+      {
+         "id":2,
+         "name":"I Kall IK22 40 W Bluetooth Home Theatre",
+         "brand":"I",
+         "price":1599,
+         "discount":36,
+         "type":"Black, 2.1 Channel",
+         "ratting":3.7,
+         "stock":9134,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/home-theatre/r/v/2/k22-i-kall-original-imaggx26sq2ggdpm.jpeg?q=70"
+      },
+      {
+         "id":3,
+         "name":"SONY SA-D40 80 W Bluetooth Home Theatre",
+         "brand":"SONY",
+         "price":10490,
+         "discount":12,
+         "type":"Black, 4.1 Channel",
+         "ratting":4.4,
+         "stock":37378,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jvmpci80/speaker/home-audio-speaker/w/h/5/sony-sa-d40-original-imaffmj7yuzjzyhg.jpeg?q=70"
+      },
+      {
+         "id":4,
+         "name":"PHILIPS MMS8085B/94 Convertible 80 W Bluetooth Home The...",
+         "brand":"PHILIPS",
+         "price":8049,
+         "discount":16,
+         "type":"Black, 2.1 Channel",
+         "ratting":4.2,
+         "stock":40926,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/ko0d6kw0/speaker/home-theatre/o/i/g/mms8085b-94-philips-original-imag2k3tn8zrgw4f.jpeg?q=70"
+      },
+      {
+         "id":5,
+         "name":"etmax NANO PLUS 30 W Bluetooth Home Theatre",
+         "brand":"etmax",
+         "price":1089,
+         "discount":48,
+         "type":"Black, Stereo Channel",
+         "ratting":3.9,
+         "stock":8353,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kkcwo7k0/speaker/home-theatre/g/t/n/nano-plus-et-1414-bluetooth-etmax-original-imafzqcfkyx2ppps.jpeg?q=70"
+      },
+      {
+         "id":6,
+         "name":"ZEBRONICS Zeb-Twist 5.1 90 W Bluetooth Home Theatre",
+         "brand":"ZEBRONICS",
+         "price":3499,
+         "discount":41,
+         "type":"Black, 5.1 Channel",
+         "ratting":3.7,
+         "stock":6641,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kfk0e4w0-0/speaker/home-theatre/d/n/9/zeb-twist-5-1-zebronics-original-imafvzh2frzv4eym.jpeg?q=70"
+      },
+      {
+         "id":7,
+         "name":"LG LK72BE Deep Bass, Bluetooth, USB, SD Card and FM Rad...",
+         "brand":"LG",
+         "price":4681,
+         "discount":6,
+         "type":"Black, 2.1 Channel",
+         "ratting":4.2,
+         "stock":856,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/k0mqtu80/speaker/home-theatre/g/f/z/lg-lk72be-original-imafkdw4ks4v3zk2.jpeg?q=70"
+      },
+      {
+         "id":8,
+         "name":"PHILIPS MMS2625B/94 31 W Bluetooth Home Theatre",
+         "brand":"PHILIPS",
+         "price":3479,
+         "discount":36,
+         "type":"Black, 2.1 Channel",
+         "ratting":4.2,
+         "stock":40926,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/knexksw0/speaker/home-theatre/m/j/m/mms2625b-94-philips-original-imag23mb33k37h7x.jpeg?q=70"
+      },
+      {
+         "id":9,
+         "name":"SAREGAMA Carvaan Hindi 10 W Bluetooth Home Theatre",
+         "brand":"SAREGAMA",
+         "price":6290,
+         "discount":3,
+         "type":"Porcelain White, Stereo Channel",
+         "ratting":4.5,
+         "stock":15650,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jyxaw7k0/speaker/home-audio-speaker/c/8/w/saregama-carvaan-original-imaf8dujtcpxucz9.jpeg?q=70"
+      },
+      {
+         "id":10,
+         "name":"F&D A521X 104 W Bluetooth Home Theatre",
+         "brand":"F&D",
+         "price":5199,
+         "discount":50,
+         "type":"Black, 2.1 Channel",
+         "ratting":4.2,
+         "stock":87326,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/j7p2tu80/speaker/home-audio-speaker/a/2/s/f-d-a521x-original-imaextwf98f4vuhf.jpeg?q=70"
+      },
+      {
+         "id":11,
+         "name":"Intex 2622 55 W Portable Bluetooth Home Theatre",
+         "brand":"Intex",
+         "price":2699,
+         "discount":58,
+         "type":"Black, 4.1 Channel",
+         "ratting":3.7,
+         "stock":25350,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/n/r/m/-original-imagtjhcgp5vpgmx.jpeg?q=70"
+      },
+      {
+         "id":12,
+         "name":"F&D A140X 74 W Bluetooth Home Theatre",
+         "brand":"F&D",
+         "price":3999,
+         "discount":19,
+         "type":"Black, 2.1 Channel",
+         "ratting":4.2,
+         "stock":87326,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jyxaw7k0/speaker/home-audio-speaker/n/t/h/f-d-f-d-a140x-original-imaffdv7ggehtbme.jpeg?q=70"
+      },
+      {
+         "id":13,
+         "name":"ZEBRONICS Zeb BT8591RUCF, Bluetooth v5.0, HDMI, AC-3 su...",
+         "brand":"ZEBRONICS",
+         "price":6699,
+         "discount":48,
+         "type":"Black, 5.1 Channel",
+         "ratting":4.1,
+         "stock":420,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/home-theatre/9/l/u/zeb-bt8591rucf-home-theater-speaker-with-6-5-subwoofer-ac-3-original-imagnkygvwyfmkqd.jpeg?q=70"
+      },
+      {
+         "id":14,
+         "name":"Intex IT-XM BANG SUFB 78 W Bluetooth Home Theatre",
+         "brand":"Intex",
+         "price":3699,
+         "discount":53,
+         "type":"Black, 4.1 Channel",
+         "ratting":4.0,
+         "stock":25840,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/h/z/s/-original-imagtjhchky2nzgu.jpeg?q=70"
+      },
+      {
+         "id":15,
+         "name":"I Kall IK2222 Bluetooth Home Theatre",
+         "brand":"I",
+         "price":2439,
+         "discount":51,
+         "type":"Black, Mono Channel",
+         "ratting":3.8,
+         "stock":2753,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/km57hjk0/speaker/home-theatre/f/f/d/ik2222-i-kall-original-imagf44ntexhfz2j.jpeg?q=70"
+      },
+      {
+         "id":16,
+         "name":"MarQ by Flipkart MQ60HT41 60 W Bluetooth Home Theatre",
+         "brand":"MarQ",
+         "price":1999,
+         "discount":50,
+         "type":"Black, 4.1 Channel",
+         "ratting":3.6,
+         "stock":670,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/home-theatre/u/b/g/60w-bluetooth-home-theater-marq-by-flipkart-original-imaghphkkwh6wrjv.jpeg?q=70"
+      },
+      {
+         "id":17,
+         "name":"I Kall ik44bt 40 W Bluetooth Home Theatre",
+         "brand":"I",
+         "price":1549,
+         "discount":38,
+         "type":"Black, 2.1 Channel",
+         "ratting":3.6,
+         "stock":655,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/home-theatre/s/s/j/ik44bt-i-kall-original-imaggx2847shvyhg.jpeg?q=70"
+      },
+      {
+         "id":18,
+         "name":"ZEBRONICS BT4440 RUCF 60 Watt Bluetooth Home Theatre",
+         "brand":"ZEBRONICS",
+         "price":3299,
+         "discount":23,
+         "type":"Black, 4.1 Channel",
+         "ratting":4.1,
+         "stock":60003,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jydaqa80/speaker/home-audio-speaker/n/s/c/zebronics-bt4440rucf-original-imaeafwzccgtczx8.jpeg?q=70"
+      },
+      {
+         "id":19,
+         "name":"F&D PA300 100 W Bluetooth Party Speaker",
+         "brand":"F&D",
+         "price":16999,
+         "discount":31,
+         "type":"Black, Stereo Channel",
+         "ratting":4.3,
+         "stock":241,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/km9ht3k0/speaker/home-theatre/c/e/v/pa300-f-d-original-imagf73rzznrguaq.jpeg?q=70"
+      },
+      {
+         "id":20,
+         "name":"ZEBRONICS Zeb-Sunshine 60 W Bluetooth Home Theatre",
+         "brand":"ZEBRONICS",
+         "price":2299,
+         "discount":34,
+         "type":"Black, 4.1 Channel",
+         "ratting":3.6,
+         "stock":11355,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kfk0e4w0-0/speaker/home-theatre/3/f/e/zeb-sunshine-zebronics-original-imafvzhfmepchufv.jpeg?q=70"
+      },
+      {
+         "id":21,
+         "name":"I Kall IK666 80 W Bluetooth Home Theatre",
+         "brand":"I",
+         "price":2299,
+         "discount":23,
+         "type":"Black, 5.1 Channel",
+         "ratting":3.7,
+         "stock":9793,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/km0x5zk0/speaker/home-theatre/l/a/e/ik-666-bluetooth-i-kall-original-imagfytz3agszwxd.jpeg?q=70"
+      },
+      {
+         "id":22,
+         "name":"F&D F 3800X 160 W Bluetooth Home Theatre",
+         "brand":"F&D",
+         "price":7499,
+         "discount":51,
+         "type":"Black, 5.1 Channel",
+         "ratting":4.2,
+         "stock":17225,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jyxaw7k0/speaker/home-audio-speaker/g/a/5/f-d-f3800x-original-imafc63fgztup2zu.jpeg?q=70"
+      },
+      {
+         "id":23,
+         "name":"Intex IT-2616 BT 55 W Bluetooth Home Theatre",
+         "brand":"Intex",
+         "price":2599,
+         "discount":13,
+         "type":"Black, 4.1 Channel",
+         "ratting":3.8,
+         "stock":58681,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/3/4/3/-original-imagtjhdgfqmhu33.jpeg?q=70"
+      },
+      {
+         "id":24,
+         "name":"F&D F210X 30 W Portable Bluetooth Home Theatre",
+         "brand":"F&D",
+         "price":2799,
+         "discount":53,
+         "type":"Black, 2.1 Channel",
+         "ratting":4.2,
+         "stock":87326,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jyxaw7k0/speaker/laptop-desktop-speaker/z/7/u/f-d-f210x-original-imaf8dujg5sgu9fm.jpeg?q=70"
+      },
+      {
+         "id":25,
+         "name":"SAREGAMA Carvaan Hindi 10 W Bluetooth Home Theatre",
+         "brand":"SAREGAMA",
+         "price":6790,
+         "discount":2,
+         "type":"Cherrywood Red, Stereo Channel",
+         "ratting":4.5,
+         "stock":15650,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jyxaw7k0/speaker/home-audio-speaker/r/j/r/saregama-sc01-sc03-original-imafgucfk9tturbq.jpeg?q=70"
+      },
+      {
+         "id":26,
+         "name":"F&D A180X 84 W Portable Bluetooth Home Theatre",
+         "brand":"F&D",
+         "price":3999,
+         "discount":51,
+         "type":"Black, 2.1 Channel",
+         "ratting":4.2,
+         "stock":87326,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jyxaw7k0/speaker/home-audio-speaker/4/t/y/f-d-a180x-original-imaff6zgjg5hax9x.jpeg?q=70"
+      },
+      {
+         "id":27,
+         "name":"F&D 380X 108 W Bluetooth Home Theatre",
+         "brand":"F&D",
+         "price":5299,
+         "discount":50,
+         "type":"Black, 2.1 Channel",
+         "ratting":4.2,
+         "stock":87326,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jyxaw7k0/speaker/home-audio-speaker/x/q/2/f-d-f380x-original-imafc9chem454qgu.jpeg?q=70"
+      },
+      {
+         "id":28,
+         "name":"F&D F6000X Peak Power 270 W Bluetooth Home Theatre",
+         "brand":"F&D",
+         "price":13999,
+         "discount":50,
+         "type":"Black, 5.1 Channel",
+         "ratting":4.3,
+         "stock":6099,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jyxaw7k0/speaker/home-audio-speaker/x/n/k/f-d-f6000x-original-imafg5cvts3zezta.jpeg?q=70"
+      },
+      {
+         "id":29,
+         "name":"boAt Blitz 2000 Multimedia 100 W Bluetooth Home Theatre",
+         "brand":"boAt",
+         "price":5999,
+         "discount":33,
+         "type":"Premium Black, 2.1 Channel",
+         "ratting":4.2,
+         "stock":15340,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kjom6q80-0/speaker/mobile-tablet-speaker/r/a/g/blitz-2000-boat-original-imafz78cs8ftzgbq.jpeg?q=70"
+      },
+      {
+         "id":30,
+         "name":"ZEBRONICS ZEB-FEEL 4 60 W Bluetooth Home Theatre",
+         "brand":"ZEBRONICS",
+         "price":2499,
+         "discount":28,
+         "type":"Black, 4.1 Channel",
+         "ratting":3.8,
+         "stock":47956,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/k3ncakw0/speaker/home-theatre/y/g/q/zebronics-feel-original-imaff6r6kcr5nmrk.jpeg?q=70"
+      },
+      {
+         "id":31,
+         "name":"LG OK55, Karaoke Playback, DJ Effect, DJ Pad, Party Lig...",
+         "brand":"LG",
+         "price":26990,
+         "discount":18,
+         "type":"Black, Mono Channel",
+         "ratting":4.2,
+         "stock":970,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jjiw1ow0/speaker/m/z/k/lg-ok55-original-imaf7fsvhe6mxscr.jpeg?q=70"
+      },
+      {
+         "id":32,
+         "name":"Intex MM Speaker 2.1 CRYSTAL FMUB 45 W Bluetooth Home T...",
+         "brand":"Intex",
+         "price":2799,
+         "discount":38,
+         "type":"Black, 2.1 Channel",
+         "ratting":3.9,
+         "stock":1242,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/z/r/n/-original-imagtjheg7kmqgyc.jpeg?q=70"
+      },
+      {
+         "id":33,
+         "name":"PHILIPS SPA5190B/94 90 W Bluetooth Home Theatre",
+         "brand":"PHILIPS",
+         "price":7873,
+         "discount":3,
+         "type":"Black, 5.1 Channel",
+         "ratting":4.0,
+         "stock":32512,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/jz4g3gw0/speaker/home-audio-speaker/6/g/y/philips-spa5190b-94-original-imafj7zpmaemujny.jpeg?q=70"
+      },
+      {
+         "id":34,
+         "name":"CIHLEX New Good Quality Wooden Wireless Speaker with wi...",
+         "brand":"CIHLEX",
+         "price":549,
+         "discount":63,
+         "type":"Grey, Stereo Channel",
+         "ratting":3.7,
+         "stock":1747,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/ky90scw0/speaker/laptop-desktop-speaker/x/a/p/bluetooth-speaker-with-extra-bass-party-rocker-speaker-with-10h-original-imagaj4enhpdzymz.jpeg?q=70"
+      },
+      {
+         "id":35,
+         "name":"LG LK72B, Deep Bass, Bluetooth, USB, SD Card and FM Rad...",
+         "brand":"LG",
+         "price":4399,
+         "discount":11,
+         "type":"Black, 2.1 Channel",
+         "ratting":4.3,
+         "stock":7195,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/k0vbgy80pkrrdj/speaker-refurbished/g/q/v/b-lk72b-lg-original-imafkdw5cz6ehgbu.jpeg?q=70"
+      },
+      {
+         "id":36,
+         "name":"TECNIA Super King Series Bluetooth 5.1 Home Theater Mul...",
+         "brand":"TECNIA",
+         "price":2389,
+         "discount":31,
+         "type":"Black, 5.1 Channel",
+         "ratting":3.7,
+         "stock":2746,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/k6v2ykw0/speaker/home-theatre/f/u/x/tecnia-super-king-series-5-1-bluetooth-multimedia-speakers-with-original-imafp8hzfphztuex.jpeg?q=70"
+      },
+      {
+         "id":37,
+         "name":"F&D F550X 112 W Bluetooth Home Theatre",
+         "brand":"F&D",
+         "price":5499,
+         "discount":21,
+         "type":"Black, 2.1 Channel",
+         "ratting":4.2,
+         "stock":87326,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/speaker/home-audio-speaker/4/d/p/f-d-a550x-original-imaea2ftzywquzrz.jpeg?q=70"
+      },
+      {
+         "id":38,
+         "name":"Portronics POR-549 ROAR 24 W Bluetooth Party Speaker",
+         "brand":"Portronics",
+         "price":3499,
+         "discount":41,
+         "type":"Black, Stereo Channel",
+         "ratting":4.4,
+         "stock":1171,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/k69ncsw0/speaker/home-theatre/r/w/u/portronics-por-549-roar-original-imafzrghqfvxq2pn.jpeg?q=70"
+      },
+      {
+         "id":39,
+         "name":"Panasonic SC-HT550GW-K 150 W Bluetooth Home Theatre",
+         "brand":"Panasonic",
+         "price":10990,
+         "discount":18,
+         "type":"Black, 5.1 Channel",
+         "ratting":3.9,
+         "stock":651,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kr6oeq80/speaker/home-theatre/b/9/d/sc-ht550gw-k-panasonic-original-imag5f25yq6fdqra.jpeg?q=70"
+      },
+      {
+         "id":40,
+         "name":"boAt Blitz 1500 / Blitz 1508 Multimedia 50 W Bluetooth ...",
+         "brand":"boAt",
+         "price":3999,
+         "discount":42,
+         "type":"Premium Black, 2.1 Channel",
+         "ratting":3.9,
+         "stock":13846,
+         "image_url":"https://rukminim2.flixcart.com/image/612/612/kjom6q80-0/speaker/mobile-tablet-speaker/d/z/x/blitz-1500-boat-original-imafz7f4pghhgeys.jpeg?q=70"
+      }
+   ],
+   "earphone": {
+      "earphone": [
+         {
+            "id":1,
+            "name":"FLORID Bass Machine 786 In-Ear Wired Earphones With Mic...",
+            "brand":"FLORID",
+            "price":999,
+            "discount":16,
+            "ratting":3.7,
+            "stock":1574,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kdrpksw0-0/headphone/n/f/8/in-ear-super-extra-bass-headphones-hd-microphones-bm786-florid-original-imafuhp4yechapb5.jpeg?q=70"
+         },
+         {
+            "id":2,
+            "name":"TEMPT Zap X1 in Ear Wired Earphones with Mic | 10mm Pow...",
+            "brand":"TEMPT",
+            "price":379,
+            "discount":70,
+            "ratting":3.7,
+            "stock":53,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/q/v/n/zap-x1-in-ear-wired-earphones-with-mic-10mm-powerful-driver-for-original-imaghntzwtfrargw.jpeg?q=70"
+         },
+         {
+            "id":3,
+            "name":"realme Buds 2 Wired Headset",
+            "brand":"realme",
+            "price":599,
+            "discount":25,
+            "ratting":4.3,
+            "stock":717079,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/k20r8nk0/headphone/7/w/c/realme-buds-2-original-imafhgrckbygsyrk.jpeg?q=70"
+         },
+         {
+            "id":4,
+            "name":"Boult Audio X1-Wired with Dual Dynamic Drivers, BoomX R...",
+            "brand":"Boult",
+            "price":349,
+            "discount":65,
+            "ratting":4.1,
+            "stock":316142,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/9/g/i/-original-imagg5jf6hbjuwsj.jpeg?q=70"
+         },
+         {
+            "id":5,
+            "name":"boAt Bassheads 100 Wired Headset",
+            "brand":"boAt",
+            "price":399,
+            "discount":60,
+            "ratting":4.3,
+            "stock":1338962,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kqwobrk0/headphone/3/n/b/bassheads-100-boat-original-imag4tgdrpxfh3pk.jpeg?q=70"
+         },
+         {
+            "id":6,
+            "name":"APPLE EarPods with Lightning Connector Wired Headset",
+            "brand":"APPLE",
+            "price":1699,
+            "discount":15,
+            "ratting":4.4,
+            "stock":22095,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/jg15aq80/headphone/n/t/7/xrp-iphone-compatible-3-5mm-stereo-earphone-handsfree-for-original-imaepjzmthscubxj.jpeg?q=70"
+         },
+         {
+            "id":7,
+            "name":"summore HF-999 Wired Headset",
+            "brand":"summore",
+            "price":218,
+            "discount":78,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/5/b/hf-999-summore-original-imagraektczghwjx.jpeg?q=70"
+         },
+         {
+            "id":8,
+            "name":"FLORID in-Ear Super Extra Dynamic Bass Headphones (BM00...",
+            "brand":"FLORID",
+            "price":1499,
+            "discount":78,
+            "ratting":4.0,
+            "stock":3309,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kesv0y80-0/headphone/n/f/n/in-ear-super-extra-dynamic-bass-headphones-bm007-florid-original-imafvebghgskthzj.jpeg?q=70"
+         },
+         {
+            "id":9,
+            "name":"realme Buds 2 Wired Headset",
+            "brand":"realme",
+            "price":599,
+            "discount":25,
+            "ratting":4.3,
+            "stock":717079,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/k3g73bk0/headphone/3/b/z/realme-buds-2-original-imafmkr2z5huapjr.jpeg?q=70"
+         },
+         {
+            "id":10,
+            "name":"Mi Basic Wired Headset with Mic",
+            "brand":"Mi",
+            "price":499,
+            "discount":16,
+            "ratting":4.3,
+            "stock":748032,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/krntoy80/headphone/j/l/n/ydjc01jy-mi-original-imag5egze7eb9taj.jpeg?q=70"
+         },
+         {
+            "id":11,
+            "name":"FLORID In-Ear Bass Machine 007 Super Extra Dynamic Bass...",
+            "brand":"FLORID",
+            "price":1499,
+            "discount":16,
+            "ratting":4.0,
+            "stock":3309,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/ke5zzbk0-0/headphone/k/t/f/in-ear-bass-machine-007-super-extra-dynamic-bass-headphones-original-imafuwjxrrh2ns8k.jpeg?q=70"
+         },
+         {
+            "id":12,
+            "name":"TEMPT Zip X1 in Ear Wired Ear Phones with Mic |13.6mm P...",
+            "brand":"TEMPT",
+            "price":349,
+            "discount":65,
+            "ratting":3.1,
+            "stock":23,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/b/n/m/zip-x1-in-ear-wired-ear-phones-with-mic-13-6mm-powerful-driver-original-imaghn2hgjcdvwcj.jpeg?q=70"
+         },
+         {
+            "id":13,
+            "name":"realme Buds 2 Neo With HD Mic Wired Headset",
+            "brand":"realme",
+            "price":491,
+            "discount":18,
+            "ratting":4.2,
+            "stock":61331,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kq6yefk0/headphone/q/r/b/buds-2-neo-realme-original-imag4925fcqwvgar.jpeg?q=70"
+         },
+         {
+            "id":14,
+            "name":"TP TROOPS in-Ear Wired Earphones with 10mm Extra Bass D...",
+            "brand":"TP",
+            "price":259,
+            "discount":74,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/u/z/q/in-ear-wired-earphones-with-10mm-extra-bass-driver-and-hd-sound-original-imagrmcpprmje5zp.jpeg?q=70"
+         },
+         {
+            "id":15,
+            "name":"JBL C150SI with One Button Universal Remote Wired Heads...",
+            "brand":"JBL",
+            "price":749,
+            "discount":46,
+            "ratting":4.2,
+            "stock":396047,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/juwzf680/headphone-refurbished/7/h/k/z-c100si-jbl-original-imaffxja5vmgwudz.jpeg?q=70"
+         },
+         {
+            "id":16,
+            "name":"realme Buds Classic RMA2001 Wired Earphones with HD Mic...",
+            "brand":"realme",
+            "price":393,
+            "discount":43,
+            "ratting":4.2,
+            "stock":163362,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kg5fzww0-0/headphone/o/b/y/buds-classic-rma2001-wired-earphones-with-hd-microphone-realme-original-imafwg73j3bdnkeu.jpeg?q=70"
+         },
+         {
+            "id":17,
+            "name":"PROWARP PRODART Original EHS61 Deep Bass with Sound Can...",
+            "brand":"PROWARP",
+            "price":254,
+            "discount":63,
+            "ratting":4.1,
+            "stock":9023,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/y/g/prodart-sam-sung-original-ehs61-deep-bass-with-sound-original-imagh9hngf3rfz9v.jpeg?q=70"
+         },
+         {
+            "id":18,
+            "name":"boAt Bassheads 103 Wired Headset",
+            "brand":"boAt",
+            "price":499,
+            "discount":61,
+            "ratting":4.2,
+            "stock":618010,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kh3qkcw0-0/headphone/g/p/u/bassheads-103-boat-original-imafx6sbqmsyxwnh.jpeg?q=70"
+         },
+         {
+            "id":19,
+            "name":"boAt BassHeads 100 Wired Headset",
+            "brand":"boAt",
+            "price":375,
+            "discount":55,
+            "ratting":4.3,
+            "stock":1338962,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/k45x0nk0/headphone/stereo-dynamic-earphones/2/8/4/boat-bassheads-100-original-imafn4qtbtwnky36.jpeg?q=70"
+         },
+         {
+            "id":20,
+            "name":"Boult Audio X1 Pro with Type-C Connector, Dynamic Drive...",
+            "brand":"Boult",
+            "price":449,
+            "discount":55,
+            "ratting":4.0,
+            "stock":798,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/e/3/w/-original-imags9rqqbkjjhgp.jpeg?q=70"
+         },
+         {
+            "id":21,
+            "name":"Boult Audio X1 Pro with Type-C Connector, Dynamic Drive...",
+            "brand":"Boult",
+            "price":449,
+            "discount":55,
+            "ratting":4.0,
+            "stock":798,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/d/l/-original-imags9rqjfmzg5zn.jpeg?q=70"
+         },
+         {
+            "id":22,
+            "name":"Sennheiser IE 900 Audiophile In Ear Headphone Wired wit...",
+            "brand":"Sennheiser",
+            "price":129990,
+            "discount":10,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/p/l/j/508949-sennheiser-original-imagjdyhehjpezrm.jpeg?q=70"
+         },
+         {
+            "id":23,
+            "name":"Microflash S7-Deep Bass, Clear Hi-Fi Sound, Headphones ...",
+            "brand":"Microflash",
+            "price":199,
+            "discount":50,
+            "ratting":3.9,
+            "stock":5964,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/c/5/s7-deep-bass-clear-hi-fi-sound-headphones-microflash-original-imagsbvymygqtdnd.jpeg?q=70"
+         },
+         {
+            "id":24,
+            "name":"Boult Audio Loop2 with 10mm Drivers, BoomX Rich Bass, I...",
+            "brand":"Boult",
+            "price":349,
+            "discount":65,
+            "ratting":4.0,
+            "stock":25012,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/d/m/-original-imagjfqefhhhv7bm.jpeg?q=70"
+         },
+         {
+            "id":25,
+            "name":"realme Buds Classic RMA2001 Wired Earphones with HD Mic...",
+            "brand":"realme",
+            "price":393,
+            "discount":43,
+            "ratting":4.2,
+            "stock":163362,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kg5fzww0-0/headphone/j/4/e/buds-classic-rma2001-wired-earphones-with-hd-microphone-realme-original-imafwg7jg7fgezd6.jpeg?q=70"
+         },
+         {
+            "id":26,
+            "name":"boAt BassHeads 100 Wired Headset",
+            "brand":"boAt",
+            "price":399,
+            "discount":60,
+            "ratting":4.3,
+            "stock":1338962,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/k51cpe80pkrrdj/headphone-refurbished/c/t/8/c-bassheads-100-boat-original-imafn4qttzkvzeyq.jpeg?q=70"
+         },
+         {
+            "id":27,
+            "name":"Mi Mi Wired in-Ear Earphones with Mic, Ultra Deep Bass ...",
+            "brand":"Mi",
+            "price":499,
+            "discount":16,
+            "ratting":4.3,
+            "stock":748032,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kbzergw0/headphone/q/j/f/ydjc01jy-mi-original-imaft7gypyfhhpjr.jpeg?q=70"
+         },
+         {
+            "id":28,
+            "name":"Microflash S7-Deep Bass, Clear Hi-Fi Sound, Headphones ...",
+            "brand":"Microflash",
+            "price":199,
+            "discount":50,
+            "ratting":3.9,
+            "stock":5964,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/l/h/s7-deep-bass-clear-hi-fi-sound-headphones-microflash-original-imagsbsxscegmqme.jpeg?q=70"
+         },
+         {
+            "id":29,
+            "name":"boAt Bassheads 104 Wired Headset",
+            "brand":"boAt",
+            "price":449,
+            "discount":55,
+            "ratting":4.1,
+            "stock":64985,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kmf7ki80/headphone/7/5/j/bassheads-104-boat-original-imagfbvwvtgbxbcg.jpeg?q=70"
+         },
+         {
+            "id":30,
+            "name":"vivo XE160 Wired Headset",
+            "brand":"vivo",
+            "price":399,
+            "discount":20,
+            "ratting":4.1,
+            "stock":1454,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/l/g/xe160-vivo-original-imagmhfqvppydxz4.jpeg?q=70"
+         },
+         {
+            "id":31,
+            "name":"JBL C150SI with One Button Universal Remote Wired Heads...",
+            "brand":"JBL",
+            "price":737,
+            "discount":47,
+            "ratting":4.2,
+            "stock":396047,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/k3ncakw0pkrrdj/headphone/dynamic/z/a/r/jbl-c150siured-original-imafhyzxbgwa3czq.jpeg?q=70"
+         },
+         {
+            "id":32,
+            "name":"PHILIPS TAE1126BK/94 Wired Headset",
+            "brand":"PHILIPS",
+            "price":384,
+            "discount":30,
+            "ratting":4.0,
+            "stock":1210,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/krp94sw0/headphone/v/1/4/tae1126bk-94-philips-original-imag5fgqgz7tbhzg.jpeg?q=70"
+         },
+         {
+            "id":33,
+            "name":"SpinBot BattleBudz W20 Wired Gaming Earphones with Boom...",
+            "brand":"SpinBot",
+            "price":749,
+            "discount":25,
+            "ratting":3.7,
+            "stock":839,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/s/8/7/battlebudz-w20-wired-gaming-earphones-with-boom-mic-for-mobiles-original-imaghvhncsmucvyg.jpeg?q=70"
+         },
+         {
+            "id":34,
+            "name":"JBL C150SI with One Button Universal Remote Wired Heads...",
+            "brand":"JBL",
+            "price":749,
+            "discount":46,
+            "ratting":4.2,
+            "stock":396047,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/k3ncakw0pkrrdj/headphone/dynamic/k/c/g/jbl-c150siuwht-original-imafhyzxpkzbcqtd.jpeg?q=70"
+         },
+         {
+            "id":35,
+            "name":"ZEBRONICS ZEB-BRO Wired Headset",
+            "brand":"ZEBRONICS",
+            "price":339,
+            "discount":15,
+            "ratting":3.8,
+            "stock":63564,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/khmbafk0-0/headphone/b/a/p/zeb-bro-zebronics-original-imafxhhsq9ykgpnx.jpeg?q=70"
+         },
+         {
+            "id":36,
+            "name":"SONY XB55AP Wired Headset",
+            "brand":"SONY",
+            "price":1899,
+            "discount":23,
+            "ratting":4.4,
+            "stock":22276,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/jd94h3k0/headphone/p/c/8/sony-mdr-xb55ap-original-imaf27azuzabhuuh.jpeg?q=70"
+         },
+         {
+            "id":37,
+            "name":"JBL Endurance Run 2 with Fliphook & TwistLock Technolog...",
+            "brand":"JBL",
+            "price":1199,
+            "discount":23,
+            "ratting":4.1,
+            "stock":1090,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/q/5/-original-imagnamhcejreyqr.jpeg?q=70"
+         },
+         {
+            "id":38,
+            "name":"Microflash S7-Deep Bass, Clear Hi-Fi Sound, Headphones ...",
+            "brand":"Microflash",
+            "price":189,
+            "discount":52,
+            "ratting":3.9,
+            "stock":5964,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/a/5/3/s7-deep-bass-clear-hi-fi-sound-headphones-microflash-original-imagsbuywnw7gyw3.jpeg?q=70"
+         },
+         {
+            "id":39,
+            "name":"SAMSUNG AKG-tuned IC100 Type-C Earphone Wired Headset",
+            "brand":"SAMSUNG",
+            "price":1999,
+            "discount":52,
+            "ratting":4.2,
+            "stock":431,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l5h2xe80/headphone/b/j/f/akg-tuned-ic100-type-c-earphone-samsung-original-imagg5f7hxttpkm6.jpeg?q=70"
+         },
+         {
+            "id":40,
+            "name":"Redmi by Mi Hi-Resolution Audio Wired Headset",
+            "brand":"Redmi",
+            "price":449,
+            "discount":25,
+            "ratting":4.2,
+            "stock":87627,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kelptow0-0/headphone/a/6/e/ydjc02wm-redmi-original-imafv8umtxpu9zda.jpeg?q=70"
+         }
+      ],
+      "neckband": [
+         {
+            "id":1,
+            "name":"Boult Audio YCharge with Pro+ Calling Mic, Full Charge ...",
+            "brand":"Boult",
+            "price":799,
+            "discount":60,
+            "ratting":3.9,
+            "stock":35937,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/i/y/-original-imagkf35pfkyqgnf.jpeg?q=70"
+         },
+         {
+            "id":2,
+            "name":"Boult Audio ProBass Fcharge with 40 hrs Playtime, ENC, ...",
+            "brand":"Boult",
+            "price":1199,
+            "discount":76,
+            "ratting":4.0,
+            "stock":84098,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/z/i/-original-imagg33vgs8zzr3j.jpeg?q=70"
+         },
+         {
+            "id":3,
+            "name":"OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Ba...",
+            "brand":"OnePlus",
+            "price":1999,
+            "discount":13,
+            "ratting":4.3,
+            "stock":697811,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l0sgyvk0/headphone/e/w/c/buds-z2-oneplus-original-imagcg5gfpcg5ndv.jpeg?q=70"
+         },
+         {
+            "id":4,
+            "name":"realme Buds Wireless 3 with 30dB ANC, 360 degree Spatia...",
+            "brand":"realme",
+            "price":1799,
+            "discount":40,
+            "ratting":4.3,
+            "stock":10740,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/t/4/p/-original-imagrddw8rpjwfag.jpeg?q=70"
+         },
+         {
+            "id":5,
+            "name":"realme Buds Wireless 2 Neo with Type-C Fast Charge & Ba...",
+            "brand":"realme",
+            "price":1299,
+            "discount":48,
+            "ratting":4.2,
+            "stock":326915,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/ksqeky80/headphone/x/r/m/rma2011-realme-original-imag68fe7xdnavuh.jpeg?q=70"
+         },
+         {
+            "id":6,
+            "name":"OnePlus Bullets Wireless Z2 Bluetooth Headset",
+            "brand":"OnePlus",
+            "price":1999,
+            "discount":13,
+            "ratting":4.3,
+            "stock":697811,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l4ei1e80/headphone/b/j/w/bullets-wireless-z2-oneplus-original-imagfaww7ga6nshz.jpeg?q=70"
+         },
+         {
+            "id":7,
+            "name":"Wiggle XFlare - 48 Hours Neckband Bluetooth Headset",
+            "brand":"Wiggle",
+            "price":473,
+            "discount":75,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/i/u/n/xflare-48-hours-neckband-wiggle-original-imagpw4usry4hcvk.jpeg?q=70"
+         },
+         {
+            "id":8,
+            "name":"Boult Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",
+            "brand":"Boult",
+            "price":999,
+            "discount":77,
+            "ratting":4.0,
+            "stock":77121,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/y/g/s/-original-imagg33vc5mgfwn7.jpeg?q=70"
+         },
+         {
+            "id":9,
+            "name":"OnePlus Bullets Wireless Z2 ANC Bluetooth in Ear Earpho...",
+            "brand":"OnePlus",
+            "price":2299,
+            "discount":8,
+            "ratting":4.2,
+            "stock":2578,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/r/k/7/-original-imagrs3zw6hf7fyq.jpeg?q=70"
+         },
+         {
+            "id":10,
+            "name":"realme Buds Wireless 2 Neo with Type-C Fast Charge & Ba...",
+            "brand":"realme",
+            "price":1299,
+            "discount":48,
+            "ratting":4.2,
+            "stock":326915,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/ksqeky80/headphone/3/l/n/rma2011-realme-original-imag68fqfqbydmrx.jpeg?q=70"
+         },
+         {
+            "id":11,
+            "name":"Boult Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",
+            "brand":"Boult",
+            "price":999,
+            "discount":77,
+            "ratting":4.0,
+            "stock":77121,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/9/0/-original-imagg33usfucs9nd.jpeg?q=70"
+         },
+         {
+            "id":12,
+            "name":"NOYMI Waterproof Bluetooth wireless neckband earphone w...",
+            "brand":"NOYMI",
+            "price":474,
+            "discount":70,
+            "ratting":3.7,
+            "stock":3163,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/5/w/l/waterproof-bluetooth-wireless-neckband-earphone-with-high-bass-original-imagmfvtz3zzxzkk.jpeg?q=70"
+         },
+         {
+            "id":13,
+            "name":"boAt Rockerz 255 Pro+ /258 Pro+ with ASAP Charge and up...",
+            "brand":"boAt",
+            "price":1299,
+            "discount":67,
+            "ratting":4.2,
+            "stock":765122,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l31x2fk0/headphone/m/5/v/-original-image9ehhvpt8vzt.jpeg?q=70"
+         },
+         {
+            "id":14,
+            "name":"ZSIV New M-30 Enco 3D Bass 48Hr Playtime Waterproof MP3...",
+            "brand":"ZSIV",
+            "price":499,
+            "discount":80,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/b/y/j/badshah-24-hours-playtime-bluetooth-neckband-headset-earphone-original-imaghx72m7ydnnyy.jpeg?q=70"
+         },
+         {
+            "id":15,
+            "name":"ORAIMO Shark 3 Deep Bass Neckband Bluetooth Headset",
+            "brand":"ORAIMO",
+            "price":599,
+            "discount":76,
+            "ratting":4.1,
+            "stock":23373,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/l/d/-original-imagg8q4vecawdsy.jpeg?q=70"
+         },
+         {
+            "id":16,
+            "name":"realme Buds Wireless 3 with 30dB ANC, 360 degree Spatia...",
+            "brand":"realme",
+            "price":1799,
+            "discount":40,
+            "ratting":4.3,
+            "stock":10740,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/c/n/2/-original-imagt5t5npyehwjq.jpeg?q=70"
+         },
+         {
+            "id":17,
+            "name":"Boult Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",
+            "brand":"Boult",
+            "price":999,
+            "discount":77,
+            "ratting":4.0,
+            "stock":77121,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/u/c/u/-original-imagg33vzvudvhky.jpeg?q=70"
+         },
+         {
+            "id":18,
+            "name":"U&i Key Series 20hrs Wireless Earphone with Mic Bluetoo...",
+            "brand":"U&i",
+            "price":449,
+            "discount":79,
+            "ratting":3.9,
+            "stock":2555,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kusph8w0/headphone/z/p/n/key-series-20hrs-wireless-earphone-with-mic-bluetooth-headset-u-original-imag7uyvyznac2yt.jpeg?q=70"
+         },
+         {
+            "id":19,
+            "name":"ZSIV M-30 Enco Wireless 48Hr Playback Headphone Stereo ...",
+            "brand":"ZSIV",
+            "price":499,
+            "discount":80,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/y/k/titanic-bass-music-24hr-playback-ipx4-4d-bass-sport-bluetooth-original-imaghx85gjshy4fb.jpeg?q=70"
+         },
+         {
+            "id":20,
+            "name":"boAt Rockerz 235 Pro with upto 20 Hours Playback & ASAP...",
+            "brand":"boAt",
+            "price":999,
+            "discount":49,
+            "ratting":4.1,
+            "stock":213221,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l2jcccw0/headphone/e/b/t/-original-imagduskzq2my6td.jpeg?q=70"
+         },
+         {
+            "id":21,
+            "name":"ORAIMO Shark 4 Bluetooth Neckband 20Hrs Playtime,ASAP C...",
+            "brand":"ORAIMO",
+            "price":699,
+            "discount":65,
+            "ratting":4.0,
+            "stock":1533,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/8/5/v/-original-imagn7c58tggasqg.jpeg?q=70"
+         },
+         {
+            "id":22,
+            "name":"ORAIMO Necklace 4 Fast Charge, 50hr PlayTime, Super Bas...",
+            "brand":"ORAIMO",
+            "price":1399,
+            "discount":60,
+            "ratting":4.1,
+            "stock":3391,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/l/x/c/-original-imagkv2gteah2rwh.jpeg?q=70"
+         },
+         {
+            "id":23,
+            "name":"Aroma NB119B Badshah 60 Hours Playing Time Fast Chargin...",
+            "brand":"Aroma",
+            "price":407,
+            "discount":83,
+            "ratting":3.9,
+            "stock":296989,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/7/5/nb119b-badshah-60-hours-playing-time-fast-charging-bluetooth-original-imaghf8vgxzhzbfs.jpeg?q=70"
+         },
+         {
+            "id":24,
+            "name":"SONY WI-C100 with 25 Hours Battery Life Bluetooth Heads...",
+            "brand":"SONY",
+            "price":1399,
+            "discount":49,
+            "ratting":3.5,
+            "stock":10771,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l58iaa80/headphone/l/g/g/wi-c100-sony-original-imagfybgg8kzz4sz.jpeg?q=70"
+         },
+         {
+            "id":25,
+            "name":"OnePlus Bullets Wireless Z2 Bluetooth Headset",
+            "brand":"OnePlus",
+            "price":1999,
+            "discount":13,
+            "ratting":4.3,
+            "stock":697811,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l0sgyvk0/headphone/m/b/c/buds-z2-oneplus-original-imagcg5stg9fzes6.jpeg?q=70"
+         },
+         {
+            "id":26,
+            "name":"boAt Rockerz 333 Upto 30 Hours Battery Bluetooth Headse...",
+            "brand":"boAt",
+            "price":1599,
+            "discount":35,
+            "ratting":4.1,
+            "stock":240262,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kqttg280/headphone/x/g/g/rockerz-333-boat-original-imag4r33bwfttdgn.jpeg?q=70"
+         },
+         {
+            "id":27,
+            "name":"HOUSE OF SOUND SERIES 1 Bluetooth Headset",
+            "brand":"HOUSE",
+            "price":449,
+            "discount":91,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/a/c/v/series-1-house-of-sound-original-imagstmvzqrhjzv2.jpeg?q=70"
+         },
+         {
+            "id":28,
+            "name":"U&i Burn Series Single Ear Business Headset Bluetooth H...",
+            "brand":"U&i",
+            "price":449,
+            "discount":73,
+            "ratting":3.9,
+            "stock":4606,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kfa0b680-0/headphone/e/3/e/burn-series-single-ear-business-headset-u-i-original-imafvrzrfaa6gsne.jpeg?q=70"
+         },
+         {
+            "id":29,
+            "name":"ZSIV New 2023 Thundar Bass M-30 Enco Bluetooth Gaming &...",
+            "brand":"ZSIV",
+            "price":499,
+            "discount":80,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/j/9/c/noise-flair-neckband-wireless-with-mic-headphones-neckband-original-imaghx7mcya28bm6.jpeg?q=70"
+         },
+         {
+            "id":30,
+            "name":"Aroma NB119 Titanium - 48 Hours Playtime Bluetooth Neck...",
+            "brand":"Aroma",
+            "price":498,
+            "discount":80,
+            "ratting":4.0,
+            "stock":193960,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/h/d/6/nb119-titanium-48-hours-playtime-bluetooth-neckband-aroma-original-imaghrcbugpcnzeb.jpeg?q=70"
+         },
+         {
+            "id":31,
+            "name":"NOYMI Waterproof Wireless earphone Standby 200hrs Suppo...",
+            "brand":"NOYMI",
+            "price":759,
+            "discount":62,
+            "ratting":3.7,
+            "stock":350,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/z/0/bluetooth-waterproof-wireless-earphone-with-upto-200-hours-original-imagpyarq996yzgm.jpeg?q=70"
+         },
+         {
+            "id":32,
+            "name":"HOUSE OF SOUND SERIES 1 Bluetooth Headset",
+            "brand":"HOUSE",
+            "price":449,
+            "discount":91,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/i/e/a/series-1-house-of-sound-original-imagstmvncnjxmwz.jpeg?q=70"
+         },
+         {
+            "id":33,
+            "name":"OnePlus Bullets Wireless Z2 Bluetooth Headset",
+            "brand":"OnePlus",
+            "price":1999,
+            "discount":13,
+            "ratting":4.3,
+            "stock":697811,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/7/a/8/bullets-wireless-z2-oneplus-original-imagpgskyzj6zhte.jpeg?q=70"
+         },
+         {
+            "id":34,
+            "name":"boAt Rockerz Trinity with 150 Hours Playback, Crystal B...",
+            "brand":"boAt",
+            "price":1499,
+            "discount":62,
+            "ratting":4.0,
+            "stock":5192,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/0/1/e/-original-imagn2fg3hh7hfgj.jpeg?q=70"
+         },
+         {
+            "id":35,
+            "name":"ZSIV M-30 Enco 3D Bass 48Hr Playtime Waterproof MP3 Run...",
+            "brand":"ZSIV",
+            "price":499,
+            "discount":80,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/h/v/0/bluetooth-headphone-bass-bluetooth-neckband-upto-24-hours-original-imaghx8yggwahkw6.jpeg?q=70"
+         },
+         {
+            "id":36,
+            "name":"realme Buds Wireless 3 with 30dB ANC, 360 degree Spatia...",
+            "brand":"realme",
+            "price":1799,
+            "discount":40,
+            "ratting":4.3,
+            "stock":10740,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/a/c/-original-imagrddwvkykfwtz.jpeg?q=70"
+         },
+         {
+            "id":37,
+            "name":"Mivi Collar Classic Pro TWS Neckband with 72 Hours of P...",
+            "brand":"Mivi",
+            "price":1199,
+            "discount":60,
+            "ratting":3.8,
+            "stock":37036,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/j/7/-original-imagh8xpkfdnmk2v.jpeg?q=70"
+         },
+         {
+            "id":38,
+            "name":"NOYMI Bluetooth Waterproof Wireless Neckband Standby 20...",
+            "brand":"NOYMI",
+            "price":759,
+            "discount":62,
+            "ratting":3.4,
+            "stock":27,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/l/i/x/bluetooth-waterproof-wireless-neckband-standby-200hrs-support-tf-original-imagqexceuysttwe.jpeg?q=70"
+         },
+         {
+            "id":39,
+            "name":"SONY WI-XB400 Extra Bass Wireless Stereo Headset Blueto...",
+            "brand":"SONY",
+            "price":2990,
+            "discount":40,
+            "ratting":4.0,
+            "stock":11274,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l09w8sw0/headphone/p/6/d/-original-imagc3zzrpnbmrhm.jpeg?q=70"
+         },
+         {
+            "id":40,
+            "name":"Ucool Nexa 100 Hours Playtime Bluetooth Wireless Neckba...",
+            "brand":"Ucool",
+            "price":599,
+            "discount":80,
+            "ratting":4.0,
+            "stock":11146,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l26hdow0/headphone/x/i/c/nexa-100-hours-playtime-bluetooth-wireless-neckband-headphones-original-imagdh27hbuehtz3.jpeg?q=70"
+         }
+      ],
+      "tws": [
+         {
+            "id":1,
+            "name":"Microflash Touch, Voice Control-LED Display Earbuds Blu...",
+            "brand":"Microflash",
+            "price":699,
+            "discount":65,
+            "ratting":4.0,
+            "stock":9779,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/a/h/u/touch-voice-control-led-display-earbuds-microflash-original-imagpdhghyhzjtmr.jpeg?q=70"
+         },
+         {
+            "id":2,
+            "name":"Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass,Made...",
+            "brand":"Mivi",
+            "price":899,
+            "discount":70,
+            "ratting":4.0,
+            "stock":7085,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/j/2/e/-original-imagpxhyanjcqvrg.jpeg?q=70"
+         },
+         {
+            "id":3,
+            "name":"boAt Airdopes 131 with upto 60 Hours and ASAP Charge Bl...",
+            "brand":"boAt",
+            "price":999,
+            "discount":66,
+            "ratting":4.0,
+            "stock":1553068,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/1/8/l/-original-imagqhswqgpwb2yu.jpeg?q=70"
+         },
+         {
+            "id":4,
+            "name":"boAt Airdopes 161 with 40 Hours Playback, ASAP Charge &...",
+            "brand":"boAt",
+            "price":1099,
+            "discount":55,
+            "ratting":4.0,
+            "stock":544660,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/o/d/r/-original-imagpgwsm6zgtsrj.jpeg?q=70"
+         },
+         {
+            "id":5,
+            "name":"OPPO Enco Buds 2 with 28 hours Battery life & Deep Nois...",
+            "brand":"OPPO",
+            "price":1799,
+            "discount":55,
+            "ratting":4.2,
+            "stock":180908,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/p/r/z/enco-buds-2-oppo-original-imagh9frfp7gxdb3.jpeg?q=70"
+         },
+         {
+            "id":6,
+            "name":"boAt Airdopes 161 ANC w/ Active Noise Cancellation(32dB...",
+            "brand":"boAt",
+            "price":1699,
+            "discount":71,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/i/q/-original-imagspmhc2nnupp7.jpeg?q=70"
+         },
+         {
+            "id":7,
+            "name":"NONA SERIES New Edition TWS M19 Gaming Earbuds Bluetoot...",
+            "brand":"NONA",
+            "price":620,
+            "discount":58,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/i/e/new-edition-tws-m19-gaming-earbuds-bluetooth5-0-wireless-led-original-imagnmfrhhg7zfdx.jpeg?q=70"
+         },
+         {
+            "id":8,
+            "name":"TXOR SENSO V 1.0 TWS EARBUDS, Bass+ 20 H Play time & Fa...",
+            "brand":"TXOR",
+            "price":572,
+            "discount":55,
+            "ratting":3.5,
+            "stock":6087,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/o/c/m/senso-v-1-0-tws-earbuds-bass-20-h-play-time-fast-charging-v-5-1-original-imagkebn7debb2hs.jpeg?q=70"
+         },
+         {
+            "id":9,
+            "name":"realme Techlife Buds T100 with up to 28 Hours Playback ...",
+            "brand":"realme",
+            "price":1499,
+            "discount":50,
+            "ratting":4.2,
+            "stock":108382,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/j/t/c/-original-imaghbdup9jbrdzh.jpeg?q=70"
+         },
+         {
+            "id":10,
+            "name":"OnePlus Nord Buds 2 True Wireless Earbuds with 25dB Act...",
+            "brand":"OnePlus",
+            "price":2999,
+            "discount":9,
+            "ratting":4.3,
+            "stock":20286,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/0/v/m/nord-buds-2-oneplus-original-imagnwf7sgjetqwg.jpeg?q=70"
+         },
+         {
+            "id":11,
+            "name":"Boult Audio W20 with Zen ENC Mic, 32H Battery Life, Low...",
+            "brand":"Boult",
+            "price":999,
+            "discount":60,
+            "ratting":4.1,
+            "stock":497,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/1/y/s/-original-imagt5cwr7bpuzzt.jpeg?q=70"
+         },
+         {
+            "id":12,
+            "name":"Boult Audio Y1 with Zen ENC Mic, 40Hrs Playtime, Fast C...",
+            "brand":"Boult",
+            "price":1299,
+            "discount":76,
+            "ratting":4.1,
+            "stock":193711,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/m/j/q/-original-imagsqk42jqbvkgu.jpeg?q=70"
+         },
+         {
+            "id":13,
+            "name":"OnePlus Nord Buds 2r True Wireless in Ear Earbuds with ...",
+            "brand":"OnePlus",
+            "price":2199,
+            "discount":4,
+            "ratting":4.3,
+            "stock":5952,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/t/q/-original-imagr4t8zuq2wzhe.jpeg?q=70"
+         },
+         {
+            "id":14,
+            "name":"NONA SERIES M19 TWS Earbuds BT 5.1 3D Touch True Wirele...",
+            "brand":"NONA",
+            "price":620,
+            "discount":58,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/p/n/k/m19-tws-earbuds-bt-5-1-3d-touch-true-wireless-headsets-earphones-original-imagnm3zdvapnk3g.jpeg?q=70"
+         },
+         {
+            "id":15,
+            "name":"APPLE AirPods Pro (2nd generation) Bluetooth Headset",
+            "brand":"APPLE",
+            "price":26900,
+            "discount":58,
+            "ratting":4.5,
+            "stock":4339,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/s/t/m/-original-imaghxgnjdgyghfw.jpeg?q=70"
+         },
+         {
+            "id":16,
+            "name":"boAt Airdopes 131 with upto 60 Hours and ASAP Charge Bl...",
+            "brand":"boAt",
+            "price":999,
+            "discount":66,
+            "ratting":4.0,
+            "stock":1553068,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/5/g/7/-original-imagqhswqrx7sn3w.jpeg?q=70"
+         },
+         {
+            "id":17,
+            "name":"truke Buds Q1+ with 80H Playtime, Quad Mic Adv.ENC, 12m...",
+            "brand":"truke",
+            "price":1099,
+            "discount":66,
+            "ratting":4.3,
+            "stock":1117,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/c/o/6/-original-imagsxa79awfkgzf.jpeg?q=70"
+         },
+         {
+            "id":18,
+            "name":"TecSox Slider Wireless Earbuds| IPX Truly Wireless |20h...",
+            "brand":"TecSox",
+            "price":679,
+            "discount":77,
+            "ratting":3.5,
+            "stock":17,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/h/h/slider-wireless-earbuds-ipx-truly-wireless-20hrs-best-low-original-imaghyuvbdezgzn8.jpeg?q=70"
+         },
+         {
+            "id":19,
+            "name":"NONA SERIES GRACEFULLY CRAFTED M19 Tws Headsets Earphon...",
+            "brand":"NONA",
+            "price":620,
+            "discount":58,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/d/b/9/gracefully-crafted-m19-tws-headsets-earphones-wireless-earbuds-original-imagnm4bdztfybtu.jpeg?q=70"
+         },
+         {
+            "id":20,
+            "name":"boAt Immortal 131 with Beast Mode, 40 Hours Playback an...",
+            "brand":"boAt",
+            "price":1399,
+            "discount":60,
+            "ratting":4.0,
+            "stock":25919,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/p/h/-original-imagtapyyc6awuzq.jpeg?q=70"
+         },
+         {
+            "id":21,
+            "name":"Boult Audio X10 TWS with 45Hrs Playtime, ENC Mic, 40ms ...",
+            "brand":"Boult",
+            "price":899,
+            "discount":70,
+            "ratting":4.0,
+            "stock":11026,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/5/y/x/-original-imagrvbmbfyjt2s3.jpeg?q=70"
+         },
+         {
+            "id":22,
+            "name":"Boult Audio Y1 with Zen ENC Mic, 40Hrs Playtime, Fast C...",
+            "brand":"Boult",
+            "price":1299,
+            "discount":76,
+            "ratting":4.1,
+            "stock":193711,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/h/c/s/-original-imaga4m8sz5ymcf7.jpeg?q=70"
+         },
+         {
+            "id":23,
+            "name":"realme Buds T300 with 12.4mm Driver, 30dB ANC, 360 Spat...",
+            "brand":"realme",
+            "price":2299,
+            "discount":42,
+            "ratting":4.4,
+            "stock":189,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/y/o/-original-imagt3vwuweuwk9v.jpeg?q=70"
+         },
+         {
+            "id":24,
+            "name":"boAt Airdopes 161 with 40 Hours Playback, ASAP Charge &...",
+            "brand":"boAt",
+            "price":1199,
+            "discount":51,
+            "ratting":4.0,
+            "stock":544660,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/y/c/-original-imagrkek2hhfjr7z.jpeg?q=70"
+         },
+         {
+            "id":25,
+            "name":"boAt Airdopes�161�with 40 Hours Playback, ASAP Charge &...",
+            "brand":"boAt",
+            "price":1199,
+            "discount":51,
+            "ratting":4.0,
+            "stock":544660,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/i/o/h/-original-imags36kchxetkkk.jpeg?q=70"
+         },
+         {
+            "id":26,
+            "name":"Seashot M19 Earbuds/TWS/buds 5.1 Earbuds with 280H Play...",
+            "brand":"Seashot",
+            "price":539,
+            "discount":82,
+            "ratting":3.7,
+            "stock":26121,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/d/b/o/m19-earbuds-tws-buds-5-1-earbuds-with-280h-playtime-headphones-original-imagr8z542fcypgh.jpeg?q=70"
+         },
+         {
+            "id":27,
+            "name":"Boult Audio Y1 with Zen ENC Mic, 40Hrs Playtime, Fast C...",
+            "brand":"Boult",
+            "price":1299,
+            "discount":76,
+            "ratting":4.1,
+            "stock":193711,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/x/w/-original-imaga4m7bc96fyrb.jpeg?q=70"
+         },
+         {
+            "id":28,
+            "name":"truke Clarity 5, 6 Mics Adv.ENC, Dual Pairing, 80H Play...",
+            "brand":"truke",
+            "price":1499,
+            "discount":57,
+            "ratting":3.9,
+            "stock":662,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/8/e/0/-original-imagsjybkremefwu.jpeg?q=70"
+         },
+         {
+            "id":29,
+            "name":"NONA SERIES M19 Earbuds Upto 48 Hours Playback with Pow...",
+            "brand":"NONA",
+            "price":620,
+            "discount":58,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/x/a/f/m19-tws-bluetooth-03-shop-with-flow-original-imaghz4tbr6yfydu.jpeg?q=70"
+         },
+         {
+            "id":30,
+            "name":"MZ Mpods 10 (Wireless Earbuds) 1200mAh Battery True Wir...",
+            "brand":"MZ",
+            "price":399,
+            "discount":69,
+            "ratting":3.7,
+            "stock":5203,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/6/r/mpods-10-wireless-earbuds-1200mah-battery-true-wireless-original-imagk3jg3ryftbmn.jpeg?q=70"
+         },
+         {
+            "id":31,
+            "name":"Boult Audio X50 with 40Hr Battery, Quad Mic ENC, 45ms U...",
+            "brand":"Boult",
+            "price":1299,
+            "discount":74,
+            "ratting":4.0,
+            "stock":62979,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/u/b/-original-imagzdhnvfgsft9n.jpeg?q=70"
+         },
+         {
+            "id":32,
+            "name":"TecSox Bullet Wireless Earbuds| IPX Truly Wireless |25h...",
+            "brand":"TecSox",
+            "price":700,
+            "discount":76,
+            "ratting":3.9,
+            "stock":414,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l2f20sw0/headphone/j/b/s/bullet-wireless-gamebuds-ipx-truly-wireless-25hrs-best-low-original-imagdrrgfpy7nfpy.jpeg?q=70"
+         },
+         {
+            "id":33,
+            "name":"SAMSUNG Galaxy Buds 2 Bluetooth Headset",
+            "brand":"SAMSUNG",
+            "price":6299,
+            "discount":54,
+            "ratting":4.4,
+            "stock":8213,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/kst9gnk0/headphone/o/l/s/galaxy-buds-2-sm-r177nzkainu-samsung-original-imag6arjrmydyyef.jpeg?q=70"
+         },
+         {
+            "id":34,
+            "name":"NONA SERIES Premium M19 tws bluetooth 5.0 wireless Digi...",
+            "brand":"NONA",
+            "price":620,
+            "discount":58,
+            "ratting":-1.0,
+            "stock":-1,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/r/j/6/bbd-m19-bluetooth-gaming-headset-blue-seed-original-imagk6p8rzy8bzku.jpeg?q=70"
+         },
+         {
+            "id":35,
+            "name":"realme Buds Air 5 with 50dB ANC, 12.4mm Dynamic Bass Dr...",
+            "brand":"realme",
+            "price":3499,
+            "discount":41,
+            "ratting":4.3,
+            "stock":811,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/1/x/j/-original-imagsgfbgrfhy7vm.jpeg?q=70"
+         },
+         {
+            "id":36,
+            "name":"boAt Airdopes 161 Pro with 50 HRS Playback, ASAP Charge...",
+            "brand":"boAt",
+            "price":1099,
+            "discount":68,
+            "ratting":3.6,
+            "stock":12000,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/b/f/6/-original-imagrqxsnwg4f9yj.jpeg?q=70"
+         },
+         {
+            "id":37,
+            "name":"TecSox Bullet Wireless Gamebuds| IPX Truly Wireless |25...",
+            "brand":"TecSox",
+            "price":699,
+            "discount":76,
+            "ratting":3.3,
+            "stock":6,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/l0jwbrk0/headphone/j/d/b/bullet-wireless-earbuds-ipx-truly-wireless-25hrs-best-low-original-imagcbbwagtefxpx.jpeg?q=70"
+         },
+         {
+            "id":38,
+            "name":"Boult Audio K20 with Quad Mic ENC, 32H Battery Life, Lo...",
+            "brand":"Boult",
+            "price":999,
+            "discount":56,
+            "ratting":4.0,
+            "stock":2501,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/e/7/-original-imagsc5jcv34t8vf.jpeg?q=70"
+         },
+         {
+            "id":39,
+            "name":"realme Buds Air 5 Pro with 50dB ANC, 360 Spatial Audio ...",
+            "brand":"realme",
+            "price":4999,
+            "discount":37,
+            "ratting":4.4,
+            "stock":1224,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/n/n/-original-imagsjzc93u5eskr.jpeg?q=70"
+         },
+         {
+            "id":40,
+            "name":"Noise Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...",
+            "brand":"Noise",
+            "price":1299,
+            "discount":56,
+            "ratting":4.1,
+            "stock":330012,
+            "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/d/q/r/-original-imagp6skt77zsdjt.jpeg?q=70"
+         }
+      ]
+   }
+}

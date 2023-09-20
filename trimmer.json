@@ -1,0 +1,404 @@
+{
+    "trimmer": [
+        {
+           "id":1,
+           "name":"NOVA NHT 1074 USB Trimmer 30 min  Runtime 4 Length Sett...",
+           "brand":"NOVA",
+           "price":494,
+           "discount":47,
+           "ratting":3.9,
+           "stock":234199,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kokdci80/trimmer/q/y/b/0-5-9-mm-stainless-steel-nht-1074-usb-cordless-nova-original-imag2znnv9yvzmtr.jpeg?q=70"
+        },
+        {
+           "id":2,
+           "name":"NOVA NHT 1039 USB Trimmer 45 min  Runtime 4 Length Sett...",
+           "brand":"NOVA",
+           "price":494,
+           "discount":38,
+           "ratting":4.0,
+           "stock":68764,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kzegk280/trimmer/l/q/j/0-5-12-mm-nht-1039-usb-stainless-steel-cordless-nova-original-imagbf7jwr54j4gg.jpeg?q=70"
+        },
+        {
+           "id":3,
+           "name":"PHILIPS BT3101/15 Trimmer 45 min  Runtime 10 Length Set...",
+           "brand":"PHILIPS",
+           "price":1046,
+           "discount":30,
+           "ratting":4.2,
+           "stock":254202,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kuof5ow0/trimmer/7/z/f/0-5-10-mm-bt3101-15-stainless-steel-cordless-philips-original-imag7r4r7ztgnuyk.jpeg?q=70"
+        },
+        {
+           "id":4,
+           "name":"PHILIPS BT1233/18 Trimmer 30 min  Runtime 4 Length Sett...",
+           "brand":"PHILIPS",
+           "price":746,
+           "discount":21,
+           "ratting":4.1,
+           "stock":174867,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/k/7/v/1-7-mm-bt1233-18-stainless-steel-cordless-philips-original-imagzgwgrdtxhgbu.jpeg?q=70"
+        },
+        {
+           "id":5,
+           "name":"Flipkart SmartBuy MultiTrim Runtime: 60 min Multi Purpo...",
+           "brand":"Flipkart",
+           "price":578,
+           "discount":61,
+           "ratting":4.2,
+           "stock":33546,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kgtqhe80-0/trimmer/w/h/z/0-25-9-mm-pr-1900-stainless-steel-cordless-flipkart-smartbuy-original-imafwzby8fnedmcv.jpeg?q=70"
+        },
+        {
+           "id":6,
+           "name":"VGR V-055 Professional Hair Trimmer Trimmer 120 min  Ru...",
+           "brand":"VGR",
+           "price":658,
+           "discount":73,
+           "ratting":4.2,
+           "stock":26373,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/i/h/e/0-5-12-mm-v-055-professional-hair-trimmer-stainless-steel-corded-original-imagt79fz2f6tmgw.jpeg?q=70"
+        },
+        {
+           "id":7,
+           "name":"Flipkart SmartBuy ATC002 Trimmer 90 min  Runtime 20 Len...",
+           "brand":"Flipkart",
+           "price":549,
+           "discount":65,
+           "ratting":4.1,
+           "stock":12408,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kp1imq80/trimmer/w/l/m/1-10-mm-titanium-coated-atc002-corded-cordless-flipkart-smartbuy-original-imag3d9qpwqj4r5u.jpeg?q=70"
+        },
+        {
+           "id":8,
+           "name":"NOVA NG 1153 Digital USB Trimmer 160 min  Runtime 20 Le...",
+           "brand":"NOVA",
+           "price":1349,
+           "discount":59,
+           "ratting":4.1,
+           "stock":125848,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/ko4ni4w0/trimmer/x/v/k/0-5-12-mm-stainless-steel-ng-1153-digital-usb-corded-cordless-original-imag2ngynbhz6p43.jpeg?q=70"
+        },
+        {
+           "id":9,
+           "name":"NOVA NHT 1052 USB Trimmer 90 min  Runtime 40 Length Set...",
+           "brand":"NOVA",
+           "price":749,
+           "discount":62,
+           "ratting":4.1,
+           "stock":239374,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/koenl3k0/trimmer/k/d/f/0-5-20-mm-stainless-steel-nht-1052-usb-corded-cordless-nova-original-imag2v6sawwdgxp4.jpeg?q=70"
+        },
+        {
+           "id":10,
+           "name":"Mi by Xiaomi Beard 2C Trimmer 90 min  Runtime 40 Length...",
+           "brand":"Mi",
+           "price":1154,
+           "discount":42,
+           "ratting":4.3,
+           "stock":9046,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/u/e/x/0-5-20-mm-xmght2clf-stainless-steel-cordless-mi-original-imagzjj3fc7gaftc.jpeg?q=70"
+        },
+        {
+           "id":11,
+           "name":"NOVA NG 1152-05 USB Trimmer 60 min  Runtime 9 Length Se...",
+           "brand":"NOVA",
+           "price":1199,
+           "discount":39,
+           "ratting":4.1,
+           "stock":34793,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kr6oeq80/trimmer/a/e/m/0-5-15-mm-ng-1152-05-usb-stainless-steel-cordless-nova-original-imag5fybfhkdguru.jpeg?q=70"
+        },
+        {
+           "id":12,
+           "name":"NOVA NHT 1039/03 USB Trimmer 45 min  Runtime 5 Length S...",
+           "brand":"NOVA",
+           "price":494,
+           "discount":41,
+           "ratting":4.0,
+           "stock":68764,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/b/g/6/-original-imaghr3pp8rg5pgh.jpeg?q=70"
+        },
+        {
+           "id":13,
+           "name":"NOVA NHT 1053 USB Trimmer 160 min  Runtime 40 Length Se...",
+           "brand":"NOVA",
+           "price":799,
+           "discount":63,
+           "ratting":4.1,
+           "stock":239374,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/koenl3k0/trimmer/e/j/k/0-5-20-mm-stainless-steel-nht-1053-usb-corded-cordless-nova-original-imag2v6ne4uvssh6.jpeg?q=70"
+        },
+        {
+           "id":14,
+           "name":"PHILIPS OneBlade QP2525/10 Trimmer 45 min  Runtime 3 Le...",
+           "brand":"PHILIPS",
+           "price":1384,
+           "discount":37,
+           "ratting":4.3,
+           "stock":49163,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/v/0/r/-original-imagkfzdg8gd7paw.jpeg?q=70"
+        },
+        {
+           "id":15,
+           "name":"HAVELLS bt5113c Trimmer 120 min  Runtime 9 Length Setti...",
+           "brand":"HAVELLS",
+           "price":720,
+           "discount":63,
+           "ratting":4.1,
+           "stock":77292,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kd4uj680/trimmer/p/f/m/0-5-15-mm-stainless-steel-bt5113-corded-cordless-havells-original-imafu3qdnj9pyakk.jpeg?q=70"
+        },
+        {
+           "id":16,
+           "name":"BOMBAY SHAVING COMPANY Flash Charging Men Beard Trimmer...",
+           "brand":"BOMBAY",
+           "price":779,
+           "discount":35,
+           "ratting":4.2,
+           "stock":3106,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/e/k/h/1-20-mm-btb1199-black-stainless-steel-cordless-bombay-shaving-original-imagkjwdestczjvz.jpeg?q=70"
+        },
+        {
+           "id":17,
+           "name":"NOVA Professional Rechargeable and Cordless NHT 1083 Ha...",
+           "brand":"NOVA",
+           "price":1399,
+           "discount":41,
+           "ratting":4.2,
+           "stock":35295,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kolsscw0/trimmer/u/r/p/0-5-20-mm-stainless-steel-professional-rechargeable-and-cordless-original-imag3yxc6hhzydxe.jpeg?q=70"
+        },
+        {
+           "id":18,
+           "name":"NOVA NHT 1058 Waterproof Trimmer 200 min  Runtime 40 Le...",
+           "brand":"NOVA",
+           "price":899,
+           "discount":60,
+           "ratting":4.2,
+           "stock":22127,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l02r1jk0/trimmer/i/p/o/0-5-20-mm-nht-1058-waterproof-stainless-steel-corded-cordless-original-imagby7kgvz7ybpf.jpeg?q=70"
+        },
+        {
+           "id":19,
+           "name":"Misfit by boAt T50 Trimmer 160 mins  Runtime 40 Length ...",
+           "brand":"Misfit",
+           "price":799,
+           "discount":68,
+           "ratting":4.2,
+           "stock":82755,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kq9ta4w0/trimmer/7/i/b/0-5-20-mm-titanium-coated-t50-corded-cordless-misfit-original-imag4bpwy27jyg7q.jpeg?q=70"
+        },
+        {
+           "id":20,
+           "name":"VEGA SmartOne Series S2, VHTH-31 Fully Waterproof Trimm...",
+           "brand":"VEGA",
+           "price":999,
+           "discount":37,
+           "ratting":4.3,
+           "stock":26746,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/e/y/d/-original-imagpvfbvzyydyff.jpeg?q=70"
+        },
+        {
+           "id":21,
+           "name":"NOVA NHT 1073-00 USB Trimmer 60 min  Runtime 4 Length S...",
+           "brand":"NOVA",
+           "price":699,
+           "discount":30,
+           "ratting":4.2,
+           "stock":212591,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kolsscw0/trimmer/r/u/p/0-5-12-mm-stainless-steel-nht-1073-00-usb-cordless-nova-original-imag3yszbcgghaz2.jpeg?q=70"
+        },
+        {
+           "id":22,
+           "name":"NOVA NHT 1077 Trimmer 45 min  Runtime 4 Length Settings",
+           "brand":"NOVA",
+           "price":599,
+           "discount":45,
+           "ratting":3.8,
+           "stock":22083,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kokdci80/trimmer/p/z/p/0-5-9-mm-stainless-steel-nht-1077-cordless-nova-original-imag2znnmznwzj8b.jpeg?q=70"
+        },
+        {
+           "id":23,
+           "name":"NOVA NG 1145 Trimmer 60 min  Runtime 8 Length Settings",
+           "brand":"NOVA",
+           "price":899,
+           "discount":39,
+           "ratting":4.1,
+           "stock":37087,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kr6oeq80/trimmer/g/h/y/0-5-15-mm-ng-1145-stainless-steel-cordless-nova-original-imag5yzwu7pcsgep.jpeg?q=70"
+        },
+        {
+           "id":24,
+           "name":"PHILIPS MG3710/65 Trimmer 60 min  Runtime 8 Length Sett...",
+           "brand":"PHILIPS",
+           "price":1596,
+           "discount":20,
+           "ratting":4.2,
+           "stock":19033,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l1nwnm80/trimmer/d/h/a/1-12-mm-mg3710-65-stainless-steel-cordless-philips-original-imagd69ektvggrf8.jpeg?q=70"
+        },
+        {
+           "id":25,
+           "name":"PHILIPS BT3235/15 Trimmer 90 min  Runtime 20 Length Set...",
+           "brand":"PHILIPS",
+           "price":2029,
+           "discount":17,
+           "ratting":4.4,
+           "stock":10761,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l1pc3gw0/trimmer/p/g/h/0-5-10-mm-bt3235-15-titanium-coated-corded-cordless-philips-original-imagd7nsuqah6thm.jpeg?q=70"
+        },
+        {
+           "id":26,
+           "name":"Mi by Xiaomi Grooming Kit Trimmer 90 min  Runtime 40 Le...",
+           "brand":"Mi",
+           "price":1799,
+           "discount":45,
+           "ratting":4.2,
+           "stock":1209,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/q/v/u/-original-imagzzsghxbzhzph.jpeg?q=70"
+        },
+        {
+           "id":27,
+           "name":"NOVA SuperGroom NG 1148 USB Trimmer 45 min  Runtime 34 ...",
+           "brand":"NOVA",
+           "price":1099,
+           "discount":55,
+           "ratting":4.0,
+           "stock":41772,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/ko4ni4w0/trimmer/i/i/d/0-5-18-mm-stainless-steel-supergroom-ng-1148-usb-cordless-nova-original-imag2ngydqu9zmev.jpeg?q=70"
+        },
+        {
+           "id":28,
+           "name":"NOVA NHT 1096/002 Trimmer 120 min  Runtime 40 Length Se...",
+           "brand":"NOVA",
+           "price":699,
+           "discount":66,
+           "ratting":4.1,
+           "stock":7703,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kon887k0/trimmer/8/k/u/0-5-20-mm-stainless-steel-nht-1096-002-cordless-nova-original-imag3ftpvfhddbyf.jpeg?q=70"
+        },
+        {
+           "id":29,
+           "name":"PHILIPS BT3241/15 Trimmer 90 min  Runtime 20 Length Set...",
+           "brand":"PHILIPS",
+           "price":1949,
+           "discount":21,
+           "ratting":4.4,
+           "stock":7082,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kyrlifk0/trimmer/u/7/r/-original-imagaxgnmsb4ymdp.jpeg?q=70"
+        },
+        {
+           "id":30,
+           "name":"Mi Grooming kit Pro Fully Waterproof Trimmer 90 min  Ru...",
+           "brand":"Mi",
+           "price":2499,
+           "discount":50,
+           "ratting":4.3,
+           "stock":448,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/7/1/n/-original-imaghmzpxzmchf8x.jpeg?q=70"
+        },
+        {
+           "id":31,
+           "name":"NOVA NHT 1073-00 USB Trimmer 60 min  Runtime 4 Length S...",
+           "brand":"NOVA",
+           "price":699,
+           "discount":30,
+           "ratting":4.2,
+           "stock":212591,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kolsscw0/trimmer/p/s/p/0-5-12-mm-stainless-steel-nht-1073-00-usb-cordless-nova-original-imag3ysyn3unmpsz.jpeg?q=70"
+        },
+        {
+           "id":32,
+           "name":"NOVA NHT 1076 Trimmer 30 min  Runtime 4 Length Settings",
+           "brand":"NOVA",
+           "price":494,
+           "discount":45,
+           "ratting":3.9,
+           "stock":234199,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/koixwnk0/trimmer/l/x/w/0-5-9-mm-stainless-steel-nht-1076-cordless-nova-original-imag2yprhvjaz6nk.jpeg?q=70"
+        },
+        {
+           "id":33,
+           "name":"Flipkart SmartBuy M4D12B Runtime : 60 min Cordless USB ...",
+           "brand":"Flipkart",
+           "price":647,
+           "discount":13,
+           "ratting":4.2,
+           "stock":429851,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kfzq8i80-0/trimmer/0/c/3/0-5-10-mm-m4d12b-stainless-steel-cordless-flipkart-smartbuy-original-imafwbwzhmun2yvc.jpeg?q=70"
+        },
+        {
+           "id":34,
+           "name":"PHILIPS BT1232/15 Trimmer 30 mins  Runtime 3 Length Set...",
+           "brand":"PHILIPS",
+           "price":899,
+           "discount":10,
+           "ratting":4.1,
+           "stock":174867,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kuof5ow0/trimmer/m/q/v/0-5-7-mm-bt1232-15-stainless-steel-cordless-philips-original-imag7r4rh8ewvfnr.jpeg?q=70"
+        },
+        {
+           "id":35,
+           "name":"NOVA NHT 1059 Digital Waterproof Trimmer 200 min  Runti...",
+           "brand":"NOVA",
+           "price":999,
+           "discount":59,
+           "ratting":4.1,
+           "stock":16387,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l01blow0/trimmer/a/k/d/0-5-20-mm-nht-1059-digital-waterproof-stainless-steel-corded-original-imagbwszverm5qrh.jpeg?q=70"
+        },
+        {
+           "id":36,
+           "name":"NOVA NG 1154 Waterproof Trimmer 170 min  Runtime 20 Len...",
+           "brand":"NOVA",
+           "price":1399,
+           "discount":56,
+           "ratting":4.2,
+           "stock":3868,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/l0sgyvk0/trimmer/i/8/a/0-5-12-mm-ng-1154-waterproof-stainless-steel-corded-cordless-original-imagchwhegvsasxv.jpeg?q=70"
+        },
+        {
+           "id":37,
+           "name":"VEGA SmartOne Series S1 VHTH-30 Fully Waterproof Trimme...",
+           "brand":"VEGA",
+           "price":1099,
+           "discount":38,
+           "ratting":4.3,
+           "stock":26746,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/p/f/t/-original-imagpvfbnxx6spwx.jpeg?q=70"
+        },
+        {
+           "id":38,
+           "name":"NOVA NG 1153/05 Digital USB Trimmer 160 min  Runtime 20...",
+           "brand":"NOVA",
+           "price":1499,
+           "discount":55,
+           "ratting":4.1,
+           "stock":125848,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/kvcpn680/trimmer/c/j/v/0-5-12-mm-ng-1153-05-digital-usb-stainless-steel-corded-cordless-original-imag89wwzgzgrzcf.jpeg?q=70"
+        },
+        {
+           "id":39,
+           "name":"Gillette Proglide 4-in-1 Styler Trimmer 30 min  Runtime...",
+           "brand":"Gillette",
+           "price":949,
+           "discount":5,
+           "ratting":3.9,
+           "stock":6573,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/h/c/s/-original-imagnzabg9hbadpw.jpeg?q=70"
+        },
+        {
+           "id":40,
+           "name":"PHILIPS MG7715/65 Trimmer 120 min  Runtime 9 Length Set...",
+           "brand":"PHILIPS",
+           "price":3722,
+           "discount":18,
+           "ratting":4.3,
+           "stock":2685,
+           "image_url":"https://rukminim2.flixcart.com/image/612/612/xif0q/trimmer/9/l/6/-original-imagnggw4dzezbfv.jpeg?q=70"
+        }
+    ]
+}

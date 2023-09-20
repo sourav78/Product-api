@@ -1,0 +1,185 @@
+{
+    "shoes":[
+        {
+            "id": 1,
+            "name": "Campus",
+            "description": "Men's MAGNITE Running Shoes",
+            "price": 899,
+            "colors": ["#e81f11", "#86efe7", "#2c1250'", "#412766", "#ccb965"],
+            "discount": 31,
+            "ratting": 4.2,
+            "image_url": "https://m.media-amazon.com/images/I/611dBzIhgaL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id": 2,
+            "name": "Bacca Bucci",
+            "description": "Men's Running Shoe",
+            "price": 1199,
+            "colors": ["#0b6cdd", "#128464", "#3a6d15", "#e1a90a", "#b6fe60"],
+            "discount": 52,
+            "ratting": 42,
+            "image_url": "https://m.media-amazon.com/images/I/61pBTn04eKL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id": 3,
+            "name": "Campus",
+            "description": "Men's Harrow PRO Running Shoes",
+            "price": 869,
+            "colors": ["#e744c3", "#32192c", "#29acbe", "#846b2d", "#45806a"],
+            "discount": 35,
+            "ratting": 3.4,
+            "image_url": "https://m.media-amazon.com/images/I/71fWF3O4MUL._AC_UL480_FMwebp_QL65_.jpg"
+        },{
+            "id": 4,
+            "name": "Nike",
+            "description": "Air Winflo 10 Men's Running Shoes",
+            "price": 6000,
+            "colors": ["#ebf2b0", "#5f4811", "#a46a85", "#a12b6c", "#e327fb"],
+            "discount": 13,
+            "ratting": 4.5,
+            "image_url": "https://m.media-amazon.com/images/I/61RrW234u2L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 5,
+            "name": "Adidas",
+            "description": "Womens Runfalcon 2.0 Shoes",
+            "price": 17099,
+            "colors": ["#82e0bf", "#999cf3", "#2d81ce", "#95094a", "#19539b"],
+            "discount": 12,
+            "ratting": 4.8,
+            "image_url": "https://m.media-amazon.com/images/I/51ahxPF1hJL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 6,
+            "name": "ABROS",
+            "description": "Men's Tylor ASSG1299 Sports Shoes/Casual Shoes/Running",
+            "price": 2156,
+            "colors": ["#71176c", "#4df3b1", "#3b76c1", "#5a31b8", "#2377df"],
+            "discount": 20,
+            "ratting": 2.9,
+            "image_url": "https://m.media-amazon.com/images/I/71N8N9-xwDL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 7,
+            "name": "ASIAN",
+            "description": "Crystal-13 Sports Running,Walking & Gym Shoes",
+            "price": 1299,
+            "colors": ["#4e1dd8", "#6f3fe9", "#4252ab", "#107531", "#658d27"],
+            "discount": 42,
+            "ratting": 1.5,
+            "image_url": "https://m.media-amazon.com/images/I/51rdBvOe1+L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 8,
+            "name": "Red Tape",
+            "description": "Grey Sports Shoes for Men's- Lace-Up Shoes, Perfect Walkin",
+            "price": 1674,
+            "colors": ["#2cc897", "#341280", "#8827b2", "#6187f9", "#a7fa54"],
+            "discount": 75,
+            "ratting": 2.5,
+            "image_url": "https://m.media-amazon.com/images/I/5157yvIWmBL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 9,
+            "name": "Woodland",
+            "description": "Mens OGC 0110105 Sneaker",
+            "price": 2113,
+            "colors": ["#62bf80", "#87f96d", "#8434dc", "#55582a", "#62c8aa"],
+            "discount": 29,
+            "ratting": 4.2,
+            "image_url": "https://m.media-amazon.com/images/I/81x-Vn58hhL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 10,
+            "name": "new balance",
+            "description": "Mens 520i Running Shoe",
+            "price": 1799,
+            "colors": ["#e2dfcd", "#cfbf3f", "#e68797", "#3238d5", "#724ec0"],
+            "discount": 35,
+            "ratting": 3.5,
+            "image_url": "https://m.media-amazon.com/images/I/81cSXZ4rKvS._AC_UL480_QL65_.jpg"
+        },{
+            "id": 11,
+            "name": "Generic",
+            "description": "GlobalNiche® EXUSTAR E-SB740 BMX Shoe Black Size 48",
+            "price": 84659,
+            "colors": ["#e81f11", "#86efe7", "#2c1250'", "#412766", "#ccb965"],
+            "discount": 4,
+            "ratting": 3.9,
+            "image_url": "https://m.media-amazon.com/images/I/81umeozdiVL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 12,
+            "name": "ALTRA",
+            "description": "Men's AL0A7R6H Lone Peak All-WTHR Low 2 Trail Running",
+            "price": 38425,
+            "colors": ["#0b6cdd", "#128464", "#3a6d15", "#e1a90a", "#b6fe60"],
+            "discount": 10,
+            "ratting": 4.6,
+            "image_url": "https://m.media-amazon.com/images/I/71ROIoWzu+L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 13,
+            "name": "Giro",
+            "description": "Sector Mens Mountain Cycling Shoes",
+            "price": 38956,
+            "colors": ["#e744c3", "#32192c", "#29acbe", "#846b2d", "#45806a"],
+            "discount": 9,
+            "ratting": 2.5,
+            "image_url": "https://m.media-amazon.com/images/I/71Kwd+xkp4L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 14,
+            "name": "Fizik",
+            "description": "X5 Artica Cycling Shoe - Men's",
+            "price": 37119,
+            "colors": ["#ebf2b0", "#5f4811", "#a46a85", "#a12b6c", "#e327fb"],
+            "discount": 8,
+            "ratting": 1.9,
+            "image_url": "https://m.media-amazon.com/images/I/714AILMvbCL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 15,
+            "name": "Skechers",
+            "description": "Mens-MAX Cushioning Hyper-Running Shoes",
+            "price": 9799,
+            "colors": ["#82e0bf", "#999cf3", "#2d81ce", "#95094a", "#19539b"],
+            "discount": 19,
+            "ratting": 3.5,
+            "image_url": "https://m.media-amazon.com/images/I/613+PO+B4lL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 16,
+            "name": "Skechers",
+            "description": "mens Running Shoe",
+            "price": 9999,
+            "colors": ["#71176c", "#4df3b1", "#3b76c1", "#5a31b8", "#2377df"],
+            "discount": 15,
+            "ratting": 5.0,
+            "image_url": "https://m.media-amazon.com/images/I/61gCQwJVDtL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 17,
+            "name": "Nike",
+            "description": "Mens Air Max Terrascape 97 Running Shoe",
+            "price": 14944,
+            "colors": ["#4e1dd8", "#6f3fe9", "#4252ab", "#107531", "#658d27"],
+            "discount": 6,
+            "ratting": 4.5,
+            "image_url": "https://m.media-amazon.com/images/I/71p21itZV5L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 18,
+            "name": "Puma",
+            "description": "Mens Deviate Nitro 2 Running Shoe",
+            "price": 15999,
+            "colors": ["#2cc897", "#341280", "#8827b2", "#6187f9", "#a7fa54"],
+            "discount": 12,
+            "ratting": 5.0,
+            "image_url": "https://m.media-amazon.com/images/I/51LFOVxIm6L._AC_UL480_QL65_.jpg"
+        },{
+            "id": 19,
+            "name": "Puma",
+            "description": "Mens Fast-trac Nitro 2 Running Shoe",
+            "price": 10999,
+            "colors": ["#62bf80", "#87f96d", "#8434dc", "#55582a", "#62c8aa"],
+            "discount": 15,
+            "ratting": 4.1,
+            "image_url": "https://m.media-amazon.com/images/I/61sEjgwb0CL._AC_UL480_QL65_.jpg"
+        },{
+            "id": 20,
+            "name": "ASICS",
+            "description": "Gel-Kinsei Blast Grey Men's Running Shoes",
+            "price": 7789,
+            "colors": ["#e2dfcd", "#cfbf3f", "#e68797", "#3238d5", "#724ec0"],
+            "discount": 4,
+            "ratting": 4.7,
+            "image_url": "https://m.media-amazon.com/images/I/61qYNn+4MFL._AC_UL480_QL65_.jpg"
+        }
+    ]
+}
